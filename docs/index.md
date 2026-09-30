@@ -48,6 +48,25 @@ features:
 
 ## 关键数据
 
+<div class="stats-row">
+  <div class="stat-item">
+    <div class="stat-item__value">7</div>
+    <div class="stat-item__label">天</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-item__value">1950</div>
+    <div class="stat-item__label">公里</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-item__value">6+</div>
+    <div class="stat-item__label">途经城市</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-item__value">¥3-5k</div>
+    <div class="stat-item__label">预算（2人）</div>
+  </div>
+</div>
+
 - **总里程**: ~1950km
 - **途经城市**: 台州、温州、福鼎、霞浦、福州、衢州
 - **高速费**: 国庆免费（10/1 00:00 — 10/7 24:00）

@@ -31,3 +31,28 @@
 .VPContent {
   transition: opacity 0.2s;
 }
+
+/* ===== 关键数据统计行 ===== */
+.stats-row {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  margin: 24px 0;
+  flex-wrap: wrap;
+}
+
+.stat-item {
+  text-align: center;
+}
+
+.stat-item__value {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--vp-c-brand-1);
+}
+
+.stat-item__label {
+  font-size: 13px;
+  color: var(--vp-c-text-3);
+  margin-top: 2px;
+}
