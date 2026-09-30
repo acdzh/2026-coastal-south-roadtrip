@@ -42,10 +42,7 @@ onMounted(async () => {
     securityKey.value = s
     saved.value = true
   } else {
-    const ok = await tryDecryptFromQuery()
-    if (!ok) {
-      visible.value = true
-    }
+    await tryDecryptFromQuery()
   }
 })
 
@@ -86,6 +83,10 @@ function toggle() {
     <div v-else-if="saved && !visible" class="amap-key-saved" @click="toggle">
       <span>🗺️ 高德地图 Key 已配置</span>
       <button class="amap-key-btn amap-key-btn--sm" @click.stop="toggle">修改</button>
+    </div>
+    <div v-else-if="!saved && !visible" class="amap-key-hint-bar" @click="toggle">
+      <span>🗺️ 当前使用 OpenStreetMap 地图</span>
+      <button class="amap-key-btn amap-key-btn--sm" @click.stop="toggle">配置高德 Key</button>
     </div>
     <div v-if="visible" class="amap-key-form">
       <p class="amap-key-hint">
@@ -138,6 +139,17 @@ function toggle() {
   border-radius: 8px;
   font-size: 14px;
   color: var(--vp-c-danger-1);
+}
+.amap-key-hint-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background: var(--vp-c-bg-soft);
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 13px;
+  color: var(--vp-c-text-3);
 }
 .amap-key-form {
   padding: 16px;

@@ -1,0 +1,17 @@
+{
+  "name": "浙闽沿海自驾攻略",
+  "short_name": "自驾攻略",
+  "description": "2026国庆 7天浙闽沿海环线自驾攻略",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196F3",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

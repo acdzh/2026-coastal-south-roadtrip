@@ -3,9 +3,15 @@ title: "Day 1: 上海 → 台州温岭石塘半岛"
 date: "10月1日 周四"
 distance: "432km"
 driving: "6.3小时（不含堵车）"
+overnight: "石塘半岛停车场（免费）"
+charging: "今天不充电，550km续航覆盖432km"
+budget: "约200元"
+highlights: "石塘半岛（对戒观景平台 + 小箬村 + 金沙滩）"
 ---
 
 # Day 1: 上海出发
+
+<DaySummary />
 
 <Timeline :events="[
   { time: '05:00', label: '起床出发', type: 'drive' },
@@ -419,6 +425,7 @@ driving: "6.3小时（不含堵车）"
 ## 今日天气参考
 
 - 10月初台州地区历史天气：20°C ~ 28°C，降水概率约20-30%
+- **实时天气**: [台州天气](https://www.weather.com.cn/weather/101210601.shtml) · [温岭天气](https://www.weather.com.cn/weather/101210612.shtml)
 - 穿衣建议：白天短袖/薄长袖，晚上加一件薄外套
 - 车内温度提醒：10月初台州夜间约18-22°C，盖薄被即可
 - 10月仍在台风季尾声，出发前关注天气预报，如有台风影响需要调整行程

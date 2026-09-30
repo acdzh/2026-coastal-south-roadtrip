@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
   title: '2026国庆 · 浙闽沿海环线自驾',
@@ -7,6 +8,11 @@ export default defineConfig({
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
+    ['meta', { name: 'theme-color', content: '#2196F3' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
+    ['link', { rel: 'apple-touch-icon', href: '/favicon.svg' }],
   ],
 
   themeConfig: {
@@ -60,6 +66,40 @@ export default defineConfig({
   },
 
   vite: {
+    plugins: [
+      VitePWA({
+        registerType: 'autoUpdate',
+        workbox: {
+          globPatterns: ['**/*.{js,css,html,svg,woff,woff2}'],
+          runtimeCaching: [
+            {
+              urlPattern: /\/images\/.*\.(?:webp|jpg|png|gif)$/i,
+              handler: 'CacheFirst',
+              options: {
+                cacheName: 'images',
+                expiration: { maxEntries: 200, maxAgeSeconds: 30 * 24 * 60 * 60 },
+              },
+            },
+            {
+              urlPattern: /^https:\/\/router\.project-osrm\.org\//,
+              handler: 'NetworkFirst',
+              options: {
+                cacheName: 'osrm-routes',
+                expiration: { maxEntries: 20, maxAgeSeconds: 7 * 24 * 60 * 60 },
+              },
+            },
+            {
+              urlPattern: /^https:\/\/[abc]\.tile\.openstreetmap\.org\//,
+              handler: 'CacheFirst',
+              options: {
+                cacheName: 'osm-tiles',
+                expiration: { maxEntries: 500, maxAgeSeconds: 30 * 24 * 60 * 60 },
+              },
+            },
+          ],
+        },
+      }),
+    ],
     ssr: {
       noExternal: ['@amap/amap-jsapi-loader']
     }

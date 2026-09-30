@@ -3,9 +3,15 @@ title: "Day 4: 太姥山镇 → 霞浦三沙镇"
 date: "10月4日 周日"
 distance: "72km"
 driving: "1.1小时"
+overnight: "霞浦三沙镇停车场"
+charging: "今天不充电（短途72km）"
+budget: "约250元"
+highlights: "滩涂摄影、渔村"
 ---
 
 # Day 4: 霞浦摄影日
+
+<DaySummary />
 
 <Timeline :events="[
   { time: '07:30', label: '睡到自然醒', type: 'sleep' },
@@ -457,6 +463,7 @@ driving: "1.1小时"
 ## 今日天气参考
 
 - 10月初霞浦地区历史天气：22°C ~ 28°C，降水概率约20%
+- **实时天气**: [霞浦天气](https://www.weather.com.cn/weather/101230502.shtml)
 - 穿衣建议：白天短袖/薄长袖，日落后加薄外套（海边风大）
 - 车内温度提醒：10月初霞浦夜间约20-24°C，比浙江温暖一点
 - 摄影提示：多云天反而比晴天出片，云层能创造丁达尔光和色彩层次

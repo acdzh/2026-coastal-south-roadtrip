@@ -104,6 +104,18 @@ onUnmounted(() => {
 <template>
   <div class="location-map">
     <div ref="mapContainer" class="location-map-container" />
+    <div class="location-map-actions">
+      <a
+        :href="`https://uri.amap.com/marker?position=${props.lng},${props.lat}&name=${encodeURIComponent(props.name || '')}`"
+        target="_blank"
+        rel="noopener"
+      >高德导航</a>
+      <a
+        :href="`https://maps.apple.com/?ll=${props.lat},${props.lng}&q=${encodeURIComponent(props.name || '')}`"
+        target="_blank"
+        rel="noopener"
+      >Apple 地图</a>
+    </div>
   </div>
 </template>
 
@@ -117,6 +129,24 @@ onUnmounted(() => {
 .location-map-container {
   width: 100%;
   height: 200px;
+}
+.location-map-actions {
+  display: flex;
+  gap: 8px;
+  padding: 8px 0;
+  justify-content: center;
+}
+.location-map-actions a {
+  font-size: 13px;
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  padding: 4px 12px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  background: var(--vp-c-bg-soft);
+}
+.location-map-actions a:hover {
+  border-color: var(--vp-c-brand-1);
 }
 @media (max-width: 640px) {
   .location-map-container {

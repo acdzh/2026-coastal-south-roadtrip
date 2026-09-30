@@ -3,9 +3,15 @@ title: "Day 5: 霞浦 → 福州 → 平潭岛"
 date: "10月5日 周一"
 distance: "304km"
 driving: "4.2小时"
+overnight: "平潭龙凤头 / 回福州"
+charging: "今晚必须充满！平潭或福州过夜充"
+budget: "约400元"
+highlights: "三坊七巷快闪 + 平潭岛（北港村、环岛路、蓝眼泪）"
 ---
 
 # Day 5: 福州快闪 + 平潭海岛
+
+<DaySummary />
 
 <Timeline :events="[
   { time: '05:00', label: '可选：北岐滩涂看日出', type: 'spot' },
@@ -429,6 +435,7 @@ Day 5 走 G15 沈海（霞浦→福州184km）+ 福州→平潭（120km），沿
 ## 天气参考
 
 - 10月初福州/平潭地区历史天气：22°C ~ 30°C
+- **实时天气**: [福州天气](https://www.weather.com.cn/weather/101230101.shtml) · [平潭天气](https://www.weather.com.cn/weather/101230108.shtml)
 - 平潭比福州风大（海岛），体感温度低2-3°C，带一件风衣
 - 平潭10月偶有台风尾部影响，关注天气预报
 - 桥上横风注意

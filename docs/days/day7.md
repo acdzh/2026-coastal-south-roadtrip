@@ -3,9 +3,15 @@ title: "Day 7: 衢州 → 上海（回程）"
 date: "10月7日 周三"
 distance: "407km"
 driving: "5.3小时"
+overnight: "到家！"
+charging: "衢州充满出发，到家约剩25%"
+budget: "约200元"
+highlights: "轻松回家"
 ---
 
 # Day 7: 衢州 → 上海
+
+<DaySummary />
 
 <Timeline :events="[
   { time: '06:30', label: '起床整理', type: 'drive' },

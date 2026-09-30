@@ -3,9 +3,15 @@ title: "Day 6: 福州 → 衢州（回程）"
 date: "10月6日 周二"
 distance: "468km"
 driving: "6.2小时"
+overnight: "衢州市区停车场"
+charging: "南平或武夷山服务区中途必充"
+budget: "约250元"
+highlights: "衢州三头一掌、水亭门夜游"
 ---
 
 # Day 6: 福州 → 衢州
+
+<DaySummary />
 
 <Timeline :events="[
   { time: '07:00', label: '起床整理出发', type: 'drive' },
@@ -352,6 +358,7 @@ driving: "6.2小时"
 ## 今日天气参考
 
 - 10月初衢州地区历史天气：15°C ~ 26°C，降水概率约15-20%
+- **实时天气**: [衢州天气](https://www.weather.com.cn/weather/101210801.shtml)
 - 穿衣建议：白天薄长袖，晚上加外套。衢州内陆昼夜温差大，白天可能还热，晚上就凉了。
 - 车内温度提醒：10月初衢州夜间约15-20°C，比前几天沿海的夜晚更凉，盖厚一点的被子。
 

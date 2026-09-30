@@ -48,11 +48,13 @@ const state = computed(() => {
     </div>
     <div v-else-if="state.type === 'departure'" class="countdown countdown--go">
       <span class="countdown__text">今天出发！🚗</span>
+      <a href="/days/day1" class="countdown__link">查看今天行程 →</a>
     </div>
     <div v-else-if="state.type === 'during'" class="countdown countdown--during">
       <span class="countdown__label">行程第</span>
       <span class="countdown__number">{{ state.day }}</span>
       <span class="countdown__label">天</span>
+      <a :href="'/days/day' + state.day" class="countdown__link">查看今天行程 →</a>
     </div>
     <div v-else class="countdown countdown--ended">
       <span class="countdown__text">旅途已结束，共 {{ tripDays }} 天 {{ totalKm }}km</span>
@@ -71,6 +73,8 @@ const state = computed(() => {
   display: flex;
   align-items: baseline;
   gap: 6px;
+  flex-wrap: wrap;
+  justify-content: center;
   padding: 16px 32px;
   border-radius: 12px;
   background: var(--vp-c-bg-soft);
@@ -94,6 +98,20 @@ const state = computed(() => {
   font-size: 28px;
   font-weight: 700;
   color: var(--vp-c-brand-1);
+}
+
+.countdown__link {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 8px;
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.countdown__link:hover {
+  text-decoration: underline;
 }
 
 .countdown--go {

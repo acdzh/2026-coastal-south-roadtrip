@@ -3,9 +3,15 @@ title: "Day 2: 台州石塘半岛 → 温州洞头岛"
 date: "10月2日 周五"
 distance: "157km"
 driving: "2.7小时（不含堵车）"
+overnight: "洞头岛停车场"
+charging: "石塘镇充电到80%"
+budget: "约350元"
+highlights: "沿海公路、洞头岛"
 ---
 
 # Day 2: 石塘 → 洞头
+
+<DaySummary />
 
 <Timeline :events="[
   { time: '07:00', label: '起床，石塘镇吃嵌糕早餐', type: 'food' },
@@ -443,6 +449,7 @@ driving: "2.7小时（不含堵车）"
 ## 今日天气参考
 
 - 10月初温州地区历史天气：19°C ~ 27°C，降水概率约25-30%
+- **实时天气**: [温州天气](https://www.weather.com.cn/weather/101210701.shtml) · [洞头天气](https://www.weather.com.cn/weather/101210711.shtml)
 - 穿衣建议：白天短袖/薄长袖，傍晚海边加薄外套。海岛风大，防风外套比保暖重要。
 - 车内温度提醒：10月初洞头夜间约17-21°C，盖薄被即可。海岛湿度大，可能感觉比实际温度凉。
 - 10月仍在台风季尾声，出发前关注天气预报。
