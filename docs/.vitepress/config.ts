@@ -34,7 +34,7 @@ export default defineConfig({
           { text: 'Day 2: 台州 → 温州', link: '/days/day2' },
           { text: 'Day 3: 温州 → 福鼎', link: '/days/day3' },
           { text: 'Day 4: 福鼎 → 霞浦', link: '/days/day4' },
-          { text: 'Day 5: 霞浦 → 福州', link: '/days/day5' },
+          { text: 'Day 5: 霞浦 → 福州 → 平潭', link: '/days/day5' },
           { text: 'Day 6: 福州 → 衢州（回程）', link: '/days/day6' },
           { text: 'Day 7: 衢州 → 上海（回程）', link: '/days/day7' },
         ]
