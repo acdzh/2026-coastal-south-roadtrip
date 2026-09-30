@@ -8,6 +8,7 @@ import Timeline from '../components/Timeline.vue'
 import ImageGallery from '../components/ImageGallery.vue'
 import BudgetTable from '../components/BudgetTable.vue'
 import ChargingPlan from '../components/ChargingPlan.vue'
+import LocationMap from '../components/LocationMap.vue'
 import './custom.css'
 
 export default {
@@ -21,5 +22,6 @@ export default {
     app.component('ImageGallery', ImageGallery)
     app.component('BudgetTable', BudgetTable)
     app.component('ChargingPlan', ChargingPlan)
+    app.component('LocationMap', LocationMap)
   }
 } satisfies Theme

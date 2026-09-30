@@ -173,6 +173,8 @@ driving: "1.1小时"
   xhs-link="https://www.xiaohongshu.com/explore/68d969cd000000001203d183"
 />
 
+<LocationMap :lat="26.8830" :lng="120.0731" name="霞浦三沙镇" />
+
 | 项目 | 详情 |
 |------|------|
 | 在哪吃 | 三沙镇中心街上的海鲜排档。高德搜"三沙海鲜"。到了看哪家门口海鲜鲜活、本地人多就进。 |
@@ -235,6 +237,8 @@ driving: "1.1小时"
   xhs-link="https://www.xiaohongshu.com/explore/6a5f8a790000000011012f71"
 />
 
+<LocationMap :lat="26.8640" :lng="120.0982" name="小皓沙滩" />
+
 | 项目 | 详情 |
 |------|------|
 | 地址 | 霞浦县三沙镇小皓村，导航搜"小皓沙滩" |
@@ -269,6 +273,8 @@ driving: "1.1小时"
   description="霞浦日落摄影圣地，1978赞的本地人推荐！村子建在山坡上，面朝西边大海，日落时分整个海面被染成金红色，滩涂上的紫菜架剪影如同水墨画。这是今天的压轴。"
   xhs-link="https://www.xiaohongshu.com/explore/6869bf7b000000000d018268"
 />
+
+<LocationMap :lat="26.8500" :lng="120.0750" name="东壁村" />
 
 | 项目 | 详情 |
 |------|------|
@@ -376,6 +382,8 @@ driving: "1.1小时"
   description="免费停车 | 建议选靠近北岐方向的点位，方便明早看日出"
   xhs-link="https://www.xiaohongshu.com/explore/68eb564400000000040122cb"
 />
+
+<LocationMap :lat="26.8830" :lng="120.0731" name="霞浦床车过夜" />
 
 ### 过夜点详细评估
 
