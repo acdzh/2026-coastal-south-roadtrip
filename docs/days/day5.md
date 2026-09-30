@@ -1,0 +1,600 @@
+---
+title: "Day 5: 霞浦三沙 → 福州"
+date: "10月5日 周一"
+distance: "184km"
+driving: "2.7小时"
+---
+
+# Day 5: 此行最南端 -- 福州
+
+<Timeline :events="[
+  { time: '05:00', label: '可选：北岐滩涂看日出', type: 'spot' },
+  { time: '07:00', label: '三沙镇早餐', type: 'food' },
+  { time: '08:00', label: '出发前往福州', type: 'drive' },
+  { time: '10:40', label: '抵达福州', type: 'drive' },
+  { time: '11:00', label: '三坊七巷', type: 'spot' },
+  { time: '12:30', label: '午餐：锅边糊+鱼丸+肉燕', type: 'food' },
+  { time: '13:30', label: '上下杭历史街区', type: 'spot' },
+  { time: '15:00', label: '烟台山公园', type: 'spot' },
+  { time: '17:00', label: '福州海鲜市场采购', type: 'food' },
+  { time: '18:30', label: '晚餐：佛跳墙', type: 'food' },
+  { time: '20:00', label: '福州温泉泡澡（今日洗澡）', type: 'sleep' },
+  { time: '22:00', label: '充电 + 过夜', type: 'sleep' },
+]" />
+
+## 今日概览
+
+| 项目 | 内容 |
+|------|------|
+| 驾驶距离 | 184km |
+| 预计驾驶时间 | 2.7小时 |
+| 路线 | G15沈海高速 → G1505福州绕城 |
+| 核心目的地 | 三坊七巷、上下杭、烟台山 |
+| 充电建议 | 今天必须在福州充满电！明天回程468km，电量必须拉满。建议过夜时挂充电桩充一整晚。 |
+| 过夜地点 | 福州充电站附近停车场 / 福州站停车场 |
+| 洗澡 | 今天洗！福州温泉泡澡，洗得舒舒服服 |
+| 今日预算 | 餐饮约300（福州美食丰富）+ 温泉约80-120 + 充电约60-80 + 停车约20 = 约500元 |
+
+> [!WARNING] 充电提醒
+> 今天是此行最南端，明天开始掉头北上回程。次日路程468km，必须在福州充满电！建议找充电桩附近的过夜点，边睡边充。
+
+## 清晨可选：北岐滩涂日出
+
+<SpotCard
+  name="北岐滩涂日出"
+  type="spot"
+  image="/images/spots/fuding-xiapu-spots-霞浦北岐滩涂-050-0.webp"
+  address="福建省宁德市霞浦县松港街道北岐村"
+  description="《中国国家地理》评选的中国最美滩涂。日出时分，光影与滩涂紫菜架交织，是摄影圣地。从三沙镇开车约40分钟。"
+  xhs-link="https://www.xiaohongshu.com/explore/6929673e000000000d0378f2?xsec_token=ABp94GcieL7Iy2qsyRPP5RCvzeetqeSXrv4l8lE0fLHKU="
+  :skip-index="3"
+/>
+
+### 去不去？
+
+这是一个凌晨5点起床的项目。10月份日出约5:40，需要5:00前到达占机位。从三沙镇出发约40分钟车程，意味着4:20就得起来。
+
+**建议去的情况**：天气晴朗、前一晚睡得早、对摄影有兴趣。霞浦滩涂的日出确实是中国海岸线最经典的光影之一。
+
+**建议跳过的情况**：阴天/多云（没有光影效果）、前一晚太累、对摄影无感。跳过的话多睡两小时，7点起床直接吃早餐出发。
+
+| 项目 | 详情 |
+|------|------|
+| 地址 | 霞浦县松港街道北岐村 |
+| 导航 | 高德搜"北岐滩涂观景台" |
+| 从三沙镇出发 | 约40分钟车程 |
+| 最佳到达时间 | 日出前30分钟（约5:10） |
+| 门票 | 免费 |
+| 停车 | 观景台附近有停车场 |
+| 注意 | 山上观景台风大，带一件外套。不要下到滩涂上，危险且影响渔民作业。 |
+
+> [!NOTE] 霞浦滩涂｜中国海岸线的光影 (601赞)
+> 日出时滩涂上的紫菜架在光影中如同水墨画，是摄影师的天堂。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6929673e000000000d0378f2?xsec_token=ABp94GcieL7Iy2qsyRPP5RCvzeetqeSXrv4l8lE0fLHKU=)
+
+> [!NOTE] 霞浦北岐滩涂｜粉色日出攻略 (362赞)
+> 运气好能看到粉色日出，建议提前查天气和潮汐。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6962c9c6000000000a030922?xsec_token=ABo-o5giLMwje-mxaPEDrjKaJGM0w1OC1erTCyO-Le6Ts=)
+
+<ImageGallery :images="[
+  { src: '/images/spots/fuding-xiapu-spots-霞浦北岐滩涂-050-0.webp', alt: '北岐滩涂日出光影' },
+  { src: '/images/spots/fuding-xiapu-spots-霞浦北岐滩涂-051-0.webp', alt: '北岐滩涂粉色日出' },
+  { src: '/images/spots/fuding-xiapu-spots-霞浦北岐滩涂-052-0.webp', alt: '中国国家地理滩涂天花板' },
+]" />
+
+## 今日路线
+
+<RouteMap :day="5" />
+
+### 路线详情
+
+- **出发**：霞浦三沙镇
+- **上高速**：三沙收费站上G15沈海高速
+- **途经**：霞浦 → 福安 → 宁德 → 连江 → 福州
+- **高速编号**：G15沈海高速 → G1505福州绕城高速
+- **下高速**：福州城区相关出口（三坊七巷方向走鼓楼/东街口出口）
+- **总里程**：184km
+- **预计用时**：2.7小时（非节假日）
+
+### 驾驶体验提示
+
+- 🟢 **三沙到霞浦县城段（约30km）**：沿海公路，路况好，沿途能看到滩涂和海景。
+- 🟢 **霞浦到宁德段（G15，约80km）**：高速路况好，车流不大。
+- 🟡 **宁德到连江段（G15，约60km）**：山区隧道较多，注意隧道内限速。
+- 🟡 **福州绕城到城区（G1505，约20km）**：进城后车流增大，非高峰时段问题不大。10月5日国庆假期倒数第三天，回程高峰开始，但福州城区不是主要堵点。
+
+## 核心目的地1：三坊七巷
+
+<SpotCard
+  name="三坊七巷"
+  type="spot"
+  image="/images/spots/fuzhou-spots-福州三坊七巷-000-0.webp"
+  address="福建省福州市鼓楼区南后街"
+  description="中国城市仅存的里坊制度活化石，被誉为'明清建筑博物馆'。三条坊、七条巷，保留大量明清古建筑。林则徐、严复、冰心等名人故居均在此。街区免费开放，部分故居收费。"
+  xhs-link="https://www.xiaohongshu.com/explore/6a0d66810000000007026daf?xsec_token=ABnp1rWTkxI7u28Kr8xlK59uq-FlTPdND-hW7yv8g8gL0="
+  :skip-index="0"
+/>
+
+### 为什么来这里
+
+三坊七巷是福州的灵魂所在。这不是一条普通的商业步行街——它是中国现存规模最大的明清建筑街区，出过林则徐、严复、林觉民、冰心等一大批近现代名人。"一片三坊七巷，半部中国近现代史"不是吹的。巷子里白墙灰瓦、坊巷纵横，国庆虽然人多，但建筑格局在那里，值得一走。
+
+### 实操信息
+
+| 项目 | 详情 |
+|------|------|
+| 地址 | 福州市鼓楼区南后街 |
+| 导航 | 高德搜"三坊七巷" |
+| 停车 | 三坊七巷周边停车极难且贵。建议参考福州免费停车攻略，停远一点步行或打车过来。 |
+| 门票 | 街区免费开放。部分故居/展馆联票120元（可选，不买票也能逛完主要街巷） |
+| 是否需预约 | 否 |
+| 营业时间 | 街区全天开放，商铺/展馆约9:00-21:00 |
+| 建议游玩时间 | 1.5-2小时 |
+| 国庆人流 | 非常多。福州最热门景点，国庆期间人挤人。建议上午早到（11点前），避开下午高峰。 |
+
+### 游玩建议
+
+1. 从南后街北口进入，沿南后街一路走到南口，两侧坊巷交替探入。
+2. 重点看：**林觉民故居**（与冰心故居合一）、**严复故居**、**水榭戏台**。不买联票的话在门口看看建筑也很有味道。
+3. 南后街上有很多福州特色小吃店，可以边走边吃。
+4. 街区里洋品牌门店的招牌全部改为中文，这个"来福州都得说中国话"的细节很有趣。
+
+> [!NOTE] 个人分享一下在福州的旅游经验 (14592赞)
+> 三坊七巷、上下杭、烟台山是福州市区必去三件套。建议按这个顺序走，距离相近，半天可以串完。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a0d66810000000007026daf?xsec_token=ABnp1rWTkxI7u28Kr8xlK59uq-FlTPdND-hW7yv8g8gL0=)
+
+> [!NOTE] 管你什么洋牌 来福州都得说中国话 (8492赞)
+> 三坊七巷里所有品牌门店都用中文招牌，星巴克变"星巴克咖啡"，很有福州特色。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a33a1950000000017028bfd?xsec_token=AB5yClzJbmMQIaq9vRxUT3CNtzFoEynATWYaPgQuNkWqI=)
+
+<ImageGallery :images="[
+  { src: '/images/spots/fuzhou-spots-福州三坊七巷-000-0.webp', alt: '三坊七巷街景' },
+  { src: '/images/spots/fuzhou-spots-福州三坊七巷-001-0.webp', alt: '三坊七巷洋牌中文招牌' },
+  { src: '/images/spots/fuzhou-spots-福州三坊七巷-002-0.webp', alt: '七溜八溜不离福州' },
+]" />
+
+## 核心目的地2：上下杭
+
+<SpotCard
+  name="上下杭历史文化街区"
+  type="spot"
+  image="/images/spots/fuzhou-spots-福州上下杭-010-0.webp"
+  address="福建省福州市台江区上杭路/下杭路"
+  description="福州版'南京1912'。曾经的商业中心和码头区，现在是文艺气息浓厚的历史街区。比三坊七巷人少、更有生活气息。小店、咖啡馆、老建筑交织。"
+  xhs-link="https://www.xiaohongshu.com/explore/692e583c000000001f0091f1?xsec_token=AB7yav8zf9SJQADSBciGAp-cIyCZwx6tdSSKtUMhNcvMw="
+  :skip-index="1"
+/>
+
+### 实操信息
+
+| 项目 | 详情 |
+|------|------|
+| 地址 | 福州市台江区上杭路/下杭路 |
+| 导航 | 高德搜"上下杭历史文化街区" |
+| 距离三坊七巷 | 步行约20分钟，打车5分钟 |
+| 门票 | 免费 |
+| 建议游玩时间 | 1-1.5小时 |
+| 特色 | 比三坊七巷更接地气，小众文艺店铺多，适合慢逛。有不少隐藏咖啡馆。 |
+
+> [!NOTE] 福州上下杭｜1小时17个打卡点闭环漫步指南 (2581赞)
+> 上下杭可以一个小时走完17个打卡点，形成闭环路线。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/697aea4e0000000009038b7c?xsec_token=ABvRKM-eGIUOqVk_IvcBaVR170dns-HN-zVIUJ5pnAB7U=)
+
+> [!NOTE] 福州 我舍不得公开的小店（第一家）(4380赞)
+> 上下杭有很多藏在巷子里的宝藏小店，值得慢慢发掘。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/692e583c000000001f0091f1?xsec_token=AB7yav8zf9SJQADSBciGAp-cIyCZwx6tdSSKtUMhNcvMw=)
+
+<ImageGallery :images="[
+  { src: '/images/spots/fuzhou-spots-福州上下杭-009-0.webp', alt: '上下杭历史街区' },
+  { src: '/images/spots/fuzhou-spots-福州上下杭-010-0.webp', alt: '上下杭宝藏小店' },
+  { src: '/images/spots/fuzhou-spots-福州上下杭-011-0.webp', alt: '上下杭17个打卡点闭环路线' },
+]" />
+
+## 核心目的地3：烟台山
+
+<SpotCard
+  name="烟台山公园"
+  type="spot"
+  image="/images/spots/fuzhou-spots-福州烟台山-018-0.webp"
+  address="福建省福州市仓山区烟台山"
+  description="福州的万国建筑博览会。近代五口通商时期的领事馆区，保留大量欧式老建筑。山上可以俯瞰闽江。被称为'中国版里约热内卢'。近年成为福州最火的Citywalk目的地。"
+  xhs-link="https://www.xiaohongshu.com/explore/6a9b5617000000002502db69?xsec_token=ABQDduhXeGLPgcEntTA-m2GYpSrcRULT2WK-yNYoN_HI8="
+  :skip-index="0"
+/>
+
+### 为什么来这里
+
+烟台山是这趟福州之行最值得期待的目的地。23371赞的爆款帖不是白来的——山上遍布百年洋楼、领事馆遗址、教堂和古树，走在其中有种穿越到民国的感觉。从山顶望出去是闽江和对岸的福州城区，被网友称为"中国版里约热内卢"。比三坊七巷更有深度，比上下杭更有气势。
+
+### 实操信息
+
+| 项目 | 详情 |
+|------|------|
+| 地址 | 福州市仓山区烟台山 |
+| 导航 | 高德搜"烟台山公园" |
+| 距离上下杭 | 开车约10分钟（过闽江） |
+| 门票 | 免费（部分展馆单独收费，但外观建筑群和公园免费） |
+| 建议游玩时间 | 1.5-2小时 |
+| 最佳时间 | 下午3-5点，光线好，适合拍照 |
+
+### 游玩建议
+
+1. 从烟台山公园正门进入，沿山路漫步。
+2. 重点看：**乐群楼**（中国最早的洋人俱乐部）、**石厝教堂**、**仓山老洋房群**。
+3. 山不高，慢走一圈1.5小时足够。
+4. 下山后沿闽江边走走，傍晚的江景很美。
+
+> [!NOTE] 烟台山 (23371赞)
+> 福州烟台山，百年洋楼与闽江交相辉映，Citywalk绝佳目的地。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a9b5617000000002502db69?xsec_token=ABQDduhXeGLPgcEntTA-m2GYpSrcRULT2WK-yNYoN_HI8=)
+
+> [!NOTE] 福州烟台山｜沉浸式Citywalk (7393赞)
+> 烟台山Citywalk路线，串联所有核心建筑和观景点。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/697092f5000000000b010a39?xsec_token=ABlwcIpDLA5VUagtwGwgJzjQLCtbeRgmQIYe0OB6MpFpw=)
+
+> [!NOTE] 中国版里约热内卢 (5182赞)
+> 从烟台山山顶俯瞰闽江的角度，和里约热内卢基督山看瓜纳巴拉湾神似。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68fc74670000000005002f3f?xsec_token=ABmMwowCCVDJmXYj-v4qfJKI0A1-X0y8SyFxKyNOrhFkA=)
+
+<ImageGallery :images="[
+  { src: '/images/spots/fuzhou-spots-福州烟台山-018-0.webp', alt: '烟台山百年洋楼' },
+  { src: '/images/spots/fuzhou-spots-福州烟台山-019-0.webp', alt: '烟台山公园' },
+  { src: '/images/spots/fuzhou-spots-福州烟台山-020-0.webp', alt: '烟台山Citywalk' },
+]" />
+
+## 可选加站
+
+### 加站1：福州海鲜市场（可跳过指数：2/5）
+
+<SpotCard
+  name="福州海鲜市场（亚洲最大）"
+  type="food"
+  image="/images/food/fuzhou-food-福州海鲜市场-099-0.webp"
+  address="福建省福州市马尾区（具体以导航为准）"
+  description="号称亚洲最大的海鲜市场，规模惊人。即使不买海鲜，光逛市场长长见识也值得。"
+  xhs-link="https://www.xiaohongshu.com/explore/68b46b43000000001d018b2d?xsec_token=ABFQzfXvPAxOnhbgbDyXWP6xEzLhcJ4eiRp6lBgxRJ5Zg="
+  :skip-index="2"
+/>
+
+**什么情况下去**：对海鲜市场有兴趣、想见识亚洲最大规模的海鲜交易场面。可以在这里买海鲜找周边代加工。
+
+**什么情况下跳过**：市场离市中心有点距离，来回耗时。如果时间紧张优先保障三坊七巷/上下杭/烟台山三件套。
+
+| 项目 | 详情 |
+|------|------|
+| 导航 | 高德搜"福州海鲜市场" |
+| 建议时间 | 下午4-5点去，海鲜种类最全 |
+| 注意 | 买海鲜注意看秤，货比三家 |
+
+> [!NOTE] 在福州打卡亚洲最大的海鲜市场 (899赞)
+> 规模震撼，各种海鲜品种齐全，价格比餐厅便宜很多。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68b46b43000000001d018b2d?xsec_token=ABFQzfXvPAxOnhbgbDyXWP6xEzLhcJ4eiRp6lBgxRJ5Zg=)
+
+<ImageGallery :images="[
+  { src: '/images/food/fuzhou-food-福州海鲜市场-099-0.webp', alt: '亚洲最大海鲜市场' },
+  { src: '/images/food/fuzhou-food-福州海鲜市场-100-0.webp', alt: '福州西营里市场' },
+]" />
+
+### 加站2：福州小众景点（可跳过指数：3/5）
+
+福州还有一些小众但很有特色的地方，时间充裕可以加：
+
+- **"到此作甚"寺庙**（16249赞）：福州很有禅意的寺庙，门口写着"到此作甚"四个字，很有意思。[查看原帖](https://www.xiaohongshu.com/explore/6953db82000000001e016cfb?xsec_token=ABqoiRV8c8jHvyj7hTqm8W27u48kBWTKEVtOcbE7HYixM=)
+- **福州最lalaland的地方**（7819赞）：完全还原电影场景的拍摄地。[查看原帖](https://www.xiaohongshu.com/explore/6a1c255b0000000008002a0a?xsec_token=AB8Rz5fvcYKyNsz93y50sSe9Hz7HQgKdIjhnPqKg8WL_8=)
+
+## 今日美食
+
+今天是本次旅途美食的高潮日。福州小吃种类极多，一天吃不完，重点突出几个必吃项。
+
+### 早餐：三沙镇吃完再走
+
+在三沙镇解决早餐。三沙是霞浦被低估的美食小镇，海鲜粥、鱼面等本地早餐值得一试。
+
+> [!NOTE] 霞浦三沙镇，严重被低估的美食小镇 (450赞)
+> 三沙镇的海鲜粥和本地小吃性价比极高。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68d969cd000000001203d183?xsec_token=ABBJqopQg0DFIaJL9zTqEGtIiD9A6E1W-jImW9UzU33v0=)
+
+### 午餐：福州小吃大集合
+
+到福州后第一件事就是吃！推荐在三坊七巷南后街或者达明路美食街一带解决午餐，把福州几大名小吃一网打尽。
+
+#### 必吃1：锅边糊（鼎边糊）
+
+<SpotCard
+  name="锅边糊"
+  type="food"
+  image="/images/food/fuzhou-food-福州锅边糊-081-0.webp"
+  address="福州市区各早餐店/小吃店"
+  description="福州第一名小吃。米浆沿锅边烙成薄片，加虾米、蛏干、紫菜、花蛤等配料煮成一碗鲜美的糊。在福州人心中的地位相当于上海的葱油拌面。"
+  xhs-link="https://www.xiaohongshu.com/explore/694e4650000000001e03bee8?xsec_token=ABQAxok2yeGS40DOV6EAXy-8ItVPA_ewm0duI6Gxinvc8="
+/>
+
+| 项目 | 详情 |
+|------|------|
+| 人均 | 10-15元 |
+| 在哪吃 | 三坊七巷周边、达明路美食街、或任何老字号小吃店 |
+| 口感 | 米皮薄滑，汤底鲜美，配料丰富 |
+
+> [!NOTE] 福建福州美食地图 (1111赞)
+> 锅边糊是福州早餐的灵魂，一碗鲜到眉毛掉下来。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/694e4650000000001e03bee8?xsec_token=ABQAxok2yeGS40DOV6EAXy-8ItVPA_ewm0duI6Gxinvc8=)
+
+<ImageGallery :images="[
+  { src: '/images/food/fuzhou-food-福州锅边糊-081-0.webp', alt: '福州锅边糊' },
+  { src: '/images/food/fuzhou-food-福州锅边糊-082-0.webp', alt: '鼎边糊' },
+]" />
+
+#### 必吃2：福州鱼丸
+
+<SpotCard
+  name="福州鱼丸"
+  type="food"
+  image="/images/food/fuzhou-food-福州鱼丸-072-0.webp"
+  address="福州市区各小吃店"
+  description="福州鱼丸和普通鱼丸完全不同——外皮是鲨鱼/鳗鱼肉打成的鱼浆，里面包着猪肉馅，一口咬下去外层Q弹内层肉香。连李立群都馋。"
+  xhs-link="https://www.xiaohongshu.com/explore/6a6c4299000000003301068d?xsec_token=AB_HrM2jgNdqT6xbHwUcgTtjTBdAp18moYKTAj456LlZg="
+/>
+
+| 项目 | 详情 |
+|------|------|
+| 人均 | 10-15元 |
+| 特色 | 外层鱼浆Q弹，内馅猪肉鲜香，和街边的普通鱼丸完全两回事 |
+
+> [!NOTE] 李立群：爱吃福州鱼丸，买一包都舍不得煮 (863赞)
+> 连台湾演员李立群都对福州鱼丸念念不忘。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a6c4299000000003301068d?xsec_token=AB_HrM2jgNdqT6xbHwUcgTtjTBdAp18moYKTAj456LlZg=)
+
+<ImageGallery :images="[
+  { src: '/images/food/fuzhou-food-福州鱼丸-072-0.webp', alt: '福州鱼丸' },
+  { src: '/images/food/fuzhou-food-福州鱼丸-073-0.webp', alt: '福州鱼丸推荐清单' },
+]" />
+
+#### 必吃3：肉燕
+
+<SpotCard
+  name="福州肉燕"
+  type="food"
+  image="/images/food/fuzhou-food-福州肉燕-117-0.webp"
+  address="福州市区各小吃店"
+  description="福州非遗美食。不是馄饨！肉燕的皮是猪肉打成的燕皮（肉包肉），口感极其独特。福州人逢年过节必吃，太平燕是传统宴席第一道菜。"
+  xhs-link="https://www.xiaohongshu.com/explore/680780dd00000000070371cb?xsec_token=ABD7FeJMQ3YwZXoxCxKkvWUerE-TrN2T5hI5RpIuo2H2c="
+/>
+
+| 项目 | 详情 |
+|------|------|
+| 人均 | 10-15元 |
+| 特色 | 燕皮是猪肉捶打而成的薄片，"肉包肉"的奇特口感。和馄饨形似但完全不同。 |
+| 推荐 | 同利肉燕（老字号，三坊七巷附近有店） |
+
+> [!NOTE] 福建特产 -- 福州肉燕 (3434赞)
+> 肉燕是福州最有代表性的非遗美食，燕皮制作工艺复杂，一片燕皮要捶打上千次。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/680780dd00000000070371cb?xsec_token=ABD7FeJMQ3YwZXoxCxKkvWUerE-TrN2T5hI5RpIuo2H2c=)
+
+<ImageGallery :images="[
+  { src: '/images/food/fuzhou-food-福州肉燕-117-0.webp', alt: '福州肉燕' },
+  { src: '/images/food/fuzhou-food-福州肉燕-118-0.webp', alt: '肉燕制作' },
+  { src: '/images/food/fuzhou-food-福州肉燕-119-0.webp', alt: '非遗美食福州肉燕' },
+]" />
+
+### 福州小吃街扫荡
+
+除了上面三个必吃，福州还有大量小吃值得尝试。推荐去**达明路美食街**或**三坊七巷南后街**一路扫：
+
+- 花生汤、芋泥、荔枝肉、海蛎煎、春卷、光饼夹肉......
+
+> [!NOTE] 女生来了福州早市根本走不动道儿 (6891赞)
+> 福州的早市和小吃街种类多到吃不完，每样都想尝一口。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68d8fc270000000013014a18?xsec_token=ABS_2GsGwr5frU9giiizgBFc8tq-tjfSkywUkjp5TllIc=)
+
+> [!NOTE] 来了福州才知道之前看的攻略有多吓人 (5956赞)
+> 福州美食远超预期，小吃种类之多令人惊讶。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a57aa1f000000000803f3a9?xsec_token=ABuRwChOEQZ2gWUZjT7mUFzrpSLgypk8N3y_HpE7I96HA=)
+
+> [!NOTE] 关于我在福州两天吃了30顿 (5578赞)
+> 附不踩雷攻略，把福州能吃的全吃了一遍。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a56d3b9000000001003ddbd?xsec_token=AB_42m3kii0qLVvLhKwAwtMCk3Zeu4U4fcrcqy_7LpZ1o=)
+
+<ImageGallery :images="[
+  { src: '/images/food/fuzhou-food-福州小吃-063-0.webp', alt: '福州早市小吃' },
+  { src: '/images/food/fuzhou-food-福州小吃-064-0.webp', alt: '福州小吃攻略' },
+  { src: '/images/food/fuzhou-food-福州小吃-065-0.webp', alt: '福州两天吃30顿' },
+]" />
+
+### 晚餐：佛跳墙
+
+<SpotCard
+  name="佛跳墙"
+  type="food"
+  image="/images/food/fuzhou-food-福州佛跳墙-090-0.webp"
+  address="福州市区各餐厅"
+  description="来福州不吃佛跳墙等于白来。这道闽菜之王汇聚鲍鱼、海参、鱼翅、花胶、瑶柱等十余种名贵食材，用荷叶封坛文火慢炖。福州街头有平价版佛跳墙，25-50元一位就能吃到。"
+  xhs-link="https://www.xiaohongshu.com/explore/69f0506900000000350207d1?xsec_token=ABqPpAqtoTfrxfM0A29BwT6cIY2_lCKWiEqNsxiMp_9JM="
+/>
+
+| 项目 | 详情 |
+|------|------|
+| 人均 | 街头平价版25-50元/位，正式餐厅版100-200元/位 |
+| 推荐方式 | 先尝街头平价版（东街口/达明路一带有很多），性价比极高。正式版本预算充足再考虑。 |
+| 口感 | 汤底醇厚鲜美，食材软烂入味，喝一口汤就知道为什么叫"佛跳墙"了 |
+
+> [!NOTE] 福州新开的！个人觉得无法超越的佛跳墙 (5153赞)
+> 这家佛跳墙用料扎实，汤底浓郁到不像话。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/69f0506900000000350207d1?xsec_token=ABqPpAqtoTfrxfM0A29BwT6cIY2_lCKWiEqNsxiMp_9JM=)
+
+> [!NOTE] 福州街头25元鲟饭，28元佛跳墙，性价比拉满 (3124赞)
+> 福州街头的平价佛跳墙，28元一碗，料足汤鲜，旅行者的福音。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/697eab93000000000a02fac2?xsec_token=ABV5ID0JE4Anu0E8svkEcjeFkc49AQ8fmanKSliVjxNss=)
+
+<ImageGallery :images="[
+  { src: '/images/food/fuzhou-food-福州佛跳墙-090-0.webp', alt: '福州佛跳墙' },
+  { src: '/images/food/fuzhou-food-福州佛跳墙-091-0.webp', alt: '25元街头佛跳墙' },
+  { src: '/images/food/fuzhou-food-福州佛跳墙-092-0.webp', alt: '东街口佛跳墙' },
+]" />
+
+### 夜市/加餐
+
+如果晚上还吃得下，去逛逛福州夜市：
+
+> [!NOTE] 福州最好逛的夜市在这里 (821赞)
+> 周末还来！福州夜市小吃种类多，价格实惠。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/682dba310000000012000a29?xsec_token=ABGA8nR5m03-pPiSm88kSsf9PVL6QD4FZWK6UhCoHuaz8=)
+
+## 今晚重点：福州温泉泡澡
+
+<SpotCard
+  name="福州温泉"
+  type="sleep"
+  image="/images/sleep/fuzhou-sleep-福州温泉-144-0.webp"
+  address="福州市区多家温泉中心"
+  description="福州是中国三大温泉城市之一（另外两个是重庆和天津），市区地下就有温泉。福州的公共浴室（温泉澡堂）是当地特色体验，价格亲民，本地人天天泡。这是旅途中最舒服的洗澡方式。"
+  xhs-link="https://www.xiaohongshu.com/explore/6975fd41000000001a03029b?xsec_token=ABmjMB9wT5uZWBRepi2W6XibpEoEtJwGaoP4KeXxUwfrU="
+/>
+
+### 为什么今天洗
+
+连续几天赶路+睡车，今天在福州好好泡个温泉澡，洗去一身疲惫。福州温泉不是那种高端度假村的温泉——它是真正的市民温泉，几十块钱就能泡，热乎乎的天然温泉水，本地大叔大妈天天来。
+
+### 实操信息
+
+| 项目 | 详情 |
+|------|------|
+| 推荐去处 | 高德搜"福州温泉中心"或"福州澡堂"，选评分高的即可 |
+| 价格 | 约60-120元/人（含泡池+淋浴+休息区） |
+| 营业时间 | 大多数温泉中心营业到22:00-23:00 |
+| 建议时间 | 晚上8-10点去，吃完晚饭泡个澡，舒舒服服回车上睡觉 |
+| 带什么 | 自带毛巾（或现场买/租），换洗衣物。部分温泉中心提供一次性洗漱用品。 |
+| 注意 | 福州温泉是真温泉，水温较高（40-45°C），不要泡太久，每次15-20分钟为宜。 |
+
+> [!NOTE] 不得了的福州泡澡体验 (4914赞)
+> 福州的温泉澡堂太舒服了，几十块钱泡天然温泉，本地人的日常生活。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6975fd41000000001a03029b?xsec_token=ABmjMB9wT5uZWBRepi2W6XibpEoEtJwGaoP4KeXxUwfrU=)
+
+> [!NOTE] 本次福州之行最期待的环节！(3729赞)
+> 福州温泉果然名不虚传，泡完整个人都放松了。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/698968e1000000000a031e52?xsec_token=AB_bI7vfrjnRaCtOQnO5vsH0YoXz4phxEiMhaafVABPuE=)
+
+> [!NOTE] 福州大学生勇闯温泉中心 (2463赞)
+> 详细记录了福州温泉中心的体验过程和注意事项。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/67cd0274000000001203d8e3?xsec_token=ABPkhYqeBfGWMfzSJUwHehgDxkWDaVvHz0sN8W9UpVitg=)
+
+<ImageGallery :images="[
+  { src: '/images/sleep/fuzhou-sleep-福州温泉-144-0.webp', alt: '福州温泉泡澡体验' },
+  { src: '/images/sleep/fuzhou-sleep-福州温泉-145-0.webp', alt: '福州温泉中心' },
+  { src: '/images/sleep/fuzhou-sleep-福州温泉-146-0.webp', alt: '福州温泉' },
+]" />
+
+## 今晚过夜 + 充电
+
+<SpotCard
+  name="福州过夜 + 充满电"
+  type="sleep"
+  address="福州市区充电站附近停车场"
+  description="今晚最重要的任务：充满电！明天回程468km，电量必须拉满。找一个有充电桩的停车场，边睡边充。"
+  xhs-link="https://www.xiaohongshu.com/explore/664dc61000000000150092c2?xsec_token=ABo6-4_0D3G4c_O8JemfJpMfrkeC0USs_NstLaZgpiRBg="
+/>
+
+### 过夜策略
+
+今晚的过夜选择需要同时满足两个条件：**能充电** + **能睡觉**。
+
+#### 首选方案：充电站停车场过夜充电
+
+| 项目 | 详情 |
+|------|------|
+| 策略 | 泡完温泉后开到充电站，插上充电枪，睡一晚充满 |
+| 找充电站 | 高德/百度地图搜"充电站"，选有空闲桩位的。国庆期间充电站可能排队，建议晚上10点后去。 |
+| 停车费 | 部分充电站免费停车（充电期间），部分按小时收费 |
+| 注意 | 确认充电桩支持你的车型，确认桩位没有故障。到了先试充，确认正常出电再睡觉。 |
+
+#### 备选方案：福州站停车场
+
+| 项目 | 详情 |
+|------|------|
+| 地点 | 福州火车站附近停车场 |
+| 停车费 | 24小时封顶20元 |
+| 优势 | 价格便宜，有监控相对安全，周边配套齐全 |
+| 充电 | 附近需另找充电站，白天充好再过来 |
+
+> [!NOTE] 福州站停车24小时封顶20元 (327赞)
+> 福州站附近停车场24小时封顶只要20元，适合过夜。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/682ad6ab000000001101e3f9?xsec_token=ABkutagrxKjQslIDtMPNq6tKG7682iJgSetLJ6smaeqxw=)
+
+> [!NOTE] 福建10大绝美床车过夜露营点（个人亲测）(508赞)
+> 福建各地适合床车过夜的露营点汇总，含福州点位。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68fadef1000000000700c4bc?xsec_token=AB0KMkeJjmDrLq_OssAKu4ecMDC-weqaHkNcCMj2gVKiU=)
+
+### 福州停车攻略
+
+> [!TIP] 福州便宜停车场信息汇总 (3367赞)
+> 福州分享各种便宜/免费停车场信息，自驾游必看。包括各商场免费停车时长、路边免费时段等。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/664dc61000000000150092c2?xsec_token=ABo6-4_0D3G4c_O8JemfJpMfrkeC0USs_NstLaZgpiRBg=)
+
+> [!TIP] 福州免费停车的宝藏商场攻略 (990赞)
+> 多个商场提供免费停车，消费满一定金额还可延长免费时长。白天游玩时可以利用。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/67c976d6000000002900b959?xsec_token=ABxhCY4bqNCDOAkT4FV0NSC0Is2477TiKf5zWTSJ9SUfI=)
+
+<ImageGallery :images="[
+  { src: '/images/sleep/fuzhou-sleep-福州免费停车-135-0.webp', alt: '福州便宜停车场汇总' },
+  { src: '/images/sleep/fuzhou-sleep-福州免费停车-136-0.webp', alt: '福州免费停车商场' },
+  { src: '/images/sleep/fuzhou-sleep-福州睡车过夜-126-0.webp', alt: '福建床车过夜露营点' },
+  { src: '/images/sleep/fuzhou-sleep-福州睡车过夜-127-0.webp', alt: '福州站停车场' },
+]" />
+
+### 过夜 Tips
+
+- 泡完温泉身体暖和，回车上直接睡，体感最舒服。
+- 10月初福州夜间气温约20-25°C，比浙江段暖和，盖薄被即可。
+- 充电时注意不要堵住其他车位的进出。如果充电站只有你一辆车，挑角落的桩位停，更安静。
+- 充电完成后如果有提醒（App推送），及时拔枪避免占位费。或者选择慢充桩，刚好充一整晚。
+
+## 福州特产采购
+
+既然来了福州，可以顺便买点特产带回去：
+
+- **肉燕/燕皮**：真空包装，带回家自己煮，是福州最值得带的伴手礼
+- **鱼丸**：冷冻包装，车上有冰箱的话可以买
+- **佛跳墙料包**：一些老字号有礼盒装
+- **福鼎白茶**：如果前两天在福鼎没买，福州五里亭茶城也能买到
+
+> [!NOTE] 福建不做攻略瞎买版伴手礼 (2042赞)
+> 福建各地特产购买建议，包括肉燕、鱼丸、茶叶等。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/69a151d2000000000e00e921?xsec_token=ABm89mIRNyv58TZvzBZwPQFJGvzkHlvCI_7dgARQuOetc=)
+
+<ImageGallery :images="[
+  { src: '/images/food/fuzhou-food-福州特产-162-0.webp', alt: '福建特产' },
+  { src: '/images/food/fuzhou-food-福州特产-163-0.webp', alt: '福建伴手礼' },
+]" />
+
+## 今日天气参考
+
+- 10月初福州地区历史天气：22°C ~ 30°C，比浙江段暖和3-5°C
+- 穿衣建议：短袖即可，带一件薄外套以防室内空调冷
+- 车内温度提醒：10月初福州夜间约20-25°C，比前几天暖和，盖薄被足够
+- 福州10月偶有台风尾部影响，关注天气预报
+
+### 国庆营业提醒
+
+- ✅ 三坊七巷：全天开放，国庆期间人流巨大但商铺全开
+- ✅ 上下杭：全天开放，部分独立小店国庆可能休息
+- ✅ 烟台山：全天开放，公园免费
+- ✅ 温泉中心：国庆正常营业，热门时段（晚7-9点）可能需排队
+- ✅ 餐饮/小吃：福州是大城市，国庆餐饮全线营业
+- ⚠️ 充电桩：国庆期间使用率高，建议晚上10点后去充电
+
+### 雨天 B 计划
+
+如果今天下雨：
+
+- **三坊七巷**：有骑楼和廊道遮雨，小雨照常逛，大雨躲进故居/展馆参观（正好利用联票）。
+- **上下杭**：雨天的老建筑别有韵味，带伞即可。
+- **烟台山**：小雨可以去，山路湿滑注意脚下。大雨改为室内活动（博物馆/咖啡馆）。
+- **温泉**：完全不受影响，雨天泡温泉更有氛围。
+- **美食**：全部室内，不受影响。
+- **充电/过夜**：不受影响。
+
+## 明日预告
+
+明天开始北上回程！福州 → 温州方向，468km，是全程最长的一天驾驶。今晚务必：
+1. 充满电
+2. 泡完温泉好好休息
+3. 早点睡，明天又是赶路日
