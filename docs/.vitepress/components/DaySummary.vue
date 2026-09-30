@@ -44,7 +44,7 @@ const fm = computed(() => frontmatter.value || {})
   position: sticky;
   top: var(--vp-nav-height, 64px);
   z-index: 10;
-  margin: 0 0 16px;
+  margin: 24px 0 16px;
   background: var(--vp-c-bg);
   border: 1px solid var(--vp-c-divider);
   border-radius: 8px;
