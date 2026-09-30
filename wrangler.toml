@@ -1,0 +1,2 @@
+name = "2026-roadtrip"
+pages_build_output_dir = "docs/.vitepress/dist"
