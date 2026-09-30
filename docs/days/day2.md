@@ -95,6 +95,7 @@ import ImageGallery from '../.vitepress/components/ImageGallery.vue'
 <SpotCard
   name="温岭石塘半岛"
   type="spot"
+  image="/images/spots/wenling-spot-shitang-01.jpg"
   address="浙江省台州市温岭市石塘镇"
   description="浙江大陆最东端的半岛渔镇，依山面海的石屋建筑群，新千年中国大陆第一缕曙光照射点。海岸线壮美，石屋村落独特，是浙江沿海自驾的必经之地。"
   xhs-link="https://www.xiaohongshu.com/explore/68da4919000000001300438c?xsec_token=AByCKU8_1XaC_e_jH7cyMxYQM3PJ6unrgmkqQ_L__GSrA="
@@ -153,6 +154,7 @@ import ImageGallery from '../.vitepress/components/ImageGallery.vue'
 <SpotCard
   name="温岭小箬村"
   type="spot"
+  image="/images/spots/wenling-spot-xiaoruo-01.jpg"
   address="台州市温岭市石塘镇小箬村"
   description="彩色渔村，房屋被刷成马卡龙色系，在阳光下非常出片。但面积小，20分钟就能逛完。国庆人多。"
   xhs-link="https://www.xiaohongshu.com/explore/6921d177000000001e022939?xsec_token=ABhPSmup2Is_6NyK8Os6OMRmALpUEw3v27hDWrukqP4u0="
@@ -180,6 +182,7 @@ import ImageGallery from '../.vitepress/components/ImageGallery.vue'
 <SpotCard
   name="温岭洞石沙滩（黑沙滩）"
   type="spot"
+  image="/images/spots/wenling-spot-heishatan-01.jpg"
   address="台州市温岭市石塘镇附近"
   description="隐蔽的黑色火山岩沙滩，像极了冰岛黑沙滩。小众，但路不太好找。"
   xhs-link="https://www.xiaohongshu.com/explore/656c0fdd000000000602abcb?xsec_token=ABaXgnejw9KYz-rG5bym-pgMX4700PEUVRyKENIffmOZo="
@@ -293,6 +296,7 @@ import ImageGallery from '../.vitepress/components/ImageGallery.vue'
 <SpotCard
   name="洞头半屏山景区停车场"
   type="sleep"
+  image="/images/spots/dongtou-spot-haibian-01.jpg"
   address="温州市洞头区半屏山景区停车场"
   description="卫生间：有 | 充电桩：附近有（洞头瓯江口交运能源充电站） | 便利店：步行15分钟有小卖部"
   xhs-link=""

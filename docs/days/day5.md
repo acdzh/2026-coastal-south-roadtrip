@@ -91,6 +91,7 @@ const events = [
 <SpotCard
   name="武夷山风景名胜区"
   type="spot"
+  image="/images/spots/wuyishan-spot-jingqu-01.jpg"
   address="福建省南平市武夷山市武夷山国家旅游度假区"
   description="世界文化与自然双遗产，岩茶发源地。我们不爬山，走平路看大红袍母树、逛岩骨花香漫游道，体验茶文化。"
   :skip-index="0"

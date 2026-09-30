@@ -92,6 +92,7 @@ import ImageGallery from '../.vitepress/components/ImageGallery.vue'
 <SpotCard
   name="蛇蟠岛"
   type="spot"
+  image="/images/spots/sanmen-spot-shebangtao-01.jpg"
   address="浙江省台州市三门县蛇蟠乡"
   description="千年采石遗迹形成的海岛奇观，有野人洞和海盗村两大景区，石洞密布，海岸线原始。三门小众旅游的核心目的地。"
   xhs-link="https://www.xiaohongshu.com/explore/6815de57000000000900d31e?xsec_token=ABNGfgl0gO8kvhkrs13rXq9R3RzMMcESM2HT9RoAfDDXA="
@@ -163,6 +164,7 @@ import ImageGallery from '../.vitepress/components/ImageGallery.vue'
 <SpotCard
   name="东屏古村"
   type="spot"
+  image="/images/spots/sanmen-spot-dongping-01.jpg"
   address="三门县横渡镇东屏村"
   description="三面环山一面向海的古村落，保留大量清代石头民居。人少安静，适合闲逛拍照。"
   xhs-link="https://www.xiaohongshu.com/explore/699a5f1100000000150222a9?xsec_token=AB6jfZFL_HedyzvJXsH5xDbFicVAGyXWgiMuKTWw4qNIY="
@@ -190,6 +192,7 @@ import ImageGallery from '../.vitepress/components/ImageGallery.vue'
 <SpotCard
   name="三门青蟹面（当地面馆）"
   type="food"
+  image="/images/food/sanmen-food-qingxie-01.jpg"
   address="三门县城各面馆均有（推荐健跳镇沿街面馆）"
   description="人均50-80 | 推荐：青蟹汤米面、青蟹炒年糕"
   xhs-link="https://www.xiaohongshu.com/explore/68ce07010000000011015587?xsec_token=ABupN4bEQL0kVsliTP0V_lAj_uxtBjQsLWsTImUVaBBY8="

@@ -72,6 +72,7 @@ import SpotCard from '../.vitepress/components/SpotCard.vue'
 <SpotCard
   name="水亭门历史文化街区"
   type="spot"
+  image="/images/spots/quzhou-spot-shuitingmen-01.jpg"
   address="浙江省衢州市柯城区水亭街"
   description="衢州古城核心，明清古街区。古城门、老街巷、文艺小店、传统小吃一条街。傍晚亮灯后氛围更好。"
 />
