@@ -727,6 +727,7 @@ driving: "X小时"
 - 对感兴趣的帖子，点进去读详细内容（获取正文、图片URL）
 - **每个城市的搜索由独立子 Agent 完成**（Phase 3），不会超出单个 Agent 的上下文
 - 被限流时降级：先等 1-2 分钟重试，仍然不行就用 agent-browser skill 打开小红书网页版搜索
+- **触发验证码时禁止降级**：如果搜索触发了验证码，必须先用 agent-browser 完成验证码验证，验证通过后继续用 xiaohongshu-cli 搜索，绝对不能跳过验证码直接降级到网页搜索或 WebSearch
 
 **搜索量要求：每个城市至少搜 8-10 个不同关键词，每个关键词记录 5-10 条有效帖子。**
 
@@ -858,13 +859,13 @@ driving: "X小时"
 **注意**：amap-gui 需要启动 GUI 容器才能工作（Electron 窗口）。如果只需要数据不需要截图，也必须启动容器。
 
 ### 天气
-- WebSearch 搜索浙江、福建10月初的大概天气情况（温度范围、是否多雨）即可
+- 用 agent-browser 搜索浙江、福建10月初的大概天气情况（温度范围、是否多雨）即可
 - 不需要精确到每天的预报，知道大概穿什么、要不要带雨具就行
 
 ### 降级方案
 1. xiaohongshu-cli 被限流 → 等 1-2 分钟重试
-2. 仍然限流 → 用 agent-browser skill 打开小红书网页版搜索（`https://www.xiaohongshu.com/search_result?keyword=XX`）
-3. agent-browser 也不行 → 用 WebSearch skill 搜索补充（搜索 `site:xiaohongshu.com XX` 或直接搜关键词）
+2. 仍然不行（限流或验证码均适用）→ 降级到 agent-browser 打开小红书网页版搜索（`https://www.xiaohongshu.com/search_result?keyword=XX`）。注意：xhs cli 和 agent-browser 是完全独立的两条路线，session/cookie 互不相通
+3. agent-browser 也不行 → **停下来告诉用户，由用户来解决**，不要自行降级到 WebSearch
 
 ---
 
@@ -1041,3 +1042,16 @@ Agent A 负责：
 
 ## 语言
 所有内容使用中文。代码注释和 Git commit message 用英文。
+
+## 执行规则
+
+### 主 Agent 职责
+主 Agent 只负责编排和调度，不执行具体任务。所有实际工作（搜索、编码、数据收集、文件编写等）必须委派给子 Agent 完成。主 Agent 的工作：
+- 读取 `progress.md` 了解当前进度
+- 根据进度决定下一步启动哪些子 Agent
+- 分配任务、提供上下文给子 Agent
+- 汇总子 Agent 结果、更新 `progress.md`
+- 处理异常和用户交互
+
+### 进度文件
+`progress.md` 是全局进度追踪文件，记录所有阶段和任务的完成状态。每次会话开始时先读取此文件恢复上下文，每完成一个任务立即更新。用户可以随时中断，下次恢复时从 `progress.md` 读取进度继续。

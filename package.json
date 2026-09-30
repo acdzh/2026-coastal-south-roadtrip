@@ -1,0 +1,27 @@
+{
+  "name": "2026-coastal-south-roadtrip",
+  "version": "1.0.0",
+  "description": "上海出发，沿海南下经台州、温州、福州方向，不走回头路环线返回。",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acdzh/2026-coastal-south-roadtrip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acdzh/2026-coastal-south-roadtrip/issues"
+  },
+  "homepage": "https://github.com/acdzh/2026-coastal-south-roadtrip#readme",
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.43"
+  }
+}

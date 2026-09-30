@@ -1,0 +1,279 @@
+# SUV睡车指南
+
+国庆7天全程车中泊，10月浙闽沿海气温适中（夜间20-25°C），是一年中最适合睡车的季节之一。本指南基于数十篇高赞车中泊经验帖整理。
+
+## 后排放倒方案
+
+### 基本设置
+
+SUV后排放倒后形成约1.7-1.9m的平整空间，具体操作：
+
+1. **后排座椅全放倒**，确认与后备箱地板齐平（大部分SUV有高低差，需要填平）
+2. **填平高低差**：用收纳箱、折叠凳等硬物垫在低处，上面铺充气床垫
+3. **充气床垫**：选择车载专用款（带凹槽卡位），比家用气垫贴合度更好
+4. **前排座椅前推到底**，头枕拆掉或转向，腾出最大纵深
+
+### 收纳要点
+
+- 白天行李放后备箱，晚上睡觉时把行李移到前排座椅和副驾脚下
+- 准备2-3个收纳箱分类：睡眠用品 / 炊具食材 / 衣物洗漱
+- 车顶内侧装弹力网兜，放手机、眼镜、充电宝等小物件
+
+### 参考帖子
+
+| 帖子 | 链接 |
+|------|------|
+| 自驾游6年、我的装备收纳清单（3859赞） | [小红书](https://www.xiaohongshu.com/explore/6aaa70ba000000002502c7a1?xsec_token=ABPRGdZWssNyozUOVL8tqL7e8SNDa4ByUI-VFzdiBYcd4=) |
+| 车尾如何改造1米9的大床？纯干货！（2547赞） | [小红书](https://www.xiaohongshu.com/explore/648e8afb00000000130359aa?xsec_token=ABoPFFsv4SDczF9lfuLGJiwlHDc9BM6eXL6JlhTxvTQns=) |
+| 来了！床车睡眠平台DIY教程（超详细）（554赞） | [小红书](https://www.xiaohongshu.com/explore/67050fab000000001902d25b?xsec_token=AB4Kr84u-rnSu0P0juuU5aj-LUJQa6eOsZITDWvnCs6gk=) |
+| 第一次床车体验宣告失败（2875赞） | [小红书](https://www.xiaohongshu.com/explore/69d46eac000000002202b96b?xsec_token=ABT6SDVWIoUzYgh8F2irjk1_kkKWDk9zNeP2ib6UIiSxQ=) |
+
+## 通风方案
+
+10月浙闽沿海夜间20-25°C，不算闷热，但车内密闭空间仍需保持空气流通。
+
+### 方案一：开窗缝 + 防蚊纱网（推荐）
+
+- 两侧后窗各开2-3cm缝隙，形成对流
+- 窗户装磁吸式防蚊纱网（10月蚊虫已大幅减少，但沿海湿地区域仍有）
+- 天窗如有，开一指缝效果更好（热空气上升排出）
+
+### 方案二：车载排风扇
+
+- USB排风扇装在后窗缝隙处，主动抽风
+- 功率低（5V/2A），接车载USB口或充电宝即可
+- 适合无风闷热夜晚补充通风
+
+### 方案三：空调通风（费电但最舒适）
+
+- 纯电车可以开空调睡觉，但一晚耗电约8-15kWh（视温度设定）
+- 10月沿海夜间温度适中，一般不需要开空调，除非遇到闷热天
+- 如果开空调，设置26°C + 低风 + 定时，电量保留30%以上
+
+### 雨天通风
+
+雨天不能开窗怎么办？这是车中泊最常被问到的问题：
+
+- **窗户雨眉/晴雨挡**：提前装好，下雨天也能开窗缝通风不进雨
+- **后备箱开缝**：尾门用绳子固定开一小缝，从底部进气
+- 实在不行就开空调外循环通风模式
+
+| 帖子 | 链接 |
+|------|------|
+| 睡车里怎么保持空气流通（2334赞） | [小红书](https://www.xiaohongshu.com/explore/673081a9000000001b028f14?xsec_token=ABiSQ0LySp4Fz1tk7twihY42MA8qzA1kMcpW6hUkPn14o=) |
+| 车中睡眠露营，怎么搞定通风防蚊？（2769赞） | [小红书](https://www.xiaohongshu.com/explore/663ed984000000001e0262b4?xsec_token=ABERDyIRIgnAA705hMN_8npLTG7QuDtbntEAI2o-dko8k=) |
+| 手搓车床换气系统，超低成本解决驻车闷热（1087赞） | [小红书](https://www.xiaohongshu.com/explore/68061241000000001d0015c6?xsec_token=ABGed31GHIjz2IZauJHqsF357wIo80xAz3V_ZWmycdp2k=) |
+| 床车遇上暴雨天，怎么收纳？东西全湿了！（10609赞） | [小红书](https://www.xiaohongshu.com/explore/69e0ae5d000000001a0219df?xsec_token=AB_OLLJKWxhn5wgr3f5hfeIPWKr9i13qAdGsMRkswcpp0=) |
+| 雨天床车露营这二个遮雨好物太实用了（488赞） | [小红书](https://www.xiaohongshu.com/explore/6a2f8c1e000000001102c674?xsec_token=ABwymqs-F_zPKRwPQons_tX3v6Vi9mZ4Spb4usHg3OMKQ=) |
+
+## 防蚊
+
+10月浙闽沿海蚊虫已经大幅减少，不是夏天那种被蚊子围攻的状态。但沿海湿地、渔港附近仍可能有零星蚊虫。
+
+### 最低限度防护
+
+- **防蚊液一小瓶**：睡前喷手脚裸露部位，足够了
+- **窗纱**：磁吸式车窗纱网，开窗通风时阻挡蚊虫进入
+- **电蚊香片**：车载USB电蚊香，睡前开30分钟，效果持续一晚
+
+### 不需要的
+
+- 蚊帐（10月不需要这么重装备）
+- 大量驱蚊产品（不是夏天，一瓶防蚊液足够7天）
+
+## 220V外放电技巧
+
+纯电SUV的220V外放电功能是车中泊的核心优势，相当于随身携带一个移动电源。
+
+### 常用场景
+
+| 用途 | 功率 | 说明 |
+|------|------|------|
+| 小电蒸锅蒸海鲜 | 600-1000W | 20分钟蒸一锅，耗电约0.3kWh |
+| 手机/相机充电 | 20-60W | 忽略不计 |
+| 电热水壶烧水 | 800-1500W | 注意不要超过外放电最大功率 |
+| USB排风扇 | 5-10W | 整晚开也就0.05kWh |
+| 电蚊香 | 5W | 忽略不计 |
+| 小冰箱（如有） | 40-60W | 整晚约0.5kWh |
+
+### 注意事项
+
+- 确认车辆外放电最大功率（一般1.5-3.3kW），不要超负荷
+- 一晚全部用电（不开空调）大约消耗1-2kWh，对75kWh电池来说微乎其微
+- 大功率电器（电磁炉、吹风机等）可能超过外放电功率限制，使用前确认
+- 外放电口一般在后备箱或车身侧面，提前熟悉位置
+
+## 安全
+
+### 一氧化碳风险
+
+::: danger 致命风险
+纯电车不存在发动机尾气的一氧化碳中毒风险，这是电车睡车的天然优势。但如果在车内使用燃气灶具（卡式炉等），必须保持充分通风，用完立即熄火。**绝对不要在密闭车内使用任何明火或燃气设备睡觉。**
+:::
+
+### 停车位置安全
+
+- **首选**：高速服务区、景区停车场、城区24小时停车场
+- **可选**：渔港码头、海边空旷停车区（确认允许停车）
+- **避免**：偏僻无人处、悬崖边、河道旁（防暴雨涨水）
+- 停好车后锁好门窗，贵重物品不要放在可视位置
+- 夜间到达停车点后，先观察周围环境再决定是否过夜
+
+### 财物安全
+
+- 现金、证件、贵重物品放在隐蔽处（手套箱锁好、座椅底下）
+- 车窗贴隐私膜或挂遮阳帘，外面看不到车内情况
+- 手机保持有电，紧急情况能报警
+- 两人同行比独行安全得多
+
+### 其他安全事项
+
+- 不要在坡道上睡车（万一手刹失灵）
+- 雷暴天气不要停在大树下、高处
+- 海边停车注意潮汐，不要停在会被涨潮淹没的区域
+- 保持至少一扇窗有微缝通风（前面已讲）
+
+| 帖子 | 链接 |
+|------|------|
+| 假期出游睡车里这6个保命技能必看！（23479赞） | [小红书](https://www.xiaohongshu.com/explore/680b632c000000001202d19b?xsec_token=ABwTPnaWFuSMvlcVRGpH0IhQHlE1ChKe083tCzYB3jkls=) |
+| 床车自驾游一定要买睡袋，千万别用被子（2524赞） | [小红书](https://www.xiaohongshu.com/explore/68fd2ce00000000003035e39?xsec_token=AB2ONcY6b4iuzF3gX6dvERtwsEa_AEbFYvOjYnXgkDlF8=) |
+| 车里睡觉，是不是最怕这个！（1917赞） | [小红书](https://www.xiaohongshu.com/explore/680850f7000000001b02761d?xsec_token=ABZtFdjGLo-OdzUFzOunaWYjI9lsxhOWXoWX7Ps4LU_Ek=) |
+
+## 洗澡解决方案
+
+7天不洗澡是不可能的。以下是沿途洗澡的几种方案，按推荐度排序。
+
+### 方案一：洗浴中心（最推荐）
+
+沿途每个城市都有洗浴中心，价格30-80元/人，洗澡+休息，部分可以过夜。
+
+#### 沿途洗浴推荐
+
+**台州**
+
+| 推荐 | 链接 |
+|------|------|
+| 水墨兰亭（搓澡初体验）（271赞） | [小红书](https://www.xiaohongshu.com/explore/6800e065000000001d00acac?xsec_token=AB86riMYLml_qGSz8x3fz5iNFQSk7xqqjmoaQPKDc9UhQ=) |
+
+**温州**
+
+| 推荐 | 链接 |
+|------|------|
+| 温州最大方的足浴店（682赞） | [小红书](https://www.xiaohongshu.com/explore/691844100000000007017d20?xsec_token=ABrl6x-uUCpbhxHqh0VZOlLKEugryzHLHh_8qvMdsw1RU=) |
+| 楠溪江泡了20个汤（657赞） | [小红书](https://www.xiaohongshu.com/explore/69225ad5000000001e0372e4?xsec_token=ABOthzrpMBZl0Mb6ZZ1qS9Tzl8B2CgB_0KI0sFU7RK_3U=) |
+
+**福鼎**
+
+| 推荐 | 链接 |
+|------|------|
+| 福鼎洗浴（131赞） | [小红书](https://www.xiaohongshu.com/explore/6a7f3b660000000022010879?xsec_token=ABDgdzFkN8fshSXeED3vv91NK20i2Kjaaqt0v5Ck8coa8=) |
+
+**福州（温泉之都，强烈推荐）**
+
+福州是中国温泉之都，市区就有大量温泉澡堂，价格实惠，体验极好。
+
+| 推荐 | 链接 |
+|------|------|
+| 不得了的福州泡澡体验（4914赞） | [小红书](https://www.xiaohongshu.com/explore/6975fd41000000001a03029b?xsec_token=ABmjMB9wT5uZWBRepi2W6XibpEoEtJwGaoP4KeXxUwfrU=) |
+| 本次福州之行最期待的环节！（3729赞） | [小红书](https://www.xiaohongshu.com/explore/698968e1000000000a031e52?xsec_token=AB_bI7vfrjnRaCtOQnO5vsH0YoXz4phxEiMhaafVABPuE=) |
+| 福州大学生勇闯温泉中心（2463赞） | [小红书](https://www.xiaohongshu.com/explore/67cd0274000000001203d8e3?xsec_token=ABPkhYqeBfGWMfzSJUwHehgDxkWDaVvHz0sN8W9UpVitg=) |
+
+### 方案二：24小时健身房日卡
+
+部分连锁健身房（乐刻、超级猩猩等）支持日卡/次卡，进去用淋浴，约20-40元。
+
+| 推荐 | 链接 |
+|------|------|
+| 台州24小时健身房（221赞） | [小红书](https://www.xiaohongshu.com/explore/6995c6d6000000002802224b?xsec_token=ABZDTvkADXtN2hUmaiRjWx-yLCGfjsxdP2anNdJ9QYMqU=) |
+
+### 方案三：便携淋浴
+
+利用220V外放电 + 便携电热水袋/车载淋浴器，在车外简易冲洗。
+
+- 适合海边玩水后冲掉沙子和盐分
+- 不适合正式洗澡（隐私和水量都不够）
+- 作为应急方案备用
+
+| 帖子 | 链接 |
+|------|------|
+| 床车自驾怎么洗澡，教你三招（2537赞） | [小红书](https://www.xiaohongshu.com/explore/69e18981000000002202a6f5?xsec_token=ABJT78XrZCbZ0azsgtgNlcBDp8h4fSFgW4viuSImgNGRM=) |
+| 露营/自驾天天睡车里怎么洗澡上厕所？（2436赞） | [小红书](https://www.xiaohongshu.com/explore/685a74b30000000012015326?xsec_token=ABW1kRllhmGox-FwyJFixQN3QpCVLr1qU2RuiJ1YKwxLY=) |
+| 服务区过夜收超时费吗？如何做饭、洗澡上厕？（1830赞） | [小红书](https://www.xiaohongshu.com/explore/69e5ba4d000000002102db39?xsec_token=ABMF9wWikBCUNxiBxVQ8OmNDPqJQ7D-hkt5b60vA5wReM=) |
+
+### 洗澡节奏建议
+
+7天行程不需要每天都正式洗澡，建议节奏：
+
+| 天数 | 城市 | 洗澡方案 |
+|------|------|----------|
+| Day 1 | 台州石塘 | 到达较晚，湿巾擦洗 |
+| Day 2 | 温州洞头 | 洗浴中心 |
+| Day 3 | 福鼎 | 洗浴中心 |
+| Day 4 | 霞浦 | 湿巾擦洗（或找当地澡堂） |
+| Day 5 | 福州 | 温泉澡堂（重点体验！） |
+| Day 6 | 衢州 | 洗浴中心 |
+| Day 7 | 回上海 | 到家洗 |
+
+## 沿途过夜停车点
+
+### 台州
+
+| 推荐 | 链接 |
+|------|------|
+| 台州绝佳露营点山顶洞穴（393赞） | [小红书](https://www.xiaohongshu.com/explore/6829e1d50000000022024c11?xsec_token=AB3L9YTB8Yg09Ja5RUYtb0rS0LxZBGC_Etxhh31DPww-w=) |
+| 床车自驾-玉环牛头颈日出（187赞） | [小红书](https://www.xiaohongshu.com/explore/696180e0000000002103d476?xsec_token=ABzs98a6eybTVSvhgHrSKqHJtj8pGkWgXbImbdLHdz4cU=) |
+
+### 温州/洞头
+
+| 推荐 | 链接 |
+|------|------|
+| 温州洞头岛绝美床车露营点（73赞） | [小红书](https://www.xiaohongshu.com/explore/69dcef59000000001a037537?xsec_token=ABr14YJyYio8rMofxjBpZFzVtaOmLji2pzbYoGiHNEQYQ=) |
+| 温州市区床车过夜露营地推荐（100赞） | [小红书](https://www.xiaohongshu.com/explore/68e2806e000000000303932f?xsec_token=AB49RRG4QtsGk6R40m6_t08GiAVrShFjyNvInvk3yI5fQ=) |
+| 洞头露营避坑！别再瞎绕了（69赞） | [小红书](https://www.xiaohongshu.com/explore/68e34ed40000000004001415?xsec_token=ABUzCYLDU9XU0IyTV9rIPx80v0VJG3Aib-J5rrS5VFWvU=) |
+
+### 霞浦
+
+| 推荐 | 链接 |
+|------|------|
+| 床车过夜露营点记录（福建版）（599赞） | [小红书](https://www.xiaohongshu.com/explore/68eb564400000000040122cb?xsec_token=ABIU7YwjDJXQTqUuDjSSZCdDmwNX5v-7foh90OudhMmnE=) |
+| 霞浦免费小众床车露营看日出地点（111赞） | [小红书](https://www.xiaohongshu.com/explore/68e088990000000005002af1?xsec_token=ABpBeg67KaDOzJt8wyhKkQS9YN7EPtrhKPewsdKq61HeQ=) |
+| 霞浦蜘蛛网大桥停车场（105赞） | [小红书](https://www.xiaohongshu.com/explore/6731e8ad000000001b0114ce?xsec_token=ABysuOr4YQD131LlUXlhHSrGEhPF4foWcVnMaSHn1-xZA=) |
+
+### 福州
+
+| 推荐 | 链接 |
+|------|------|
+| 福建10大绝美床车过夜露营点（508赞） | [小红书](https://www.xiaohongshu.com/explore/68fadef1000000000700c4bc?xsec_token=AB0KMkeJjmDrLq_OssAKu4ecMDC-weqaHkNcCMj2gVKiU=) |
+| 福州站停车24小时封顶20元（327赞） | [小红书](https://www.xiaohongshu.com/explore/682ad6ab000000001101e3f9?xsec_token=ABkutagrxKjQslIDtMPNq6tKG7682iJgSetLJ6smaeqxw=) |
+| 福州自驾床车绝佳露营地（303赞） | [小红书](https://www.xiaohongshu.com/explore/68de7219000000000503b32a?xsec_token=ABNWrJy9Po9DownqQ0QiYUj7Ylak3zhm29caj6CBj-Eb0=) |
+
+### 衢州
+
+| 推荐 | 链接 |
+|------|------|
+| 衢州自驾旅游停车4元停一天！（183赞） | [小红书](https://www.xiaohongshu.com/explore/67f4f927000000001c00887d?xsec_token=ABdLs9VS4FebeuPsUlDPtSdusskpaJVqXl2tRUyzhExAA=) |
+| 衢州不收费过夜停车场（110赞） | [小红书](https://www.xiaohongshu.com/explore/68e1cffc000000000301d41d?xsec_token=ABtZaL4OlnN-W9KW7EAzuqpWYF5kHTY3HG2kJgaqPNiYc=) |
+
+## 海边停车特别注意
+
+### 盐雾腐蚀
+
+海边空气含盐分，长时间停放可能腐蚀车身金属部件和充电口。
+
+- 不要连续多天停在海边同一位置
+- 充电口每次充完电盖紧，可用保鲜膜额外包裹
+- 行程结束回家后尽快洗车，重点清洗底盘
+
+| 帖子 | 链接 |
+|------|------|
+| 海口特斯拉血泪教训，不要低估海边气候（14赞） | [小红书](https://www.xiaohongshu.com/explore/6a742b8300000000250041fb?xsec_token=ABf_nBGBUirSnTKoRXjOLczz7_Xk0NwtzM_6YoZJ4GAbk=) |
+| 海边空气盐分重，新RAV4也扛不住锈！（12赞） | [小红书](https://www.xiaohongshu.com/explore/67c35852000000002503ef24?xsec_token=ABuH5-CPjOxDz08tirsDSVHF1_TzXbYxmEE2kwNkAaOQQ=) |
+
+### 自驾看海上日出
+
+海边过夜的一大福利是清晨看日出。10月浙闽日出时间约5:50-6:10。
+
+| 帖子 | 链接 |
+|------|------|
+| 自驾看海上日出，0元入住无遮挡海景房（1249赞） | [小红书](https://www.xiaohongshu.com/explore/68a53b7a000000001d025da9?xsec_token=ABeFKlos0dZHJ1DEhZyF9XuY_ergbWkMjPSxHmn6Dmoa8=) |
+| 住车里看海边日出（2063赞） | [小红书](https://www.xiaohongshu.com/explore/66fdd68d000000002a0375a0?xsec_token=AB2LpQlNzHWD7EP1iykC2AYKx5FJgwov9z9W0s56xunkE=) |

@@ -1,0 +1,33 @@
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(135deg, #2196F3, #00BCD4);
+  --vp-home-hero-image-background-image: linear-gradient(135deg, #2196F320, #00BCD420);
+  --vp-home-hero-image-filter: blur(40px);
+}
+
+/* responsive tables */
+.vp-doc table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* spot card inside markdown */
+.vp-doc .spot-card {
+  margin: 16px 0;
+}
+
+/* timeline compact on mobile */
+@media (max-width: 640px) {
+  .vp-doc h1 {
+    font-size: 24px;
+  }
+  .vp-doc h2 {
+    font-size: 20px;
+  }
+}
+
+/* smooth transitions */
+.VPContent {
+  transition: opacity 0.2s;
+}
