@@ -42,7 +42,7 @@ const fm = computed(() => frontmatter.value || {})
 <style scoped>
 .day-summary {
   position: sticky;
-  top: var(--vp-nav-height, 64px);
+  top: calc(var(--vp-nav-height, 64px) + 12px);
   z-index: 10;
   margin: 24px 0 16px;
   background: var(--vp-c-bg);
