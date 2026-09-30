@@ -78,7 +78,7 @@ driving: "6.2小时"
 
 > [!NOTE] 春节江浙沪往福建方向自驾经验谈 (2363赞)
 > 走G3京台/G60沪昆内陆线的实测经验，对武夷山-衢州-上海回程段很有参考价值。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/69606bef000000000a030bde?xsec_token=ABJXm55RmN7y8AvJ4ftsSiKEwZdE6dDxWtkg8stsveIcI=)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/69606bef000000000a030bde)
 
 ## 路上吃的
 
@@ -106,19 +106,19 @@ driving: "6.2小时"
 
 > [!NOTE] 浙江最会吃辣的小城，衢州2天1夜真的很上头 (436赞)
 > 三头一掌是衢州的灵魂，兔头鸭头鸭掌一上来就停不下嘴。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6a3224f2000000000f01e055?xsec_token=ABpgvXmgA36tG6LQDA1vp2f1cdRwZcREWtdTrhzS6P8vA=)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a3224f2000000000f01e055)
 
 > [!NOTE] 来看大学生勇闯衢州12小时爽吃8顿之旅！ (10664赞)
 > 衢州美食密度极高，12小时吃8顿不是梦。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6a4f6033000000000f0057ac?xsec_token=ABtri78TglSIs2jhDQmeB_DoQ_eBHnxt3YmrzPC0iDBp8=)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a4f6033000000000f0057ac)
 
 > [!NOTE] 周末48小时逛吃一座城！第九站浙江衢州 (4341赞)
 > 衢州48小时美食攻略，三头一掌是绕不过去的。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6a4ce5ad00000000060301c0?xsec_token=ABnNHwJC1_f44OYU-DIPcYBEAJKQazRDwb2EMtSrXD9NA=)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a4ce5ad00000000060301c0)
 
 更多衢州三头一掌参考：
-- [衢州三头一掌 (2080赞)](https://www.xiaohongshu.com/explore/6854dcd1000000001c032aa0?xsec_token=ABqHHw4y7TWDah-2R9esB04Ei5ZB0OBDGDj6kaEWRUCaE=)
-- [衢州美食 (524赞)](https://www.xiaohongshu.com/explore/682688aa0000000023000124?xsec_token=ABo5nkWKyoCCDryCHBxwMmOHzvBbaa4J37q3xQLxM91nk=)
+- [衢州三头一掌 (2080赞)](https://www.xiaohongshu.com/explore/6854dcd1000000001c032aa0)
+- [衢州美食 (524赞)](https://www.xiaohongshu.com/explore/682688aa0000000023000124)
 
 ## 到达衢州后：水亭门夜游
 
@@ -136,13 +136,13 @@ driving: "6.2小时"
 
 > [!NOTE] 衢州｜水亭门天王塔+钟楼！同框机位分享攻略 (2530赞)
 > 天王塔和钟楼同框拍摄，衢州最出片的夜景机位。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/69ae43120000000026030548?xsec_token=ABMtjgfL_Z7XL05M-tZmMK2KxoSDVrH9zhR_RPU_sdAsQ=)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/69ae43120000000026030548)
 
 > [!NOTE] 浙江衢州今年去过最冷门的小城...真的很好玩 (1697赞)
 > 衢州作为冷门旅游城市，水亭门值得一逛。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6915508b0000000005033d80?xsec_token=ABep02oRuLOFPrG_gqD7dtaJdiqq9H8kafcqe0oYddleA=)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6915508b0000000005033d80)
 
-- [两天一夜衢州周末游citywalk路线旅游攻略 (1087赞)](https://www.xiaohongshu.com/explore/694e1565000000001d03f159?xsec_token=ABQAxok2yeGS40DOV6EAXy-2tcdbeIMi5_DMGRsEbZWNI=)
+- [两天一夜衢州周末游citywalk路线旅游攻略 (1087赞)](https://www.xiaohongshu.com/explore/694e1565000000001d03f159)
 
 ## 今晚过夜
 
@@ -161,11 +161,11 @@ driving: "6.2小时"
 
 > [!NOTE] 衢州自驾旅游停车：4元停一天！ (183赞)
 > 衢州有不少低价停车场，自驾过夜非常友好。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/67f4f927000000001c00887d?xsec_token=ABdLs9VS4FebeuPsUlDPtSdusskpaJVqXl2tRUyzhExAA=)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/67f4f927000000001c00887d)
 
 > [!NOTE] 衢州不收费过夜停车场 (110赞)
 > 衢州免费过夜停车场推荐。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/68e1cffc000000000301d41d?xsec_token=ABtZaL4OlnN-W9KW7EAzuqpWYF5kHTY3HG2kJgaqPNiYc=)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68e1cffc000000000301d41d)
 
 ### 过夜 Tips
 - 今天赶了468km，早点休息。明天还有407km回上海。

@@ -50,11 +50,11 @@ driving: "6.3小时（不含堵车）"
 
 > [!TIP] 国庆高速免费
 > 2026年国庆高速免费时间：10月1日 00:00 至 10月7日 24:00。以驶离收费站时间为准，不用拔ETC卡。免费期间建议走ETC车道，不要走人工车道。
-> -- [2026年高速免费时间](https://www.xiaohongshu.com/explore/6aa0e24d0000000025034e83?xsec_token=ABHAdz1XOEe-nwfTbtSxMO3Xb2Y1XS55DNXOuVzIMDe_c=)
+> -- [2026年高速免费时间](https://www.xiaohongshu.com/explore/6aa0e24d0000000025034e83)
 
 > [!WARNING] ETC注意
 > 国庆免费期间走ETC通道即可。部分网友反馈免费期间走人工通道出高速被收费的情况，坚持走ETC车道最省事。
-> -- [国庆自驾别走ETC 出高速又又又又被收费了](https://www.xiaohongshu.com/explore/66fad986000000001902d8b8?xsec_token=AB52n-SZ3YPm7MpMxDkG0ba0aUNl5u1mpFzUItWEmtizg=)
+> -- [国庆自驾别走ETC 出高速又又又又被收费了](https://www.xiaohongshu.com/explore/66fad986000000001902d8b8)
 
 ### 走哪条路？
 
@@ -103,7 +103,7 @@ driving: "6.3小时（不含堵车）"
 
 > [!TIP] 嘉兴服务区
 > 浙江高速服务区在全国评价很高，嘉兴服务区尤其气派，有星巴克、肯德基等品牌入驻。国庆排队充电可能要等30分钟以上，但今天不需要充电。
-> -- [嘉兴服务区也太气派了吧](https://www.xiaohongshu.com/explore/68231ee200000000210036c2?xsec_token=ABg08f3r-m9XPUZjfQashwi7c7yx0RMflUsTpOqgsLL84=)
+> -- [嘉兴服务区也太气派了吧](https://www.xiaohongshu.com/explore/68231ee200000000210036c2)
 
 ## 核心目的地：石塘半岛
 
@@ -113,7 +113,7 @@ driving: "6.3小时（不含堵车）"
   image="/images/spots/taizhou-spots-温岭石塘-000-0.webp"
   address="浙江省台州市温岭市石塘镇"
   description="中国大陆新千年第一缕曙光照射地。石头砌成的渔村依山面海，有七彩小箬村、对戒观景平台、千年曙光园、金沙滩等景点，全部免费。整个半岛就是一个大景区，开车串联各个点位，半天可以玩完核心景点。"
-  xhs-link="https://www.xiaohongshu.com/explore/68da4919000000001300438c?xsec_token=ABjkO3OCY-iC0s7gXC8xNmn9HdRSB8DHIuYHmTeToaAbk="
+  xhs-link="https://www.xiaohongshu.com/explore/68da4919000000001300438c"
   :skip-index="0"
 />
 
@@ -151,15 +151,15 @@ driving: "6.3小时（不含堵车）"
 > [!NOTE] 多次往返温岭石塘~总结出的看海路线! (3513赞)
 > Day1: 锡安堂 → 金沙滩 → 对戒观景台 → 小箬村麒麟山
 > Day2: 千年曙光园 → 洞下沙滩 → 鱼师庙
-> -- [查看原帖](https://www.xiaohongshu.com/explore/68da4919000000001300438c?xsec_token=ABjkO3OCY-iC0s7gXC8xNmn9HdRSB8DHIuYHmTeToaAbk=)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68da4919000000001300438c)
 
 > [!NOTE] 温岭石塘攻略（自驾版）(1607赞)
 > 自驾游玩石塘半岛，各景点之间开车5-10分钟。停车基本免费，国庆建议早到抢车位。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6822a8b10000000022028796?xsec_token=ABhiP32slP50f1uFEkc_jVADdvz82L14PLb0xwtOkPU_U=)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6822a8b10000000022028796)
 
 > [!NOTE] 中国最美渔村｜台州温岭一日游精华路线版 (898赞)
 > 一日游精华路线，覆盖石塘半岛所有核心景点。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/699ff4cf0000000015023cb6?xsec_token=ABkXuRYRV9-7G13jVz3nvPCcBlKSUERLdi-K6GE8T23VQ=)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/699ff4cf0000000015023cb6)
 
 <ImageGallery :images="[
   { src: '/images/spots/taizhou-spots-温岭石塘-000-0.webp', alt: '石塘半岛全景，石屋渔村依山面海' },
@@ -179,7 +179,7 @@ driving: "6.3小时（不含堵车）"
   image="/images/spots/taizhou-spots-温岭小箬村-009-0.webp"
   address="浙江省台州市温岭市石塘镇小箬村"
   description="马卡龙色彩涂装的七彩渔村，被称为中国版五渔村。从麒麟山顶俯瞰整村最佳。日落时分色彩最美。"
-  xhs-link="https://www.xiaohongshu.com/explore/6921d177000000001e022939?xsec_token=ABx-6qc7iCTPDOcK_BfWb5AlJt0mKdQ7QR2Ob3qPWG2MY="
+  xhs-link="https://www.xiaohongshu.com/explore/6921d177000000001e022939"
   :skip-index="1"
 />
 
@@ -198,13 +198,13 @@ driving: "6.3小时（不含堵车）"
 
 > [!WARNING] 期望管理
 > 小箬村的照片在小红书上非常出片，但实地观感因人而异。有不少帖子反馈"照骗严重"，实际上村子比较小，彩色涂装有些斑驳。建议当作一个顺路打卡点，不要抱太高期望，拍照效果确实不错。
-> -- [温岭小箬村 再也不来了](https://www.xiaohongshu.com/explore/6811e69c000000001201c471?xsec_token=ABjuxyoJeEuLrviD3AkQBP728LmlmIpZc-mywwTDGTOLs=) (3851赞)
-> -- [再也不会来台州了，照骗严重](https://www.xiaohongshu.com/explore/68b07de2000000001d00ff9b?xsec_token=ABpCgGusiBJ7QeHqlpOZsPT79bO5tii6Jm_STFQB5RzQw=) (1331赞)
+> -- [温岭小箬村 再也不来了](https://www.xiaohongshu.com/explore/6811e69c000000001201c471) (3851赞)
+> -- [再也不会来台州了，照骗严重](https://www.xiaohongshu.com/explore/68b07de2000000001d00ff9b) (1331赞)
 
 小红书参考：
-- [温岭小箬村 | 夕阳里的马卡龙色世界 (5756赞)](https://www.xiaohongshu.com/explore/6921d177000000001e022939?xsec_token=ABx-6qc7iCTPDOcK_BfWb5AlJt0mKdQ7QR2Ob3qPWG2MY=)
-- [温岭小箬村的日落｜不会让你失望 (444赞)](https://www.xiaohongshu.com/explore/6864a78f000000002203d19d?xsec_token=ABLp5WYi2twIf6436eMM9NhWpkaPVdqQv4jB36tFzjpF8=)
-- [不是意大利！是浙江！超出片的七彩小渔村 (523赞)](https://www.xiaohongshu.com/explore/6aba4446000000001500eea4?xsec_token=ABk_VcmTMJRid_GaSQo-WKI4E6PFQ80wVMOCbP7vWvrPA=)
+- [温岭小箬村 | 夕阳里的马卡龙色世界 (5756赞)](https://www.xiaohongshu.com/explore/6921d177000000001e022939)
+- [温岭小箬村的日落｜不会让你失望 (444赞)](https://www.xiaohongshu.com/explore/6864a78f000000002203d19d)
+- [不是意大利！是浙江！超出片的七彩小渔村 (523赞)](https://www.xiaohongshu.com/explore/6aba4446000000001500eea4)
 
 <ImageGallery :images="[
   { src: '/images/spots/taizhou-spots-温岭小箬村-009-0.webp', alt: '小箬村七彩渔村夕阳' },
@@ -221,7 +221,7 @@ driving: "6.3小时（不含堵车）"
   image="/images/spots/taizhou-spots-千年曙光碑-045-0.webp"
   address="浙江省台州市温岭市石塘镇千年曙光园"
   description="中国大陆新千年第一缕曙光照射地，石塘镇最适合看日出的地方。园内有千年曙光碑。如果明天想看日出可以来这里。"
-  xhs-link="https://www.xiaohongshu.com/explore/67f277dd000000001b038f98?xsec_token=ABgRT_DzWRahI98s0DNbfd0DQv_QKbu04myl9o8pLt--U="
+  xhs-link="https://www.xiaohongshu.com/explore/67f277dd000000001b038f98"
   :skip-index="4"
 />
 
@@ -236,8 +236,8 @@ driving: "6.3小时（不含堵车）"
 | 建议游玩时间 | 15-20分钟（看碑拍照），看日出另算 |
 
 小红书参考：
-- [我在温岭石塘的7个小时是这么过的 (382赞)](https://www.xiaohongshu.com/explore/67f277dd000000001b038f98?xsec_token=ABgRT_DzWRahI98s0DNbfd0DQv_QKbu04myl9o8pLt--U=)
-- [中国大陆第一缕阳光升起的地方 (73赞)](https://www.xiaohongshu.com/explore/67fb80ba000000000f0397d3?xsec_token=ABEGHAWx63VSLHjVK1LJP7X6VD1SHeyxs3oJZCKmcmOoc=)
+- [我在温岭石塘的7个小时是这么过的 (382赞)](https://www.xiaohongshu.com/explore/67f277dd000000001b038f98)
+- [中国大陆第一缕阳光升起的地方 (73赞)](https://www.xiaohongshu.com/explore/67fb80ba000000000f0397d3)
 
 ### 加站3：洞下沙滩 + 鱼师庙（可跳过指数：3/5）
 
@@ -284,15 +284,15 @@ driving: "6.3小时（不含堵车）"
 
 > [!NOTE] 这就是世外桃源吗？(37217赞)
 > 三门景点超高热度帖，海岛风光和石洞奇观。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6951f201000000001e02b7f2?xsec_token=ABxdCKZaDnh0jzna1qyRI6smSTCJIMsxQ1AOCdNdcBf8A=)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6951f201000000001e02b7f2)
 
 > [!NOTE] 台州古村里，居然藏着家开了20年的美国餐厅 (6823赞)
 > 东屏古村隐藏美食发现。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/69e8801e000000002302765f?xsec_token=ABw3sbo_YMUVSNkhzryuZujmjq5JPP5wdI9Zmznsoh9Og=)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/69e8801e000000002302765f)
 
 > [!NOTE] 超级鲜的青蟹汤米面（附教程）(1135赞)
 > 三门青蟹面做法和推荐。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6861038a000000001d00efae?xsec_token=ABek2lGFrnHwTlaLXgWexTDeFPsMdWTP0WKx4eQq1-AQY=)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6861038a000000001d00efae)
 
 ## 今日美食
 
@@ -310,7 +310,7 @@ driving: "6.3小时（不含堵车）"
   image="/images/food/taizhou-food-台州小吃-064-0.webp"
   address="温岭市区各街巷（路边摊/早餐店常见）"
   description="温岭特色小吃，糯米糕里嵌各种馅料，类似加强版饭团。到温岭必吃。"
-  xhs-link="https://www.xiaohongshu.com/explore/6a462d3300000000060334b7?xsec_token=AB6PH2VhPAt9rdXN_tqrV4BJW6SIknM0SN2fRNToFbC4k="
+  xhs-link="https://www.xiaohongshu.com/explore/6a462d3300000000060334b7"
 />
 
 | 项目 | 详情 |
@@ -320,7 +320,7 @@ driving: "6.3小时（不含堵车）"
 | 推荐吃法 | 嵌糕里加肉、加蛋、加油条，管饱又好吃 |
 | 注意 | 嵌糕是早餐/早午餐品类，下午可能部分店已经卖完。2点前到最稳。 |
 
-小红书参考：[温岭嵌糕 (6765赞)](https://www.xiaohongshu.com/explore/6a462d3300000000060334b7?xsec_token=AB6PH2VhPAt9rdXN_tqrV4BJW6SIknM0SN2fRNToFbC4k=)
+小红书参考：[温岭嵌糕 (6765赞)](https://www.xiaohongshu.com/explore/6a462d3300000000060334b7)
 
 ### 路上小吃：冷饭麦饼
 
@@ -330,7 +330,7 @@ driving: "6.3小时（不含堵车）"
   image="/images/food/taizhou-food-台州美食-054-0.webp"
   address="台州各地街巷（温岭/路桥/椒江均有）"
   description="台州代表性小吃，55977赞的爆款帖！8块一个，面皮裹馅料烙制，外脆里香。"
-  xhs-link="https://www.xiaohongshu.com/explore/6a2a7162000000001700a5b7?xsec_token=ABPfnqwkNwDNrUUvTZOGiOrouIjdFEYB9y4l41Am33cwA="
+  xhs-link="https://www.xiaohongshu.com/explore/6a2a7162000000001700a5b7"
 />
 
 | 项目 | 详情 |
@@ -339,7 +339,7 @@ driving: "6.3小时（不含堵车）"
 | 在哪买 | 台州深巷里的老店最正宗。温岭城区也有不少。路过看到就买两个尝尝。 |
 | 口感 | 面皮薄脆，馅料咸香，冷了吃也好吃（所以叫冷饭麦饼） |
 
-小红书参考：[藏在台州深巷里的冷饭麦饼！8块一个！ (55977赞)](https://www.xiaohongshu.com/explore/6a2a7162000000001700a5b7?xsec_token=ABPfnqwkNwDNrUUvTZOGiOrouIjdFEYB9y4l41Am33cwA=)
+小红书参考：[藏在台州深巷里的冷饭麦饼！8块一个！ (55977赞)](https://www.xiaohongshu.com/explore/6a2a7162000000001700a5b7)
 
 ### 晚餐：石塘海鲜
 
@@ -356,8 +356,8 @@ driving: "6.3小时（不含堵车）"
 | 停车 | 镇上路边停车 |
 
 小红书参考：
-- [浙A口味勇闯温岭~吃东海小海鲜（石塘4家）(336赞)](https://www.xiaohongshu.com/explore/68e11074000000000702281e?xsec_token=ABNE8xU2p9MVlz5NL4potUOwJC-RoZEHkqqrVrCoqP9uI=)
-- [感谢温岭石塘朋友推荐 还得是本地人 (303赞)](https://www.xiaohongshu.com/explore/6a3b92cb0000000016024505?xsec_token=ABtabgBspPhISPwn31POZ-AmfNgSLqFvPLgXDMhbwueiY=)
+- [浙A口味勇闯温岭~吃东海小海鲜（石塘4家）(336赞)](https://www.xiaohongshu.com/explore/68e11074000000000702281e)
+- [感谢温岭石塘朋友推荐 还得是本地人 (303赞)](https://www.xiaohongshu.com/explore/6a3b92cb0000000016024505)
 
 #### 备选：带零食在车上吃
 
@@ -370,7 +370,7 @@ driving: "6.3小时（不含堵车）"
   type="sleep"
   address="浙江省台州市温岭市石塘镇（对戒观景平台停车场 / 金沙滩停车场）"
   description="免费停车 | 卫生间：附近公厕 | 充电桩：镇上有 | 便利店：步行5-10分钟"
-  xhs-link="https://www.xiaohongshu.com/explore/68d938240000000013029b8b?xsec_token=ABj1VkeugkfMFOS2cjryQw5SeVam_BlqU9VjVlZNqLA7k="
+  xhs-link="https://www.xiaohongshu.com/explore/68d938240000000013029b8b"
 />
 
 ### 过夜点详细评估
@@ -392,7 +392,7 @@ driving: "6.3小时（不含堵车）"
 
 > [!NOTE] 国庆来石塘的停车提示
 > 国庆石塘半岛车多，核心景点停车场白天可能满位。但晚上8点后大量游客离开，停车就不是问题了。
-> -- [国庆来石塘的宝宝不要慌 (149赞)](https://www.xiaohongshu.com/explore/68d938240000000013029b8b?xsec_token=ABj1VkeugkfMFOS2cjryQw5SeVam_BlqU9VjVlZNqLA7k=)
+> -- [国庆来石塘的宝宝不要慌 (149赞)](https://www.xiaohongshu.com/explore/68d938240000000013029b8b)
 
 ### 过夜 Tips
 - 10月1日温岭日落约17:40。建议日落前到过夜点踩好位置。
