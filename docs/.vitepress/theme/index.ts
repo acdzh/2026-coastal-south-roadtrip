@@ -12,6 +12,7 @@ import Countdown from '../components/Countdown.vue'
 import LocationMap from '../components/LocationMap.vue'
 import DaySummary from '../components/DaySummary.vue'
 import Checklist from '../components/Checklist.vue'
+import FullMap from '../components/FullMap.vue'
 import './custom.css'
 
 export default {
@@ -29,5 +30,6 @@ export default {
     app.component('LocationMap', LocationMap)
     app.component('DaySummary', DaySummary)
     app.component('Checklist', Checklist)
+    app.component('FullMap', FullMap)
   }
 } satisfies Theme

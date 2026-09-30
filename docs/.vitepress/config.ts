@@ -31,6 +31,8 @@ export default defineConfig({
           { text: '沿途美食地图', link: '/guide/food-guide' },
           { text: '费用预估', link: '/guide/budget' },
           { text: '应急信息', link: '/guide/emergency' },
+          { text: '充电地图', link: '/guide/charging-map' },
+          { text: '服务区地图', link: '/guide/service-area-map' },
         ]
       },
       {
