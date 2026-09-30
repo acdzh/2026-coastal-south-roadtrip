@@ -45,8 +45,10 @@
 - [x] VitePress 构建验证通过
 
 ## Phase 5: 图片 + 打磨
-- [ ] 下载小红书图片到 public/images/
-- [ ] amap-gui 截取路线图（fallback）
-- [ ] 检查所有链接
-- [ ] npm run dev 预览验证
-- [ ] 移动端适配检查
+- [x] 下载小红书图片到 public/images/（38张，覆盖8城市）
+- [x] amap-gui 截取路线总览截图（overview.png）
+- [x] SpotCard image 属性补全（Day 1/2/5/6）
+- [x] 检查所有链接（276条小红书链接格式正确）
+- [x] VitePress 构建验证通过
+- [ ] npm run dev 预览验证（需用户本地查看）
+- [ ] 移动端适配检查（需用户本地查看）
