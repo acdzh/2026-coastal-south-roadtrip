@@ -43,6 +43,20 @@
 - 提前规划充电站，不要等到20%以下才找充电桩
 - 下载多个充电App，不同服务区可能用不同平台
 
+### 7 天充电计划总览
+
+<ChargingPlan :plan="[
+  { day: 1, start: 100, end: 25 },
+  { day: 2, start: 25, end: 55, chargeAt: '石塘镇', chargeTo: 80 },
+  { day: 3, start: 80, end: 50, chargeAt: '洞头岛', chargeTo: 80 },
+  { day: 4, start: 50, end: 40 },
+  { day: 5, start: 40, end: 30, chargeAt: '霞浦县城', chargeTo: 90 },
+  { day: 6, start: 95, end: 15, chargeAt: '平潭/福州', chargeTo: 95 },
+  { day: 7, start: 95, end: 25, chargeAt: '衢州市区', chargeTo: 95 }
+]" />
+
+> Day 1 上海满电出发，432km 到台州石塘约剩 25%，当晚不急充。Day 2 石塘充至 80% 后跑 157km 到洞头剩 55%。Day 3 洞头补电到 80%，183km 到太姥山镇剩 50%。Day 4 短途 72km 到霞浦不充电。Day 5 霞浦充到 90%，304km 到平潭剩 30%。Day 6 是最长的一天（468km），福州/平潭充满 95% 出发，途中南平服务区补一次电，到衢州约剩 15%。Day 7 衢州充满 95%，407km 回上海约剩 25%。
+
 ## 装备清单
 
 ### 已有

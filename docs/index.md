@@ -29,6 +29,7 @@ features:
 ---
 
 <AmapKeyInput />
+<Countdown />
 
 ## 路线总览
 
