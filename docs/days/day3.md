@@ -130,15 +130,15 @@ driving: "2.9小时（不含停留）"
 
 > [!NOTE] 4.30温州苍南168黄金海岸线自驾 (1839赞)
 > 苍南渔寮沙滩 + 168黄金海岸线的自驾攻略，路线清晰实用。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/69f969270000000022029ff8)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/69f969270000000022029ff8) · [App打开](xhsdiscover://item/69f969270000000022029ff8)
 
 > [!NOTE] 不是海南，是浙江被严重低估的蔚蓝海岸线 (1178赞)
 > 苍南渔寮的水质和沙质在浙江沿海中属于上乘，被严重低估。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6807433e000000001c006998)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6807433e000000001c006998) · [App打开](xhsdiscover://item/6807433e000000001c006998)
 
 > [!NOTE] 在温州苍南看到了蓝眼泪耶！(1650赞)
 > 运气好的话渔寮能看到蓝眼泪（荧光海），通常在4-8月最多，10月概率不大但万一呢。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6840850f0000000021007e47)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6840850f0000000021007e47) · [App打开](xhsdiscover://item/6840850f0000000021007e47)
 
 <ImageGallery :images="[
   { src: '/images/spots/wenzhou-spots-苍南渔寮-036-0.webp', alt: '苍南渔寮沙滩全景，浙江最大天然沙滩' },
@@ -190,15 +190,15 @@ driving: "2.9小时（不含停留）"
 
 > [!NOTE] 2天1夜玩转苍南168黄金海岸线 (2112赞)
 > 详细自驾攻略，标注了168海岸线上的核心打卡点和停靠建议。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/68ec998000000000040213f1)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68ec998000000000040213f1) · [App打开](xhsdiscover://item/68ec998000000000040213f1)
 
 > [!NOTE] 这才是苍南168黄金海岸线的正确打开方式！(1442赞)
 > 沿线精华点位整理，标出了最佳停车拍照的位置。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/68e35dcc0000000004023218)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68e35dcc0000000004023218) · [App打开](xhsdiscover://item/68e35dcc0000000004023218)
 
 > [!NOTE] 4.30温州苍南168黄金海岸线自驾 (1839赞)
 > 沿着海岸线自驾的实拍记录，含渔寮沙滩。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/69f969270000000022029ff8)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/69f969270000000022029ff8) · [App打开](xhsdiscover://item/69f969270000000022029ff8)
 
 <ImageGallery :images="[
   { src: '/images/spots/wenzhou-spots-苍南海岸线-030-0.webp', alt: '苍南168黄金海岸线' },
@@ -234,8 +234,8 @@ driving: "2.9小时（不含停留）"
 | 建议游玩时间 | 30-60分钟 |
 
 小红书参考：
-- [海啊！怎么连沙滩都有牛郎滩和织女滩！！(171赞)](https://www.xiaohongshu.com/explore/6a39b0080000000022008a15)
-- [福鼎的海可真蓝啊 (148赞)](https://www.xiaohongshu.com/explore/68e11cbc0000000003011f21)
+- [海啊！怎么连沙滩都有牛郎滩和织女滩！！(171赞)](https://www.xiaohongshu.com/explore/6a39b0080000000022008a15) · [App打开](xhsdiscover://item/6a39b0080000000022008a15)
+- [福鼎的海可真蓝啊 (148赞)](https://www.xiaohongshu.com/explore/68e11cbc0000000003011f21) · [App打开](xhsdiscover://item/68e11cbc0000000003011f21)
 
 <ImageGallery :images="[
   { src: '/images/spots/fuding-xiapu-spots-福鼎牛郎岗-080-0.webp', alt: '牛郎岗海滨' },
@@ -296,19 +296,19 @@ driving: "2.9小时（不含停留）"
 
 > [!NOTE] 福鼎人肉片 (7848赞)
 > 最火的福鼎肉片帖子，详细介绍了正宗福鼎肉片的做法和吃法。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/698ac081000000001a021df0)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/698ac081000000001a021df0) · [App打开](xhsdiscover://item/698ac081000000001a021df0)
 
 > [!NOTE] 怀疑里面加了罂粟壳 (7589赞)
 > 夸张表达福鼎肉片的上瘾程度——汤底太好喝了，让人怀疑加了什么秘方。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/68d57081000000000b03fe1a)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68d57081000000000b03fe1a) · [App打开](xhsdiscover://item/68d57081000000000b03fe1a)
 
 > [!NOTE] 为啥福鼎肉片的汤这么好喝！！！(6925赞)
 > 深度解析福鼎肉片汤底的鲜美秘密。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/69d8a3e4000000001b002d97)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/69d8a3e4000000001b002d97) · [App打开](xhsdiscover://item/69d8a3e4000000001b002d97)
 
 > [!NOTE] 谁来曝光一下这个福鼎肉片 (1308赞)
 > 网友对比不同店家的福鼎肉片，帮你选到好店。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6a113771000000003601bddb)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a113771000000003601bddb) · [App打开](xhsdiscover://item/6a113771000000003601bddb)
 
 <ImageGallery :images="[
   { src: '/images/food/fuding-xiapu-food-福鼎美食-090-0.webp', alt: '福鼎肉片' },
@@ -326,7 +326,7 @@ driving: "2.9小时（不含停留）"
 | 价格参考 | 白茶价格区间很大，几十到几千都有。如果要买，寿眉最实惠（50-100元/斤），白牡丹中等（200-500元/斤） |
 | 避坑 | 太姥山镇游客多，部分茶店价格偏高。不急着买，可以先了解行情 |
 
-小红书参考：[福鼎白茶交易中心买白茶 (238赞)](https://www.xiaohongshu.com/explore/64a93dd400000000120107f5)
+小红书参考：[福鼎白茶交易中心买白茶 (238赞)](https://www.xiaohongshu.com/explore/64a93dd400000000120107f5) · [App打开](xhsdiscover://item/64a93dd400000000120107f5)
 
 ## 今晚过夜
 

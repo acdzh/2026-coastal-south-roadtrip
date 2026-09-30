@@ -60,17 +60,17 @@ driving: "5.3小时"
 
 > [!NOTE] 究极聪明人之十年国庆返程堵车数据分析 (355赞)
 > 基于多年数据分析，国庆返程10/7堵车高峰在10:00-16:00，建议尽早出发。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/68dd393c000000000300c66a)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68dd393c000000000300c66a) · [App打开](xhsdiscover://item/68dd393c000000000300c66a)
 
 > [!NOTE] 老司机教你高速免费返程赶路技巧 (3311赞)
 > 返程核心技巧：早出发、避开杭州绕城高峰、堵车时跟着导航走备选路线。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/699b27c7000000001d010172)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/699b27c7000000001d010172) · [App打开](xhsdiscover://item/699b27c7000000001d010172)
 
 > [!NOTE] 国庆最堵的十条高速 (112赞)
 > G60沪昆高速杭州至上海段榜上有名。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6aa7ae7800000000250374b6)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6aa7ae7800000000250374b6) · [App打开](xhsdiscover://item/6aa7ae7800000000250374b6)
 
-- [国庆自驾避堵指南｜江浙沪高速拥堵预测 (175赞)](https://www.xiaohongshu.com/explore/68d3b3ef000000000b03e27c)
+- [国庆自驾避堵指南｜江浙沪高速拥堵预测 (175赞)](https://www.xiaohongshu.com/explore/68d3b3ef000000000b03e27c) · [App打开](xhsdiscover://item/68d3b3ef000000000b03e27c)
 
 ## 沿途可选（时间充裕才去，否则跳过）
 
@@ -89,9 +89,9 @@ driving: "5.3小时"
 
 > [!NOTE] 金华 该你火了！ (14002赞)
 > 金华美食密度极高，被严重低估的浙江美食城市。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/681223420000000021001f22)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/681223420000000021001f22) · [App打开](xhsdiscover://item/681223420000000021001f22)
 
-- [一整条街都在卖饼？爱吃饼一定要来金华！ (5285赞)](https://www.xiaohongshu.com/explore/688768ed0000000025010d38)
+- [一整条街都在卖饼？爱吃饼一定要来金华！ (5285赞)](https://www.xiaohongshu.com/explore/688768ed0000000025010d38) · [App打开](xhsdiscover://item/688768ed0000000025010d38)
 
 ### 义乌：值得逛吗？
 
@@ -99,11 +99,11 @@ driving: "5.3小时"
 
 > [!NOTE] 义乌一日游（散客保姆级攻略） (23062赞)
 > 义乌小商品城需要至少半天才能逛完，散客也有很多好逛的。但不适合赶路日。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/694362f3000000001d03b9fb)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/694362f3000000001d03b9fb) · [App打开](xhsdiscover://item/694362f3000000001d03b9fb)
 
 > [!NOTE] 听说义乌本地人都不逛 勇闯小商品城大踩雷 (4606赞)
 > 作为游客逛义乌，很多区域并不适合散客，需要做功课再去。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6a844605000000002402c1b1)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a844605000000002402c1b1) · [App打开](xhsdiscover://item/6a844605000000002402c1b1)
 
 ## 路上吃的
 

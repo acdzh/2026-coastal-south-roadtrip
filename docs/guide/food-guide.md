@@ -19,11 +19,11 @@
 | **对虾** | 全线 | 白灼、油焖 | 10月虾肉紧实 |
 
 ::: tip 海鲜季节参考
-[去舟山，面朝大海鲜！（700赞）](https://www.xiaohongshu.com/explore/68a192f1000000001b01d077)
+[去舟山，面朝大海鲜！（700赞）](https://www.xiaohongshu.com/explore/68a192f1000000001b01d077) · [App打开](xhsdiscover://item/68a192f1000000001b01d077)
 ·
-[24种应季海鲜时令图鉴（306赞）](https://www.xiaohongshu.com/explore/6863a109000000000d01a2e4)
+[24种应季海鲜时令图鉴（306赞）](https://www.xiaohongshu.com/explore/6863a109000000000d01a2e4) · [App打开](xhsdiscover://item/6863a109000000000d01a2e4)
 ·
-[全国蟹逅指南（394赞）](https://www.xiaohongshu.com/explore/66f52a8c000000001a022523)
+[全国蟹逅指南（394赞）](https://www.xiaohongshu.com/explore/66f52a8c000000001a022523) · [App打开](xhsdiscover://item/66f52a8c000000001a022523)
 :::
 
 ### 买海鲜通用防坑指南
@@ -51,16 +51,16 @@
 
 | 推荐 | 链接 |
 |------|------|
-| 早上6点去吃遍台州小海鲜（8970赞） | [小红书](https://www.xiaohongshu.com/explore/6380b090000000001e03d585) |
-| 浙江台州地区最大的海鲜批发市场（634赞） | [小红书](https://www.xiaohongshu.com/explore/6a7fc6380000000006005e9f) |
+| 早上6点去吃遍台州小海鲜（8970赞） | [小红书](https://www.xiaohongshu.com/explore/6380b090000000001e03d585) · [App打开](xhsdiscover://item/6380b090000000001e03d585) |
+| 浙江台州地区最大的海鲜批发市场（634赞） | [小红书](https://www.xiaohongshu.com/explore/6a7fc6380000000006005e9f) · [App打开](xhsdiscover://item/6a7fc6380000000006005e9f) |
 
 石塘海鲜（温岭石塘半岛）：
 
 | 推荐 | 链接 |
 |------|------|
-| 浙A口味勇闯温岭-吃东海小海鲜（石塘4家）（336赞） | [小红书](https://www.xiaohongshu.com/explore/68e11074000000000702281e) |
-| 感谢温岭石塘朋友推荐，还得是本地人（303赞） | [小红书](https://www.xiaohongshu.com/explore/6a3b92cb0000000016024505) |
-| 台州真的太好吃啦（319赞） | [小红书](https://www.xiaohongshu.com/explore/6828755900000000220248c5) |
+| 浙A口味勇闯温岭-吃东海小海鲜（石塘4家）（336赞） | [小红书](https://www.xiaohongshu.com/explore/68e11074000000000702281e) · [App打开](xhsdiscover://item/68e11074000000000702281e) |
+| 感谢温岭石塘朋友推荐，还得是本地人（303赞） | [小红书](https://www.xiaohongshu.com/explore/6a3b92cb0000000016024505) · [App打开](xhsdiscover://item/6a3b92cb0000000016024505) |
+| 台州真的太好吃啦（319赞） | [小红书](https://www.xiaohongshu.com/explore/6828755900000000220248c5) · [App打开](xhsdiscover://item/6828755900000000220248c5) |
 
 ### 小吃速查表
 
@@ -75,13 +75,13 @@
 
 | 推荐 | 链接 |
 |------|------|
-| 藏在台州深巷里的冷饭麦饼！8块一个！（55977赞） | [小红书](https://www.xiaohongshu.com/explore/6a2a7162000000001700a5b7) |
-| 温岭嵌糕（6765赞） | [小红书](https://www.xiaohongshu.com/explore/6a462d3300000000060334b7) |
-| 浙J的生活千金难买...附18家小破店（5464赞） | [小红书](https://www.xiaohongshu.com/explore/695cfc61000000000b009c17) |
-| 一个人周末24小时吃遍台州美食（6873赞） | [小红书](https://www.xiaohongshu.com/explore/69a41b8a0000000028023ffa) |
-| 我宣布这是最好吃的虾！（11955赞） | [小红书](https://www.xiaohongshu.com/explore/67f14245000000001e008233) |
-| 没好食材就关门，靠海吃海的火锅老店（6311赞） | [小红书](https://www.xiaohongshu.com/explore/6aa6c63a000000002802b624) |
-| 台州感觉除了吃的也没啥好的...（3154赞） | [小红书](https://www.xiaohongshu.com/explore/6800951c000000001c01e03b) |
+| 藏在台州深巷里的冷饭麦饼！8块一个！（55977赞） | [小红书](https://www.xiaohongshu.com/explore/6a2a7162000000001700a5b7) · [App打开](xhsdiscover://item/6a2a7162000000001700a5b7) |
+| 温岭嵌糕（6765赞） | [小红书](https://www.xiaohongshu.com/explore/6a462d3300000000060334b7) · [App打开](xhsdiscover://item/6a462d3300000000060334b7) |
+| 浙J的生活千金难买...附18家小破店（5464赞） | [小红书](https://www.xiaohongshu.com/explore/695cfc61000000000b009c17) · [App打开](xhsdiscover://item/695cfc61000000000b009c17) |
+| 一个人周末24小时吃遍台州美食（6873赞） | [小红书](https://www.xiaohongshu.com/explore/69a41b8a0000000028023ffa) · [App打开](xhsdiscover://item/69a41b8a0000000028023ffa) |
+| 我宣布这是最好吃的虾！（11955赞） | [小红书](https://www.xiaohongshu.com/explore/67f14245000000001e008233) · [App打开](xhsdiscover://item/67f14245000000001e008233) |
+| 没好食材就关门，靠海吃海的火锅老店（6311赞） | [小红书](https://www.xiaohongshu.com/explore/6aa6c63a000000002802b624) · [App打开](xhsdiscover://item/6aa6c63a000000002802b624) |
+| 台州感觉除了吃的也没啥好的...（3154赞） | [小红书](https://www.xiaohongshu.com/explore/6800951c000000001c01e03b) · [App打开](xhsdiscover://item/6800951c000000001c01e03b) |
 
 ---
 
@@ -99,17 +99,17 @@
 
 | 推荐 | 链接 |
 |------|------|
-| 温州海鲜黑店曝光（避坑）（83赞） | [小红书](https://www.xiaohongshu.com/explore/6a0eda4e0000000007022b1b) |
-| 避雷！去洞头区玩的游客注意了！（42赞） | [小红书](https://www.xiaohongshu.com/explore/689c662a000000001c03fe13) |
-| 温州松台菜场避雷（37赞） | [小红书](https://www.xiaohongshu.com/explore/6a8914da0000000038002593) |
+| 温州海鲜黑店曝光（避坑）（83赞） | [小红书](https://www.xiaohongshu.com/explore/6a0eda4e0000000007022b1b) · [App打开](xhsdiscover://item/6a0eda4e0000000007022b1b) |
+| 避雷！去洞头区玩的游客注意了！（42赞） | [小红书](https://www.xiaohongshu.com/explore/689c662a000000001c03fe13) · [App打开](xhsdiscover://item/689c662a000000001c03fe13) |
+| 温州松台菜场避雷（37赞） | [小红书](https://www.xiaohongshu.com/explore/6a8914da0000000038002593) · [App打开](xhsdiscover://item/6a8914da0000000038002593) |
 
 洞头海鲜（海岛，海鲜更新鲜）：
 
 | 推荐 | 链接 |
 |------|------|
-| 温州洞头求本地人推荐好吃的海鲜店（597赞） | [小红书](https://www.xiaohongshu.com/explore/681063ad000000002001dca8) |
-| 洞头本地人安利的土菜馆（326赞） | [小红书](https://www.xiaohongshu.com/explore/69dda339000000001f003ae2) |
-| 温州洞头一日游速通攻略！（310赞） | [小红书](https://www.xiaohongshu.com/explore/69ae95aa0000000015033b77) |
+| 温州洞头求本地人推荐好吃的海鲜店（597赞） | [小红书](https://www.xiaohongshu.com/explore/681063ad000000002001dca8) · [App打开](xhsdiscover://item/681063ad000000002001dca8) |
+| 洞头本地人安利的土菜馆（326赞） | [小红书](https://www.xiaohongshu.com/explore/69dda339000000001f003ae2) · [App打开](xhsdiscover://item/69dda339000000001f003ae2) |
+| 温州洞头一日游速通攻略！（310赞） | [小红书](https://www.xiaohongshu.com/explore/69ae95aa0000000015033b77) · [App打开](xhsdiscover://item/69ae95aa0000000015033b77) |
 
 ### 小吃速查表
 
@@ -126,13 +126,13 @@
 
 | 推荐 | 链接 |
 |------|------|
-| 温州街头特色美食（16509赞） | [小红书](https://www.xiaohongshu.com/explore/69d728100000000023006b64) |
-| 留子回国-温州美食街碳水宇宙爆击我（11286赞） | [小红书](https://www.xiaohongshu.com/explore/686749db000000001c035d75) |
-| 温州人，你们吃的很曼妙（12218赞） | [小红书](https://www.xiaohongshu.com/explore/6a3154f20000000011016130) |
-| 在温州吃小海鲜-江蟹生无敌好吃（7712赞） | [小红书](https://www.xiaohongshu.com/explore/69cb46e000000000210389df) |
-| 温州海鲜面（6317赞） | [小红书](https://www.xiaohongshu.com/explore/683a49e7000000002100b175) |
-| 关于温州人让日本人心服口服这件事（8198赞） | [小红书](https://www.xiaohongshu.com/explore/685a7a6d00000000100250cb) |
-| 勇敢的人先享受血蛤！（21731赞） | [小红书](https://www.xiaohongshu.com/explore/6a6d9a7e000000002402e8d6) |
+| 温州街头特色美食（16509赞） | [小红书](https://www.xiaohongshu.com/explore/69d728100000000023006b64) · [App打开](xhsdiscover://item/69d728100000000023006b64) |
+| 留子回国-温州美食街碳水宇宙爆击我（11286赞） | [小红书](https://www.xiaohongshu.com/explore/686749db000000001c035d75) · [App打开](xhsdiscover://item/686749db000000001c035d75) |
+| 温州人，你们吃的很曼妙（12218赞） | [小红书](https://www.xiaohongshu.com/explore/6a3154f20000000011016130) · [App打开](xhsdiscover://item/6a3154f20000000011016130) |
+| 在温州吃小海鲜-江蟹生无敌好吃（7712赞） | [小红书](https://www.xiaohongshu.com/explore/69cb46e000000000210389df) · [App打开](xhsdiscover://item/69cb46e000000000210389df) |
+| 温州海鲜面（6317赞） | [小红书](https://www.xiaohongshu.com/explore/683a49e7000000002100b175) · [App打开](xhsdiscover://item/683a49e7000000002100b175) |
+| 关于温州人让日本人心服口服这件事（8198赞） | [小红书](https://www.xiaohongshu.com/explore/685a7a6d00000000100250cb) · [App打开](xhsdiscover://item/685a7a6d00000000100250cb) |
+| 勇敢的人先享受血蛤！（21731赞） | [小红书](https://www.xiaohongshu.com/explore/6a6d9a7e000000002402e8d6) · [App打开](xhsdiscover://item/6a6d9a7e000000002402e8d6) |
 
 ---
 
@@ -152,8 +152,8 @@
 
 | 推荐 | 链接 |
 |------|------|
-| 2天1夜玩转苍南168黄金海岸线（2112赞） | [小红书](https://www.xiaohongshu.com/explore/68ec998000000000040213f1) |
-| 苍南168黄金海岸线自驾（1839赞） | [小红书](https://www.xiaohongshu.com/explore/69f969270000000022029ff8) |
+| 2天1夜玩转苍南168黄金海岸线（2112赞） | [小红书](https://www.xiaohongshu.com/explore/68ec998000000000040213f1) · [App打开](xhsdiscover://item/68ec998000000000040213f1) |
+| 苍南168黄金海岸线自驾（1839赞） | [小红书](https://www.xiaohongshu.com/explore/69f969270000000022029ff8) · [App打开](xhsdiscover://item/69f969270000000022029ff8) |
 
 ---
 
@@ -178,11 +178,11 @@
 
 | 推荐 | 链接 |
 |------|------|
-| 福鼎人肉片（7848赞） | [小红书](https://www.xiaohongshu.com/explore/698ac081000000001a021df0) |
-| 怀疑里面加了罂粟壳（7589赞） | [小红书](https://www.xiaohongshu.com/explore/68d57081000000000b03fe1a) |
-| 为啥福鼎肉片的汤这么好喝！（6925赞） | [小红书](https://www.xiaohongshu.com/explore/69d8a3e4000000001b002d97) |
-| 谁来曝光一下这个福鼎肉片（1308赞） | [小红书](https://www.xiaohongshu.com/explore/6a113771000000003601bddb) |
-| 为啥小摊卖的福鼎肉片不能吃？（1012赞） | [小红书](https://www.xiaohongshu.com/explore/691ff986000000000d0391a3) |
+| 福鼎人肉片（7848赞） | [小红书](https://www.xiaohongshu.com/explore/698ac081000000001a021df0) · [App打开](xhsdiscover://item/698ac081000000001a021df0) |
+| 怀疑里面加了罂粟壳（7589赞） | [小红书](https://www.xiaohongshu.com/explore/68d57081000000000b03fe1a) · [App打开](xhsdiscover://item/68d57081000000000b03fe1a) |
+| 为啥福鼎肉片的汤这么好喝！（6925赞） | [小红书](https://www.xiaohongshu.com/explore/69d8a3e4000000001b002d97) · [App打开](xhsdiscover://item/69d8a3e4000000001b002d97) |
+| 谁来曝光一下这个福鼎肉片（1308赞） | [小红书](https://www.xiaohongshu.com/explore/6a113771000000003601bddb) · [App打开](xhsdiscover://item/6a113771000000003601bddb) |
+| 为啥小摊卖的福鼎肉片不能吃？（1012赞） | [小红书](https://www.xiaohongshu.com/explore/691ff986000000000d0391a3) · [App打开](xhsdiscover://item/691ff986000000000d0391a3) |
 
 ### 福鼎白茶购买
 
@@ -190,9 +190,9 @@
 
 | 推荐 | 链接 |
 |------|------|
-| 福鼎白茶交易中心买白茶（238赞） | [小红书](https://www.xiaohongshu.com/explore/64a93dd400000000120107f5) |
-| 福鼎白茶购买指南-初级篇（147赞） | [小红书](https://www.xiaohongshu.com/explore/64eb64650000000010031960) |
-| 一图看懂4大白茶怎么选！（93赞） | [小红书](https://www.xiaohongshu.com/explore/69c109a40000000022001dd6) |
+| 福鼎白茶交易中心买白茶（238赞） | [小红书](https://www.xiaohongshu.com/explore/64a93dd400000000120107f5) · [App打开](xhsdiscover://item/64a93dd400000000120107f5) |
+| 福鼎白茶购买指南-初级篇（147赞） | [小红书](https://www.xiaohongshu.com/explore/64eb64650000000010031960) · [App打开](xhsdiscover://item/64eb64650000000010031960) |
+| 一图看懂4大白茶怎么选！（93赞） | [小红书](https://www.xiaohongshu.com/explore/69c109a40000000022001dd6) · [App打开](xhsdiscover://item/69c109a40000000022001dd6) |
 
 ---
 
@@ -210,8 +210,8 @@
 
 | 推荐 | 链接 |
 |------|------|
-| 霞浦自驾游-菜市场海鲜篇（附价格）（453赞） | [小红书](https://www.xiaohongshu.com/explore/68e5e850000000000401038b) |
-| 霞浦海鲜市场（176赞） | [小红书](https://www.xiaohongshu.com/explore/68003b5e000000001c00ac03) |
+| 霞浦自驾游-菜市场海鲜篇（附价格）（453赞） | [小红书](https://www.xiaohongshu.com/explore/68e5e850000000000401038b) · [App打开](xhsdiscover://item/68e5e850000000000401038b) |
+| 霞浦海鲜市场（176赞） | [小红书](https://www.xiaohongshu.com/explore/68003b5e000000001c00ac03) · [App打开](xhsdiscover://item/68003b5e000000001c00ac03) |
 
 ### 小吃速查表
 
@@ -225,10 +225,10 @@
 
 | 推荐 | 链接 |
 |------|------|
-| 没有计划的宁德霞浦旅行（7558赞） | [小红书](https://www.xiaohongshu.com/explore/68e75fae00000000040134db) |
-| 霞浦美食居然也有鄙视链（1485赞） | [小红书](https://www.xiaohongshu.com/explore/6826a595000000000f032c77) |
-| 霞浦旅游半土著带吃攻略（63赞） | [小红书](https://www.xiaohongshu.com/explore/6a3612bf0000000021020e91) |
-| （合集）霞浦三沙镇，严重被低估的美食小镇（450赞） | [小红书](https://www.xiaohongshu.com/explore/68d969cd000000001203d183) |
+| 没有计划的宁德霞浦旅行（7558赞） | [小红书](https://www.xiaohongshu.com/explore/68e75fae00000000040134db) · [App打开](xhsdiscover://item/68e75fae00000000040134db) |
+| 霞浦美食居然也有鄙视链（1485赞） | [小红书](https://www.xiaohongshu.com/explore/6826a595000000000f032c77) · [App打开](xhsdiscover://item/6826a595000000000f032c77) |
+| 霞浦旅游半土著带吃攻略（63赞） | [小红书](https://www.xiaohongshu.com/explore/6a3612bf0000000021020e91) · [App打开](xhsdiscover://item/6a3612bf0000000021020e91) |
+| （合集）霞浦三沙镇，严重被低估的美食小镇（450赞） | [小红书](https://www.xiaohongshu.com/explore/68d969cd000000001203d183) · [App打开](xhsdiscover://item/68d969cd000000001203d183) |
 
 ---
 
@@ -246,16 +246,16 @@
 
 | 推荐 | 链接 |
 |------|------|
-| 在福州打卡亚洲最大的海鲜市场（899赞） | [小红书](https://www.xiaohongshu.com/explore/68b46b43000000001d018b2d) |
-| 福州西营里市场（653赞） | [小红书](https://www.xiaohongshu.com/explore/67f0bcc5000000001c034c01) |
+| 在福州打卡亚洲最大的海鲜市场（899赞） | [小红书](https://www.xiaohongshu.com/explore/68b46b43000000001d018b2d) · [App打开](xhsdiscover://item/68b46b43000000001d018b2d) |
+| 福州西营里市场（653赞） | [小红书](https://www.xiaohongshu.com/explore/67f0bcc5000000001c034c01) · [App打开](xhsdiscover://item/67f0bcc5000000001c034c01) |
 
 ### 夜市
 
 | 推荐 | 链接 |
 |------|------|
-| 福州最好逛的夜市在这里！（821赞） | [小红书](https://www.xiaohongshu.com/explore/682dba310000000012000a29) |
-| 推荐福州热门夜市，好吃不贵（779赞） | [小红书](https://www.xiaohongshu.com/explore/69854919000000000b0091f1) |
-| 祥坂夜市，意外好吃（680赞） | [小红书](https://www.xiaohongshu.com/explore/67e048f7000000001c03d27f) |
+| 福州最好逛的夜市在这里！（821赞） | [小红书](https://www.xiaohongshu.com/explore/682dba310000000012000a29) · [App打开](xhsdiscover://item/682dba310000000012000a29) |
+| 推荐福州热门夜市，好吃不贵（779赞） | [小红书](https://www.xiaohongshu.com/explore/69854919000000000b0091f1) · [App打开](xhsdiscover://item/69854919000000000b0091f1) |
+| 祥坂夜市，意外好吃（680赞） | [小红书](https://www.xiaohongshu.com/explore/67e048f7000000001c03d27f) · [App打开](xhsdiscover://item/67e048f7000000001c03d27f) |
 
 ### 小吃速查表
 
@@ -271,16 +271,16 @@
 
 | 推荐 | 链接 |
 |------|------|
-| 女生来了福州早市根本走不动道儿（6891赞） | [小红书](https://www.xiaohongshu.com/explore/68d8fc270000000013014a18) |
-| 来了福州才知道之前看的攻略有多吓人（5956赞） | [小红书](https://www.xiaohongshu.com/explore/6a57aa1f000000000803f3a9) |
-| 关于我在福州两天吃了30顿（附不踩雷攻略）（5578赞） | [小红书](https://www.xiaohongshu.com/explore/6a56d3b9000000001003ddbd) |
-| 福州新开的！佛跳墙（5153赞） | [小红书](https://www.xiaohongshu.com/explore/69f0506900000000350207d1) |
-| 福州街头25元鲟饭，28元佛跳墙（3124赞） | [小红书](https://www.xiaohongshu.com/explore/697eab93000000000a02fac2) |
-| 李立群：爱吃福州鱼丸（863赞） | [小红书](https://www.xiaohongshu.com/explore/6a6c4299000000003301068d) |
-| 福州鱼丸推荐清单（736赞） | [小红书](https://www.xiaohongshu.com/explore/69181d260000000004012180) |
-| 福州锅边糊（816赞） | [小红书](https://www.xiaohongshu.com/explore/6a021071000000003700c8f6) |
-| 福建福州美食地图（1111赞） | [小红书](https://www.xiaohongshu.com/explore/694e4650000000001e03bee8) |
-| 非遗美食-福州肉燕（1777赞） | [小红书](https://www.xiaohongshu.com/explore/685faa2c0000000012017fa5) |
+| 女生来了福州早市根本走不动道儿（6891赞） | [小红书](https://www.xiaohongshu.com/explore/68d8fc270000000013014a18) · [App打开](xhsdiscover://item/68d8fc270000000013014a18) |
+| 来了福州才知道之前看的攻略有多吓人（5956赞） | [小红书](https://www.xiaohongshu.com/explore/6a57aa1f000000000803f3a9) · [App打开](xhsdiscover://item/6a57aa1f000000000803f3a9) |
+| 关于我在福州两天吃了30顿（附不踩雷攻略）（5578赞） | [小红书](https://www.xiaohongshu.com/explore/6a56d3b9000000001003ddbd) · [App打开](xhsdiscover://item/6a56d3b9000000001003ddbd) |
+| 福州新开的！佛跳墙（5153赞） | [小红书](https://www.xiaohongshu.com/explore/69f0506900000000350207d1) · [App打开](xhsdiscover://item/69f0506900000000350207d1) |
+| 福州街头25元鲟饭，28元佛跳墙（3124赞） | [小红书](https://www.xiaohongshu.com/explore/697eab93000000000a02fac2) · [App打开](xhsdiscover://item/697eab93000000000a02fac2) |
+| 李立群：爱吃福州鱼丸（863赞） | [小红书](https://www.xiaohongshu.com/explore/6a6c4299000000003301068d) · [App打开](xhsdiscover://item/6a6c4299000000003301068d) |
+| 福州鱼丸推荐清单（736赞） | [小红书](https://www.xiaohongshu.com/explore/69181d260000000004012180) · [App打开](xhsdiscover://item/69181d260000000004012180) |
+| 福州锅边糊（816赞） | [小红书](https://www.xiaohongshu.com/explore/6a021071000000003700c8f6) · [App打开](xhsdiscover://item/6a021071000000003700c8f6) |
+| 福建福州美食地图（1111赞） | [小红书](https://www.xiaohongshu.com/explore/694e4650000000001e03bee8) · [App打开](xhsdiscover://item/694e4650000000001e03bee8) |
+| 非遗美食-福州肉燕（1777赞） | [小红书](https://www.xiaohongshu.com/explore/685faa2c0000000012017fa5) · [App打开](xhsdiscover://item/685faa2c0000000012017fa5) |
 
 ---
 
@@ -304,10 +304,10 @@
 
 | 推荐 | 链接 |
 |------|------|
-| 大学生勇闯衢州12小时爽吃8顿！（10664赞） | [小红书](https://www.xiaohongshu.com/explore/6a4f6033000000000f0057ac) |
-| 周末48小时逛吃一座城！衢州篇（4341赞） | [小红书](https://www.xiaohongshu.com/explore/6a4ce5ad00000000060301c0) |
-| 一条专门给吃货的衢州美食攻略（合集）（4243赞） | [小红书](https://www.xiaohongshu.com/explore/6aabb5ae000000001103a787) |
-| 浙江最会吃辣的小城，衢州真的很上头（436赞） | [小红书](https://www.xiaohongshu.com/explore/6a3224f2000000000f01e055) |
+| 大学生勇闯衢州12小时爽吃8顿！（10664赞） | [小红书](https://www.xiaohongshu.com/explore/6a4f6033000000000f0057ac) · [App打开](xhsdiscover://item/6a4f6033000000000f0057ac) |
+| 周末48小时逛吃一座城！衢州篇（4341赞） | [小红书](https://www.xiaohongshu.com/explore/6a4ce5ad00000000060301c0) · [App打开](xhsdiscover://item/6a4ce5ad00000000060301c0) |
+| 一条专门给吃货的衢州美食攻略（合集）（4243赞） | [小红书](https://www.xiaohongshu.com/explore/6aabb5ae000000001103a787) · [App打开](xhsdiscover://item/6aabb5ae000000001103a787) |
+| 浙江最会吃辣的小城，衢州真的很上头（436赞） | [小红书](https://www.xiaohongshu.com/explore/6a3224f2000000000f01e055) · [App打开](xhsdiscover://item/6a3224f2000000000f01e055) |
 
 ---
 
@@ -331,11 +331,11 @@
 
 | 推荐 | 链接 |
 |------|------|
-| 拼夕夕战绩-特产篇（鸭舌、鱼饼、豆腐干）（2276赞） | [小红书](https://www.xiaohongshu.com/explore/6927f68f000000001e022d9e) |
-| 真的无敌好吃的鸭舌！温州人认证！（541赞） | [小红书](https://www.xiaohongshu.com/explore/68ad448f000000001c03d0b8) |
-| 温州酱油醋（4988赞） | [小红书](https://www.xiaohongshu.com/explore/6941686a000000001e02b001) |
-| 福建特产（3434赞） | [小红书](https://www.xiaohongshu.com/explore/680780dd00000000070371cb) |
-| 福建不做攻略瞎买版伴手礼（2042赞） | [小红书](https://www.xiaohongshu.com/explore/69a151d2000000000e00e921) |
+| 拼夕夕战绩-特产篇（鸭舌、鱼饼、豆腐干）（2276赞） | [小红书](https://www.xiaohongshu.com/explore/6927f68f000000001e022d9e) · [App打开](xhsdiscover://item/6927f68f000000001e022d9e) |
+| 真的无敌好吃的鸭舌！温州人认证！（541赞） | [小红书](https://www.xiaohongshu.com/explore/68ad448f000000001c03d0b8) · [App打开](xhsdiscover://item/68ad448f000000001c03d0b8) |
+| 温州酱油醋（4988赞） | [小红书](https://www.xiaohongshu.com/explore/6941686a000000001e02b001) · [App打开](xhsdiscover://item/6941686a000000001e02b001) |
+| 福建特产（3434赞） | [小红书](https://www.xiaohongshu.com/explore/680780dd00000000070371cb) · [App打开](xhsdiscover://item/680780dd00000000070371cb) |
+| 福建不做攻略瞎买版伴手礼（2042赞） | [小红书](https://www.xiaohongshu.com/explore/69a151d2000000000e00e921) · [App打开](xhsdiscover://item/69a151d2000000000e00e921) |
 
 ---
 
@@ -345,5 +345,5 @@
 
 | 推荐 | 链接 |
 |------|------|
-| 突然悟了老一辈出门爱带鸡蛋的原因（6516赞） | [小红书](https://www.xiaohongshu.com/explore/686e7b230000000012023940) |
-| 回家过中秋堵在路上，还好提前备了硬核物资（3171赞） | [小红书](https://www.xiaohongshu.com/explore/6ab49ea4000000000a020336) |
+| 突然悟了老一辈出门爱带鸡蛋的原因（6516赞） | [小红书](https://www.xiaohongshu.com/explore/686e7b230000000012023940) · [App打开](xhsdiscover://item/686e7b230000000012023940) |
+| 回家过中秋堵在路上，还好提前备了硬核物资（3171赞） | [小红书](https://www.xiaohongshu.com/explore/6ab49ea4000000000a020336) · [App打开](xhsdiscover://item/6ab49ea4000000000a020336) |

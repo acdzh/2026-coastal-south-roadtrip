@@ -70,11 +70,11 @@ driving: "2.7小时"
 
 > [!NOTE] 霞浦滩涂｜中国海岸线的光影 (601赞)
 > 日出时滩涂上的紫菜架在光影中如同水墨画，是摄影师的天堂。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6929673e000000000d0378f2)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6929673e000000000d0378f2) · [App打开](xhsdiscover://item/6929673e000000000d0378f2)
 
 > [!NOTE] 霞浦北岐滩涂｜粉色日出攻略 (362赞)
 > 运气好能看到粉色日出，建议提前查天气和潮汐。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6962c9c6000000000a030922)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6962c9c6000000000a030922) · [App打开](xhsdiscover://item/6962c9c6000000000a030922)
 
 <ImageGallery :images="[
   { src: '/images/spots/fuding-xiapu-spots-霞浦北岐滩涂-050-0.webp', alt: '北岐滩涂日出光影' },
@@ -141,11 +141,11 @@ driving: "2.7小时"
 
 > [!NOTE] 个人分享一下在福州的旅游经验 (14592赞)
 > 三坊七巷、上下杭、烟台山是福州市区必去三件套。建议按这个顺序走，距离相近，半天可以串完。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6a0d66810000000007026daf)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a0d66810000000007026daf) · [App打开](xhsdiscover://item/6a0d66810000000007026daf)
 
 > [!NOTE] 管你什么洋牌 来福州都得说中国话 (8492赞)
 > 三坊七巷里所有品牌门店都用中文招牌，星巴克变"星巴克咖啡"，很有福州特色。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6a33a1950000000017028bfd)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a33a1950000000017028bfd) · [App打开](xhsdiscover://item/6a33a1950000000017028bfd)
 
 <ImageGallery :images="[
   { src: '/images/spots/fuzhou-spots-福州三坊七巷-000-0.webp', alt: '三坊七巷街景' },
@@ -178,11 +178,11 @@ driving: "2.7小时"
 
 > [!NOTE] 福州上下杭｜1小时17个打卡点闭环漫步指南 (2581赞)
 > 上下杭可以一个小时走完17个打卡点，形成闭环路线。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/697aea4e0000000009038b7c)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/697aea4e0000000009038b7c) · [App打开](xhsdiscover://item/697aea4e0000000009038b7c)
 
 > [!NOTE] 福州 我舍不得公开的小店（第一家）(4380赞)
 > 上下杭有很多藏在巷子里的宝藏小店，值得慢慢发掘。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/692e583c000000001f0091f1)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/692e583c000000001f0091f1) · [App打开](xhsdiscover://item/692e583c000000001f0091f1)
 
 <ImageGallery :images="[
   { src: '/images/spots/fuzhou-spots-福州上下杭-009-0.webp', alt: '上下杭历史街区' },
@@ -226,15 +226,15 @@ driving: "2.7小时"
 
 > [!NOTE] 烟台山 (23371赞)
 > 福州烟台山，百年洋楼与闽江交相辉映，Citywalk绝佳目的地。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6a9b5617000000002502db69)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a9b5617000000002502db69) · [App打开](xhsdiscover://item/6a9b5617000000002502db69)
 
 > [!NOTE] 福州烟台山｜沉浸式Citywalk (7393赞)
 > 烟台山Citywalk路线，串联所有核心建筑和观景点。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/697092f5000000000b010a39)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/697092f5000000000b010a39) · [App打开](xhsdiscover://item/697092f5000000000b010a39)
 
 > [!NOTE] 中国版里约热内卢 (5182赞)
 > 从烟台山山顶俯瞰闽江的角度，和里约热内卢基督山看瓜纳巴拉湾神似。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/68fc74670000000005002f3f)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68fc74670000000005002f3f) · [App打开](xhsdiscover://item/68fc74670000000005002f3f)
 
 <ImageGallery :images="[
   { src: '/images/spots/fuzhou-spots-福州烟台山-018-0.webp', alt: '烟台山百年洋楼' },
@@ -268,7 +268,7 @@ driving: "2.7小时"
 
 > [!NOTE] 在福州打卡亚洲最大的海鲜市场 (899赞)
 > 规模震撼，各种海鲜品种齐全，价格比餐厅便宜很多。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/68b46b43000000001d018b2d)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68b46b43000000001d018b2d) · [App打开](xhsdiscover://item/68b46b43000000001d018b2d)
 
 <ImageGallery :images="[
   { src: '/images/food/fuzhou-food-福州海鲜市场-099-0.webp', alt: '亚洲最大海鲜市场' },
@@ -279,8 +279,8 @@ driving: "2.7小时"
 
 福州还有一些小众但很有特色的地方，时间充裕可以加：
 
-- **"到此作甚"寺庙**（16249赞）：福州很有禅意的寺庙，门口写着"到此作甚"四个字，很有意思。[查看原帖](https://www.xiaohongshu.com/explore/6953db82000000001e016cfb)
-- **福州最lalaland的地方**（7819赞）：完全还原电影场景的拍摄地。[查看原帖](https://www.xiaohongshu.com/explore/6a1c255b0000000008002a0a)
+- **"到此作甚"寺庙**（16249赞）：福州很有禅意的寺庙，门口写着"到此作甚"四个字，很有意思。[查看原帖](https://www.xiaohongshu.com/explore/6953db82000000001e016cfb) · [App打开](xhsdiscover://item/6953db82000000001e016cfb)
+- **福州最lalaland的地方**（7819赞）：完全还原电影场景的拍摄地。[查看原帖](https://www.xiaohongshu.com/explore/6a1c255b0000000008002a0a) · [App打开](xhsdiscover://item/6a1c255b0000000008002a0a)
 
 ## 今日美食
 
@@ -292,7 +292,7 @@ driving: "2.7小时"
 
 > [!NOTE] 霞浦三沙镇，严重被低估的美食小镇 (450赞)
 > 三沙镇的海鲜粥和本地小吃性价比极高。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/68d969cd000000001203d183)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68d969cd000000001203d183) · [App打开](xhsdiscover://item/68d969cd000000001203d183)
 
 ### 午餐：福州小吃大集合
 
@@ -317,7 +317,7 @@ driving: "2.7小时"
 
 > [!NOTE] 福建福州美食地图 (1111赞)
 > 锅边糊是福州早餐的灵魂，一碗鲜到眉毛掉下来。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/694e4650000000001e03bee8)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/694e4650000000001e03bee8) · [App打开](xhsdiscover://item/694e4650000000001e03bee8)
 
 <ImageGallery :images="[
   { src: '/images/food/fuzhou-food-福州锅边糊-081-0.webp', alt: '福州锅边糊' },
@@ -342,7 +342,7 @@ driving: "2.7小时"
 
 > [!NOTE] 李立群：爱吃福州鱼丸，买一包都舍不得煮 (863赞)
 > 连台湾演员李立群都对福州鱼丸念念不忘。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6a6c4299000000003301068d)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a6c4299000000003301068d) · [App打开](xhsdiscover://item/6a6c4299000000003301068d)
 
 <ImageGallery :images="[
   { src: '/images/food/fuzhou-food-福州鱼丸-072-0.webp', alt: '福州鱼丸' },
@@ -368,7 +368,7 @@ driving: "2.7小时"
 
 > [!NOTE] 福建特产 -- 福州肉燕 (3434赞)
 > 肉燕是福州最有代表性的非遗美食，燕皮制作工艺复杂，一片燕皮要捶打上千次。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/680780dd00000000070371cb)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/680780dd00000000070371cb) · [App打开](xhsdiscover://item/680780dd00000000070371cb)
 
 <ImageGallery :images="[
   { src: '/images/food/fuzhou-food-福州肉燕-117-0.webp', alt: '福州肉燕' },
@@ -384,15 +384,15 @@ driving: "2.7小时"
 
 > [!NOTE] 女生来了福州早市根本走不动道儿 (6891赞)
 > 福州的早市和小吃街种类多到吃不完，每样都想尝一口。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/68d8fc270000000013014a18)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68d8fc270000000013014a18) · [App打开](xhsdiscover://item/68d8fc270000000013014a18)
 
 > [!NOTE] 来了福州才知道之前看的攻略有多吓人 (5956赞)
 > 福州美食远超预期，小吃种类之多令人惊讶。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6a57aa1f000000000803f3a9)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a57aa1f000000000803f3a9) · [App打开](xhsdiscover://item/6a57aa1f000000000803f3a9)
 
 > [!NOTE] 关于我在福州两天吃了30顿 (5578赞)
 > 附不踩雷攻略，把福州能吃的全吃了一遍。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6a56d3b9000000001003ddbd)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a56d3b9000000001003ddbd) · [App打开](xhsdiscover://item/6a56d3b9000000001003ddbd)
 
 <ImageGallery :images="[
   { src: '/images/food/fuzhou-food-福州小吃-063-0.webp', alt: '福州早市小吃' },
@@ -419,11 +419,11 @@ driving: "2.7小时"
 
 > [!NOTE] 福州新开的！个人觉得无法超越的佛跳墙 (5153赞)
 > 这家佛跳墙用料扎实，汤底浓郁到不像话。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/69f0506900000000350207d1)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/69f0506900000000350207d1) · [App打开](xhsdiscover://item/69f0506900000000350207d1)
 
 > [!NOTE] 福州街头25元鲟饭，28元佛跳墙，性价比拉满 (3124赞)
 > 福州街头的平价佛跳墙，28元一碗，料足汤鲜，旅行者的福音。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/697eab93000000000a02fac2)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/697eab93000000000a02fac2) · [App打开](xhsdiscover://item/697eab93000000000a02fac2)
 
 <ImageGallery :images="[
   { src: '/images/food/fuzhou-food-福州佛跳墙-090-0.webp', alt: '福州佛跳墙' },
@@ -437,7 +437,7 @@ driving: "2.7小时"
 
 > [!NOTE] 福州最好逛的夜市在这里 (821赞)
 > 周末还来！福州夜市小吃种类多，价格实惠。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/682dba310000000012000a29)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/682dba310000000012000a29) · [App打开](xhsdiscover://item/682dba310000000012000a29)
 
 ## 今晚重点：福州温泉泡澡
 
@@ -467,15 +467,15 @@ driving: "2.7小时"
 
 > [!NOTE] 不得了的福州泡澡体验 (4914赞)
 > 福州的温泉澡堂太舒服了，几十块钱泡天然温泉，本地人的日常生活。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6975fd41000000001a03029b)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6975fd41000000001a03029b) · [App打开](xhsdiscover://item/6975fd41000000001a03029b)
 
 > [!NOTE] 本次福州之行最期待的环节！(3729赞)
 > 福州温泉果然名不虚传，泡完整个人都放松了。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/698968e1000000000a031e52)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/698968e1000000000a031e52) · [App打开](xhsdiscover://item/698968e1000000000a031e52)
 
 > [!NOTE] 福州大学生勇闯温泉中心 (2463赞)
 > 详细记录了福州温泉中心的体验过程和注意事项。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/67cd0274000000001203d8e3)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/67cd0274000000001203d8e3) · [App打开](xhsdiscover://item/67cd0274000000001203d8e3)
 
 <ImageGallery :images="[
   { src: '/images/sleep/fuzhou-sleep-福州温泉-144-0.webp', alt: '福州温泉泡澡体验' },
@@ -517,21 +517,21 @@ driving: "2.7小时"
 
 > [!NOTE] 福州站停车24小时封顶20元 (327赞)
 > 福州站附近停车场24小时封顶只要20元，适合过夜。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/682ad6ab000000001101e3f9)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/682ad6ab000000001101e3f9) · [App打开](xhsdiscover://item/682ad6ab000000001101e3f9)
 
 > [!NOTE] 福建10大绝美床车过夜露营点（个人亲测）(508赞)
 > 福建各地适合床车过夜的露营点汇总，含福州点位。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/68fadef1000000000700c4bc)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/68fadef1000000000700c4bc) · [App打开](xhsdiscover://item/68fadef1000000000700c4bc)
 
 ### 福州停车攻略
 
 > [!TIP] 福州便宜停车场信息汇总 (3367赞)
 > 福州分享各种便宜/免费停车场信息，自驾游必看。包括各商场免费停车时长、路边免费时段等。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/664dc61000000000150092c2)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/664dc61000000000150092c2) · [App打开](xhsdiscover://item/664dc61000000000150092c2)
 
 > [!TIP] 福州免费停车的宝藏商场攻略 (990赞)
 > 多个商场提供免费停车，消费满一定金额还可延长免费时长。白天游玩时可以利用。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/67c976d6000000002900b959)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/67c976d6000000002900b959) · [App打开](xhsdiscover://item/67c976d6000000002900b959)
 
 <ImageGallery :images="[
   { src: '/images/sleep/fuzhou-sleep-福州免费停车-135-0.webp', alt: '福州便宜停车场汇总' },
@@ -558,7 +558,7 @@ driving: "2.7小时"
 
 > [!NOTE] 福建不做攻略瞎买版伴手礼 (2042赞)
 > 福建各地特产购买建议，包括肉燕、鱼丸、茶叶等。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/69a151d2000000000e00e921)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/69a151d2000000000e00e921) · [App打开](xhsdiscover://item/69a151d2000000000e00e921)
 
 <ImageGallery :images="[
   { src: '/images/food/fuzhou-food-福州特产-162-0.webp', alt: '福建特产' },
@@ -629,23 +629,23 @@ driving: "2.7小时"
 
 > [!NOTE] 建议所有景区向武夷山学习 (29473赞)
 > 武夷山景区管理和体验的标杆级帖子。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6a2e85d8000000001603c200)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a2e85d8000000001603c200) · [App打开](xhsdiscover://item/6a2e85d8000000001603c200)
 
 > [!NOTE] 求武夷山美食 (1589赞)
 > 武夷山美食推荐合集，本地人回复多。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/69bd0c7a000000001f00735f)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/69bd0c7a000000001f00735f) · [App打开](xhsdiscover://item/69bd0c7a000000001f00735f)
 
 > [!NOTE] 带爸妈去武夷山｜不爬山不累，慢享山水茶香 (690赞)
 > 低精力不爬山的武夷山玩法，适合自驾。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6a3b4084000000002101a470)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a3b4084000000002101a470) · [App打开](xhsdiscover://item/6a3b4084000000002101a470)
 
 > [!NOTE] 武夷山买茶避坑｜200/斤和2000/斤的岩茶 (8赞但实用)
 > 岩茶选购实用指南，避免被宰。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/6a8fe97c000000001f0030ac)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/6a8fe97c000000001f0030ac) · [App打开](xhsdiscover://item/6a8fe97c000000001f0030ac)
 
 > [!NOTE] 武夷山床车自驾最实在的无景交攻略 (102赞)
 > 不买景区交通车的自驾省钱攻略，含停车过夜信息。
-> -- [查看原帖](https://www.xiaohongshu.com/explore/69a03abd000000001d0262c5)
+> -- [查看原帖](https://www.xiaohongshu.com/explore/69a03abd000000001d0262c5) · [App打开](xhsdiscover://item/69a03abd000000001d0262c5)
 
 ## 明日预告
 

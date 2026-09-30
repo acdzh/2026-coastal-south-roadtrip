@@ -23,10 +23,10 @@ SUV后排放倒后形成约1.7-1.9m的平整空间，具体操作：
 
 | 帖子 | 链接 |
 |------|------|
-| 自驾游6年、我的装备收纳清单（3859赞） | [小红书](https://www.xiaohongshu.com/explore/6aaa70ba000000002502c7a1) |
-| 车尾如何改造1米9的大床？纯干货！（2547赞） | [小红书](https://www.xiaohongshu.com/explore/648e8afb00000000130359aa) |
-| 来了！床车睡眠平台DIY教程（超详细）（554赞） | [小红书](https://www.xiaohongshu.com/explore/67050fab000000001902d25b) |
-| 第一次床车体验宣告失败（2875赞） | [小红书](https://www.xiaohongshu.com/explore/69d46eac000000002202b96b) |
+| 自驾游6年、我的装备收纳清单（3859赞） | [小红书](https://www.xiaohongshu.com/explore/6aaa70ba000000002502c7a1) · [App打开](xhsdiscover://item/6aaa70ba000000002502c7a1) |
+| 车尾如何改造1米9的大床？纯干货！（2547赞） | [小红书](https://www.xiaohongshu.com/explore/648e8afb00000000130359aa) · [App打开](xhsdiscover://item/648e8afb00000000130359aa) |
+| 来了！床车睡眠平台DIY教程（超详细）（554赞） | [小红书](https://www.xiaohongshu.com/explore/67050fab000000001902d25b) · [App打开](xhsdiscover://item/67050fab000000001902d25b) |
+| 第一次床车体验宣告失败（2875赞） | [小红书](https://www.xiaohongshu.com/explore/69d46eac000000002202b96b) · [App打开](xhsdiscover://item/69d46eac000000002202b96b) |
 
 ## 通风方案
 
@@ -60,11 +60,11 @@ SUV后排放倒后形成约1.7-1.9m的平整空间，具体操作：
 
 | 帖子 | 链接 |
 |------|------|
-| 睡车里怎么保持空气流通（2334赞） | [小红书](https://www.xiaohongshu.com/explore/673081a9000000001b028f14) |
-| 车中睡眠露营，怎么搞定通风防蚊？（2769赞） | [小红书](https://www.xiaohongshu.com/explore/663ed984000000001e0262b4) |
-| 手搓车床换气系统，超低成本解决驻车闷热（1087赞） | [小红书](https://www.xiaohongshu.com/explore/68061241000000001d0015c6) |
-| 床车遇上暴雨天，怎么收纳？东西全湿了！（10609赞） | [小红书](https://www.xiaohongshu.com/explore/69e0ae5d000000001a0219df) |
-| 雨天床车露营这二个遮雨好物太实用了（488赞） | [小红书](https://www.xiaohongshu.com/explore/6a2f8c1e000000001102c674) |
+| 睡车里怎么保持空气流通（2334赞） | [小红书](https://www.xiaohongshu.com/explore/673081a9000000001b028f14) · [App打开](xhsdiscover://item/673081a9000000001b028f14) |
+| 车中睡眠露营，怎么搞定通风防蚊？（2769赞） | [小红书](https://www.xiaohongshu.com/explore/663ed984000000001e0262b4) · [App打开](xhsdiscover://item/663ed984000000001e0262b4) |
+| 手搓车床换气系统，超低成本解决驻车闷热（1087赞） | [小红书](https://www.xiaohongshu.com/explore/68061241000000001d0015c6) · [App打开](xhsdiscover://item/68061241000000001d0015c6) |
+| 床车遇上暴雨天，怎么收纳？东西全湿了！（10609赞） | [小红书](https://www.xiaohongshu.com/explore/69e0ae5d000000001a0219df) · [App打开](xhsdiscover://item/69e0ae5d000000001a0219df) |
+| 雨天床车露营这二个遮雨好物太实用了（488赞） | [小红书](https://www.xiaohongshu.com/explore/6a2f8c1e000000001102c674) · [App打开](xhsdiscover://item/6a2f8c1e000000001102c674) |
 
 ## 防蚊
 
@@ -135,9 +135,9 @@ SUV后排放倒后形成约1.7-1.9m的平整空间，具体操作：
 
 | 帖子 | 链接 |
 |------|------|
-| 假期出游睡车里这6个保命技能必看！（23479赞） | [小红书](https://www.xiaohongshu.com/explore/680b632c000000001202d19b) |
-| 床车自驾游一定要买睡袋，千万别用被子（2524赞） | [小红书](https://www.xiaohongshu.com/explore/68fd2ce00000000003035e39) |
-| 车里睡觉，是不是最怕这个！（1917赞） | [小红书](https://www.xiaohongshu.com/explore/680850f7000000001b02761d) |
+| 假期出游睡车里这6个保命技能必看！（23479赞） | [小红书](https://www.xiaohongshu.com/explore/680b632c000000001202d19b) · [App打开](xhsdiscover://item/680b632c000000001202d19b) |
+| 床车自驾游一定要买睡袋，千万别用被子（2524赞） | [小红书](https://www.xiaohongshu.com/explore/68fd2ce00000000003035e39) · [App打开](xhsdiscover://item/68fd2ce00000000003035e39) |
+| 车里睡觉，是不是最怕这个！（1917赞） | [小红书](https://www.xiaohongshu.com/explore/680850f7000000001b02761d) · [App打开](xhsdiscover://item/680850f7000000001b02761d) |
 
 ## 洗澡解决方案
 
@@ -153,20 +153,20 @@ SUV后排放倒后形成约1.7-1.9m的平整空间，具体操作：
 
 | 推荐 | 链接 |
 |------|------|
-| 水墨兰亭（搓澡初体验）（271赞） | [小红书](https://www.xiaohongshu.com/explore/6800e065000000001d00acac) |
+| 水墨兰亭（搓澡初体验）（271赞） | [小红书](https://www.xiaohongshu.com/explore/6800e065000000001d00acac) · [App打开](xhsdiscover://item/6800e065000000001d00acac) |
 
 **温州**
 
 | 推荐 | 链接 |
 |------|------|
-| 温州最大方的足浴店（682赞） | [小红书](https://www.xiaohongshu.com/explore/691844100000000007017d20) |
-| 楠溪江泡了20个汤（657赞） | [小红书](https://www.xiaohongshu.com/explore/69225ad5000000001e0372e4) |
+| 温州最大方的足浴店（682赞） | [小红书](https://www.xiaohongshu.com/explore/691844100000000007017d20) · [App打开](xhsdiscover://item/691844100000000007017d20) |
+| 楠溪江泡了20个汤（657赞） | [小红书](https://www.xiaohongshu.com/explore/69225ad5000000001e0372e4) · [App打开](xhsdiscover://item/69225ad5000000001e0372e4) |
 
 **福鼎**
 
 | 推荐 | 链接 |
 |------|------|
-| 福鼎洗浴（131赞） | [小红书](https://www.xiaohongshu.com/explore/6a7f3b660000000022010879) |
+| 福鼎洗浴（131赞） | [小红书](https://www.xiaohongshu.com/explore/6a7f3b660000000022010879) · [App打开](xhsdiscover://item/6a7f3b660000000022010879) |
 
 **福州（温泉之都，强烈推荐）**
 
@@ -174,9 +174,9 @@ SUV后排放倒后形成约1.7-1.9m的平整空间，具体操作：
 
 | 推荐 | 链接 |
 |------|------|
-| 不得了的福州泡澡体验（4914赞） | [小红书](https://www.xiaohongshu.com/explore/6975fd41000000001a03029b) |
-| 本次福州之行最期待的环节！（3729赞） | [小红书](https://www.xiaohongshu.com/explore/698968e1000000000a031e52) |
-| 福州大学生勇闯温泉中心（2463赞） | [小红书](https://www.xiaohongshu.com/explore/67cd0274000000001203d8e3) |
+| 不得了的福州泡澡体验（4914赞） | [小红书](https://www.xiaohongshu.com/explore/6975fd41000000001a03029b) · [App打开](xhsdiscover://item/6975fd41000000001a03029b) |
+| 本次福州之行最期待的环节！（3729赞） | [小红书](https://www.xiaohongshu.com/explore/698968e1000000000a031e52) · [App打开](xhsdiscover://item/698968e1000000000a031e52) |
+| 福州大学生勇闯温泉中心（2463赞） | [小红书](https://www.xiaohongshu.com/explore/67cd0274000000001203d8e3) · [App打开](xhsdiscover://item/67cd0274000000001203d8e3) |
 
 ### 方案二：24小时健身房日卡
 
@@ -184,7 +184,7 @@ SUV后排放倒后形成约1.7-1.9m的平整空间，具体操作：
 
 | 推荐 | 链接 |
 |------|------|
-| 台州24小时健身房（221赞） | [小红书](https://www.xiaohongshu.com/explore/6995c6d6000000002802224b) |
+| 台州24小时健身房（221赞） | [小红书](https://www.xiaohongshu.com/explore/6995c6d6000000002802224b) · [App打开](xhsdiscover://item/6995c6d6000000002802224b) |
 
 ### 方案三：便携淋浴
 
@@ -196,9 +196,9 @@ SUV后排放倒后形成约1.7-1.9m的平整空间，具体操作：
 
 | 帖子 | 链接 |
 |------|------|
-| 床车自驾怎么洗澡，教你三招（2537赞） | [小红书](https://www.xiaohongshu.com/explore/69e18981000000002202a6f5) |
-| 露营/自驾天天睡车里怎么洗澡上厕所？（2436赞） | [小红书](https://www.xiaohongshu.com/explore/685a74b30000000012015326) |
-| 服务区过夜收超时费吗？如何做饭、洗澡上厕？（1830赞） | [小红书](https://www.xiaohongshu.com/explore/69e5ba4d000000002102db39) |
+| 床车自驾怎么洗澡，教你三招（2537赞） | [小红书](https://www.xiaohongshu.com/explore/69e18981000000002202a6f5) · [App打开](xhsdiscover://item/69e18981000000002202a6f5) |
+| 露营/自驾天天睡车里怎么洗澡上厕所？（2436赞） | [小红书](https://www.xiaohongshu.com/explore/685a74b30000000012015326) · [App打开](xhsdiscover://item/685a74b30000000012015326) |
+| 服务区过夜收超时费吗？如何做饭、洗澡上厕？（1830赞） | [小红书](https://www.xiaohongshu.com/explore/69e5ba4d000000002102db39) · [App打开](xhsdiscover://item/69e5ba4d000000002102db39) |
 
 ### 洗澡节奏建议
 
@@ -220,39 +220,39 @@ SUV后排放倒后形成约1.7-1.9m的平整空间，具体操作：
 
 | 推荐 | 链接 |
 |------|------|
-| 台州绝佳露营点山顶洞穴（393赞） | [小红书](https://www.xiaohongshu.com/explore/6829e1d50000000022024c11) |
-| 床车自驾-玉环牛头颈日出（187赞） | [小红书](https://www.xiaohongshu.com/explore/696180e0000000002103d476) |
+| 台州绝佳露营点山顶洞穴（393赞） | [小红书](https://www.xiaohongshu.com/explore/6829e1d50000000022024c11) · [App打开](xhsdiscover://item/6829e1d50000000022024c11) |
+| 床车自驾-玉环牛头颈日出（187赞） | [小红书](https://www.xiaohongshu.com/explore/696180e0000000002103d476) · [App打开](xhsdiscover://item/696180e0000000002103d476) |
 
 ### 温州/洞头
 
 | 推荐 | 链接 |
 |------|------|
-| 温州洞头岛绝美床车露营点（73赞） | [小红书](https://www.xiaohongshu.com/explore/69dcef59000000001a037537) |
-| 温州市区床车过夜露营地推荐（100赞） | [小红书](https://www.xiaohongshu.com/explore/68e2806e000000000303932f) |
-| 洞头露营避坑！别再瞎绕了（69赞） | [小红书](https://www.xiaohongshu.com/explore/68e34ed40000000004001415) |
+| 温州洞头岛绝美床车露营点（73赞） | [小红书](https://www.xiaohongshu.com/explore/69dcef59000000001a037537) · [App打开](xhsdiscover://item/69dcef59000000001a037537) |
+| 温州市区床车过夜露营地推荐（100赞） | [小红书](https://www.xiaohongshu.com/explore/68e2806e000000000303932f) · [App打开](xhsdiscover://item/68e2806e000000000303932f) |
+| 洞头露营避坑！别再瞎绕了（69赞） | [小红书](https://www.xiaohongshu.com/explore/68e34ed40000000004001415) · [App打开](xhsdiscover://item/68e34ed40000000004001415) |
 
 ### 霞浦
 
 | 推荐 | 链接 |
 |------|------|
-| 床车过夜露营点记录（福建版）（599赞） | [小红书](https://www.xiaohongshu.com/explore/68eb564400000000040122cb) |
-| 霞浦免费小众床车露营看日出地点（111赞） | [小红书](https://www.xiaohongshu.com/explore/68e088990000000005002af1) |
-| 霞浦蜘蛛网大桥停车场（105赞） | [小红书](https://www.xiaohongshu.com/explore/6731e8ad000000001b0114ce) |
+| 床车过夜露营点记录（福建版）（599赞） | [小红书](https://www.xiaohongshu.com/explore/68eb564400000000040122cb) · [App打开](xhsdiscover://item/68eb564400000000040122cb) |
+| 霞浦免费小众床车露营看日出地点（111赞） | [小红书](https://www.xiaohongshu.com/explore/68e088990000000005002af1) · [App打开](xhsdiscover://item/68e088990000000005002af1) |
+| 霞浦蜘蛛网大桥停车场（105赞） | [小红书](https://www.xiaohongshu.com/explore/6731e8ad000000001b0114ce) · [App打开](xhsdiscover://item/6731e8ad000000001b0114ce) |
 
 ### 福州
 
 | 推荐 | 链接 |
 |------|------|
-| 福建10大绝美床车过夜露营点（508赞） | [小红书](https://www.xiaohongshu.com/explore/68fadef1000000000700c4bc) |
-| 福州站停车24小时封顶20元（327赞） | [小红书](https://www.xiaohongshu.com/explore/682ad6ab000000001101e3f9) |
-| 福州自驾床车绝佳露营地（303赞） | [小红书](https://www.xiaohongshu.com/explore/68de7219000000000503b32a) |
+| 福建10大绝美床车过夜露营点（508赞） | [小红书](https://www.xiaohongshu.com/explore/68fadef1000000000700c4bc) · [App打开](xhsdiscover://item/68fadef1000000000700c4bc) |
+| 福州站停车24小时封顶20元（327赞） | [小红书](https://www.xiaohongshu.com/explore/682ad6ab000000001101e3f9) · [App打开](xhsdiscover://item/682ad6ab000000001101e3f9) |
+| 福州自驾床车绝佳露营地（303赞） | [小红书](https://www.xiaohongshu.com/explore/68de7219000000000503b32a) · [App打开](xhsdiscover://item/68de7219000000000503b32a) |
 
 ### 衢州
 
 | 推荐 | 链接 |
 |------|------|
-| 衢州自驾旅游停车4元停一天！（183赞） | [小红书](https://www.xiaohongshu.com/explore/67f4f927000000001c00887d) |
-| 衢州不收费过夜停车场（110赞） | [小红书](https://www.xiaohongshu.com/explore/68e1cffc000000000301d41d) |
+| 衢州自驾旅游停车4元停一天！（183赞） | [小红书](https://www.xiaohongshu.com/explore/67f4f927000000001c00887d) · [App打开](xhsdiscover://item/67f4f927000000001c00887d) |
+| 衢州不收费过夜停车场（110赞） | [小红书](https://www.xiaohongshu.com/explore/68e1cffc000000000301d41d) · [App打开](xhsdiscover://item/68e1cffc000000000301d41d) |
 
 ## 海边停车特别注意
 
@@ -266,8 +266,8 @@ SUV后排放倒后形成约1.7-1.9m的平整空间，具体操作：
 
 | 帖子 | 链接 |
 |------|------|
-| 海口特斯拉血泪教训，不要低估海边气候（14赞） | [小红书](https://www.xiaohongshu.com/explore/6a742b8300000000250041fb) |
-| 海边空气盐分重，新RAV4也扛不住锈！（12赞） | [小红书](https://www.xiaohongshu.com/explore/67c35852000000002503ef24) |
+| 海口特斯拉血泪教训，不要低估海边气候（14赞） | [小红书](https://www.xiaohongshu.com/explore/6a742b8300000000250041fb) · [App打开](xhsdiscover://item/6a742b8300000000250041fb) |
+| 海边空气盐分重，新RAV4也扛不住锈！（12赞） | [小红书](https://www.xiaohongshu.com/explore/67c35852000000002503ef24) · [App打开](xhsdiscover://item/67c35852000000002503ef24) |
 
 ### 自驾看海上日出
 
@@ -275,5 +275,5 @@ SUV后排放倒后形成约1.7-1.9m的平整空间，具体操作：
 
 | 帖子 | 链接 |
 |------|------|
-| 自驾看海上日出，0元入住无遮挡海景房（1249赞） | [小红书](https://www.xiaohongshu.com/explore/68a53b7a000000001d025da9) |
-| 住车里看海边日出（2063赞） | [小红书](https://www.xiaohongshu.com/explore/66fdd68d000000002a0375a0) |
+| 自驾看海上日出，0元入住无遮挡海景房（1249赞） | [小红书](https://www.xiaohongshu.com/explore/68a53b7a000000001d025da9) · [App打开](xhsdiscover://item/68a53b7a000000001d025da9) |
+| 住车里看海边日出（2063赞） | [小红书](https://www.xiaohongshu.com/explore/66fdd68d000000002a0375a0) · [App打开](xhsdiscover://item/66fdd68d000000002a0375a0) |

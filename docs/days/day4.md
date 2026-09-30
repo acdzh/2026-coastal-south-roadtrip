@@ -76,12 +76,12 @@ driving: "1.1小时"
 
 > [!WARNING] 避坑提示
 > 路边小摊的福鼎肉片慎选，有帖子专门提醒"小摊卖的福鼎肉片不能吃"(1012赞)，肉质来源不明。优先选有门面的老店。
-> -- [为啥小摊卖的福鼎肉片不能吃？](https://www.xiaohongshu.com/explore/691ff986000000000d0391a3)
+> -- [为啥小摊卖的福鼎肉片不能吃？](https://www.xiaohongshu.com/explore/691ff986000000000d0391a3) · [App打开](xhsdiscover://item/691ff986000000000d0391a3)
 
 小红书参考：
-- [福鼎人肉片 (7848赞)](https://www.xiaohongshu.com/explore/698ac081000000001a021df0)
-- [怀疑里面加了罂粟壳 (7589赞)](https://www.xiaohongshu.com/explore/68d57081000000000b03fe1a)
-- [为啥福鼎肉片的汤这么好喝！！！ (6925赞)](https://www.xiaohongshu.com/explore/69d8a3e4000000001b002d97)
+- [福鼎人肉片 (7848赞)](https://www.xiaohongshu.com/explore/698ac081000000001a021df0) · [App打开](xhsdiscover://item/698ac081000000001a021df0)
+- [怀疑里面加了罂粟壳 (7589赞)](https://www.xiaohongshu.com/explore/68d57081000000000b03fe1a) · [App打开](xhsdiscover://item/68d57081000000000b03fe1a)
+- [为啥福鼎肉片的汤这么好喝！！！ (6925赞)](https://www.xiaohongshu.com/explore/69d8a3e4000000001b002d97) · [App打开](xhsdiscover://item/69d8a3e4000000001b002d97)
 
 <ImageGallery :images="[
   { src: '/images/food/fuding-xiapu-food-福鼎美食-090-0.webp', alt: '福鼎肉片' },
@@ -112,11 +112,11 @@ driving: "1.1小时"
 
 > [!TIP] 白茶选购要点
 > 一图看懂4大白茶怎么选：白毫银针（芽头，最贵）、白牡丹（一芽一叶/二叶，均衡）、贡眉（群体种，传统）、寿眉（叶片为主，便宜大碗）。新手买白牡丹或寿眉就够了。
-> -- [一图看懂4大白茶怎么选！](https://www.xiaohongshu.com/explore/69c109a40000000022001dd6)
+> -- [一图看懂4大白茶怎么选！](https://www.xiaohongshu.com/explore/69c109a40000000022001dd6) · [App打开](xhsdiscover://item/69c109a40000000022001dd6)
 
 小红书参考：
-- [福鼎白茶交易中心买白茶 (238赞)](https://www.xiaohongshu.com/explore/64a93dd400000000120107f5)
-- [福鼎白茶购买指南-初级篇 (147赞)](https://www.xiaohongshu.com/explore/64eb64650000000010031960)
+- [福鼎白茶交易中心买白茶 (238赞)](https://www.xiaohongshu.com/explore/64a93dd400000000120107f5) · [App打开](xhsdiscover://item/64a93dd400000000120107f5)
+- [福鼎白茶购买指南-初级篇 (147赞)](https://www.xiaohongshu.com/explore/64eb64650000000010031960) · [App打开](xhsdiscover://item/64eb64650000000010031960)
 
 <ImageGallery :images="[
   { src: '/images/food/fuding-xiapu-food-福鼎白茶怎么买-190-0.webp', alt: '福鼎白茶交易中心' },
@@ -147,8 +147,8 @@ driving: "1.1小时"
 | 建议停留 | 15-20分钟，拍拍照就走 |
 
 小红书参考：
-- [海啊！怎么连沙滩都有牛郎滩和织女滩！！ (171赞)](https://www.xiaohongshu.com/explore/6a39b0080000000022008a15)
-- [福鼎的海可真蓝啊 (148赞)](https://www.xiaohongshu.com/explore/68e11cbc0000000003011f21)
+- [海啊！怎么连沙滩都有牛郎滩和织女滩！！ (171赞)](https://www.xiaohongshu.com/explore/6a39b0080000000022008a15) · [App打开](xhsdiscover://item/6a39b0080000000022008a15)
+- [福鼎的海可真蓝啊 (148赞)](https://www.xiaohongshu.com/explore/68e11cbc0000000003011f21) · [App打开](xhsdiscover://item/68e11cbc0000000003011f21)
 
 <ImageGallery :images="[
   { src: '/images/spots/fuding-xiapu-spots-福鼎牛郎岗-080-0.webp', alt: '牛郎岗沙滩' },
@@ -160,7 +160,7 @@ driving: "1.1小时"
 
 > [!WARNING] 太姥山 = 跳过
 > 太姥山是福鼎最知名的景点，但核心景区需要爬山（而且据说是"爬过最有趣的山"，有各种钻洞穿缝的体验）。既然不爬山，太姥山景区就不安排了。228国道沿途远眺太姥山山体即可，不用进景区。
-> -- [尝试了下0元花销爬太姥山 (617赞)](https://www.xiaohongshu.com/explore/683d609d0000000012001704)
+> -- [尝试了下0元花销爬太姥山 (617赞)](https://www.xiaohongshu.com/explore/683d609d0000000012001704) · [App打开](xhsdiscover://item/683d609d0000000012001704)
 
 ## 午餐：三沙镇海鲜
 
@@ -182,12 +182,12 @@ driving: "1.1小时"
 
 > [!NOTE] 三沙 = 被低估的美食小镇 (450赞)
 > 霞浦三沙镇因为摄影圣地的名头，大家都来拍照走人，反而忽略了这里的美食。作为霞浦最大渔港，海鲜新鲜度碾压县城，价格也更实在。
-> -- [（合集）霞浦三沙镇，严重被低估的美食小镇](https://www.xiaohongshu.com/explore/68d969cd000000001203d183)
+> -- [（合集）霞浦三沙镇，严重被低估的美食小镇](https://www.xiaohongshu.com/explore/68d969cd000000001203d183) · [App打开](xhsdiscover://item/68d969cd000000001203d183)
 
 小红书参考：
-- [（合集）霞浦三沙镇，严重被低估的美食小镇 (450赞)](https://www.xiaohongshu.com/explore/68d969cd000000001203d183)
-- [福建霞浦4天4晚自驾游 东线 (384赞)](https://www.xiaohongshu.com/explore/68dd25b5000000000302cc31)
-- [霞浦city walk 一日游 (340赞)](https://www.xiaohongshu.com/explore/6ab23c3a000000003a02da39)
+- [（合集）霞浦三沙镇，严重被低估的美食小镇 (450赞)](https://www.xiaohongshu.com/explore/68d969cd000000001203d183) · [App打开](xhsdiscover://item/68d969cd000000001203d183)
+- [福建霞浦4天4晚自驾游 东线 (384赞)](https://www.xiaohongshu.com/explore/68dd25b5000000000302cc31) · [App打开](xhsdiscover://item/68dd25b5000000000302cc31)
+- [霞浦city walk 一日游 (340赞)](https://www.xiaohongshu.com/explore/6ab23c3a000000003a02da39) · [App打开](xhsdiscover://item/6ab23c3a000000003a02da39)
 
 <ImageGallery :images="[
   { src: '/images/spots/fuding-xiapu-spots-霞浦三沙-030-0.webp', alt: '三沙镇美食' },
@@ -206,7 +206,7 @@ driving: "1.1小时"
 | 参考价格 | 有帖子附了详细价格表（见下方链接） |
 
 小红书参考：
-- [霞浦自驾游 菜市场海鲜篇（附价格） (453赞)](https://www.xiaohongshu.com/explore/68e5e850000000000401038b)
+- [霞浦自驾游 菜市场海鲜篇（附价格） (453赞)](https://www.xiaohongshu.com/explore/68e5e850000000000401038b) · [App打开](xhsdiscover://item/68e5e850000000000401038b)
 
 ## 核心目的地：霞浦滩涂摄影
 
@@ -216,7 +216,7 @@ driving: "1.1小时"
 
 > [!NOTE] 霞浦本地人实话 (1978赞)
 > 这篇帖子是霞浦本地人写的，实话实说哪些点值得去、哪些是"照骗"。核心结论：东壁村日落必去，小皓沙滩看潮汐条件，北岐滩涂日出必去。
-> -- [霞浦本地人实话](https://www.xiaohongshu.com/explore/6869bf7b000000000d018268)
+> -- [霞浦本地人实话](https://www.xiaohongshu.com/explore/6869bf7b000000000d018268) · [App打开](xhsdiscover://item/6869bf7b000000000d018268)
 
 <ImageGallery :images="[
   { src: '/images/spots/fuding-xiapu-spots-霞浦滩涂-010-0.webp', alt: '霞浦滩涂光影' },
@@ -249,9 +249,9 @@ driving: "1.1小时"
 > 霞浦摄影和潮汐关系极大。退潮时滩涂露出，纹理、水道、渔网全部显现，才有那种经典画面。如果到了正好涨潮，沙滩全淹了，就白跑一趟。出发前用App查一下当天潮汐时间。
 
 小红书参考：
-- [要多出去溜达溜达~霞浦3天2夜攻略 (579赞)](https://www.xiaohongshu.com/explore/6a5f8a790000000011012f71)
-- [霞浦赶海 干货满满 新手零基础直接冲 (510赞)](https://www.xiaohongshu.com/explore/69f743bc0000000038023b72)
-- [霞浦两日游！没踩雷！还不错！ (492赞)](https://www.xiaohongshu.com/explore/6923045d000000001e00ddc9)
+- [要多出去溜达溜达~霞浦3天2夜攻略 (579赞)](https://www.xiaohongshu.com/explore/6a5f8a790000000011012f71) · [App打开](xhsdiscover://item/6a5f8a790000000011012f71)
+- [霞浦赶海 干货满满 新手零基础直接冲 (510赞)](https://www.xiaohongshu.com/explore/69f743bc0000000038023b72) · [App打开](xhsdiscover://item/69f743bc0000000038023b72)
+- [霞浦两日游！没踩雷！还不错！ (492赞)](https://www.xiaohongshu.com/explore/6923045d000000001e00ddc9) · [App打开](xhsdiscover://item/6923045d000000001e00ddc9)
 
 <ImageGallery :images="[
   { src: '/images/spots/fuding-xiapu-spots-霞浦小皓沙滩-070-0.webp', alt: '小皓沙滩' },
@@ -282,16 +282,16 @@ driving: "1.1小时"
 
 > [!NOTE] 东壁村 = 霞浦日落天花板
 > 东壁村朝西，正对落日方向。日落时分，阳光穿过云层洒在滩涂和海面上，紫菜架、渔船变成剪影。晴天是金色大片，多云天有丁达尔光更震撼。即使阴天，暮色中的东壁村也有独特韵味。
-> -- [秋冬看海一定要来霞浦！这里中国最美的滩涂 (1679赞)](https://www.xiaohongshu.com/explore/68f324c400000000050136c7)
+> -- [秋冬看海一定要来霞浦！这里中国最美的滩涂 (1679赞)](https://www.xiaohongshu.com/explore/68f324c400000000050136c7) · [App打开](xhsdiscover://item/68f324c400000000050136c7)
 
 > [!WARNING] 国庆人流
 > 东壁村国庆期间会非常挤，"江浙大军快把霞浦挤摊了"(1632赞)。观景平台位置有限，摄影爱好者三脚架占满。建议：手机拍照灵活移动，不跟三脚架争位。或者走到村子里找别的角度，不一定非要挤观景平台。
-> -- [江浙大军快把霞浦挤摊了](https://www.xiaohongshu.com/explore/69985105000000001a02bdb3)
+> -- [江浙大军快把霞浦挤摊了](https://www.xiaohongshu.com/explore/69985105000000001a02bdb3) · [App打开](xhsdiscover://item/69985105000000001a02bdb3)
 
 小红书参考：
-- [霞浦本地人实话 (1978赞)](https://www.xiaohongshu.com/explore/6869bf7b000000000d018268)
-- [秋冬看海一定要来霞浦！这里中国最美的滩涂 (1679赞)](https://www.xiaohongshu.com/explore/68f324c400000000050136c7)
-- [江浙大军快把霞浦挤摊了 (1632赞)](https://www.xiaohongshu.com/explore/69985105000000001a02bdb3)
+- [霞浦本地人实话 (1978赞)](https://www.xiaohongshu.com/explore/6869bf7b000000000d018268) · [App打开](xhsdiscover://item/6869bf7b000000000d018268)
+- [秋冬看海一定要来霞浦！这里中国最美的滩涂 (1679赞)](https://www.xiaohongshu.com/explore/68f324c400000000050136c7) · [App打开](xhsdiscover://item/68f324c400000000050136c7)
+- [江浙大军快把霞浦挤摊了 (1632赞)](https://www.xiaohongshu.com/explore/69985105000000001a02bdb3) · [App打开](xhsdiscover://item/69985105000000001a02bdb3)
 
 <ImageGallery :images="[
   { src: '/images/spots/fuding-xiapu-spots-霞浦东壁村-060-0.webp', alt: '东壁村日落' },
@@ -325,11 +325,11 @@ driving: "1.1小时"
 | 注意 | 海况不好不开船，需要提前确认。国庆船票紧张。 |
 
 小红书参考：
-- [如果你也想去四礵列岛，看完这一篇就够了！ (5667赞)](https://www.xiaohongshu.com/explore/68b0481a000000001b03f420)
-- [福建真的藏了"人间塞尔达" (4882赞)](https://www.xiaohongshu.com/explore/69f41f17000000001f001bd9)
-- [是草原是大海！江浙沪3h直达的海岛阿勒泰！ (4215赞)](https://www.xiaohongshu.com/explore/69b2a6bd0000000015033d40)
-- [四礵列岛 "人间塞尔达"一日游攻略 (3887赞)](https://www.xiaohongshu.com/explore/6861053d00000000150214c7)
-- [人间塞尔达 四礵列岛一日游攻略 (3469赞)](https://www.xiaohongshu.com/explore/68a084a0000000001d02a47b)
+- [如果你也想去四礵列岛，看完这一篇就够了！ (5667赞)](https://www.xiaohongshu.com/explore/68b0481a000000001b03f420) · [App打开](xhsdiscover://item/68b0481a000000001b03f420)
+- [福建真的藏了"人间塞尔达" (4882赞)](https://www.xiaohongshu.com/explore/69f41f17000000001f001bd9) · [App打开](xhsdiscover://item/69f41f17000000001f001bd9)
+- [是草原是大海！江浙沪3h直达的海岛阿勒泰！ (4215赞)](https://www.xiaohongshu.com/explore/69b2a6bd0000000015033d40) · [App打开](xhsdiscover://item/69b2a6bd0000000015033d40)
+- [四礵列岛 "人间塞尔达"一日游攻略 (3887赞)](https://www.xiaohongshu.com/explore/6861053d00000000150214c7) · [App打开](xhsdiscover://item/6861053d00000000150214c7)
+- [人间塞尔达 四礵列岛一日游攻略 (3469赞)](https://www.xiaohongshu.com/explore/68a084a0000000001d02a47b) · [App打开](xhsdiscover://item/68a084a0000000001d02a47b)
 
 <ImageGallery :images="[
   { src: '/images/spots/fuding-xiapu-spots-霞浦小众-020-0.webp', alt: '四礵列岛 人间塞尔达' },
@@ -344,7 +344,7 @@ driving: "1.1小时"
 **什么情况下跳过**：时间紧或潮汐不对就跳过。赶海需要退潮配合。
 
 小红书参考：
-- [霞浦赶海攻略 (1754赞)](https://www.xiaohongshu.com/explore/681224ed0000000022029e87)
+- [霞浦赶海攻略 (1754赞)](https://www.xiaohongshu.com/explore/681224ed0000000022029e87) · [App打开](xhsdiscover://item/681224ed0000000022029e87)
 
 ## 晚餐：三沙镇
 
@@ -357,8 +357,8 @@ driving: "1.1小时"
 | 推荐 | 中午没吃的海鲜品种晚上补上。或者来碗霞浦米粉/鱼面，简单收工。 |
 
 小红书参考：
-- [没有计划的宁德霞浦旅行 (7558赞)](https://www.xiaohongshu.com/explore/68e75fae00000000040134db)
-- [霞浦美食居然也有鄙视链 (1485赞)](https://www.xiaohongshu.com/explore/6826a595000000000f032c77)
+- [没有计划的宁德霞浦旅行 (7558赞)](https://www.xiaohongshu.com/explore/68e75fae00000000040134db) · [App打开](xhsdiscover://item/68e75fae00000000040134db)
+- [霞浦美食居然也有鄙视链 (1485赞)](https://www.xiaohongshu.com/explore/6826a595000000000f032c77) · [App打开](xhsdiscover://item/6826a595000000000f032c77)
 
 <ImageGallery :images="[
   { src: '/images/food/fuding-xiapu-food-霞浦美食-100-0.webp', alt: '霞浦美食' },
@@ -392,16 +392,16 @@ driving: "1.1小时"
 
 > [!NOTE] 床车过夜露营点记录（福建版）(599赞)
 > 这篇帖子详细记录了福建沿海的床车过夜点，包括霞浦周边的多个免费停车场。有具体坐标和实拍照片，出发前看一下。
-> -- [床车过夜露营点记录（福建版）](https://www.xiaohongshu.com/explore/68eb564400000000040122cb)
+> -- [床车过夜露营点记录（福建版）](https://www.xiaohongshu.com/explore/68eb564400000000040122cb) · [App打开](xhsdiscover://item/68eb564400000000040122cb)
 
 > [!NOTE] 免费小众床车露营看日出地点 (111赞)
 > 专门针对霞浦的床车露营看日出点位推荐，可以停车过夜第二天直接看日出。
-> -- [「宁德霞浦」免费小众床车露营看日出地点](https://www.xiaohongshu.com/explore/68e088990000000005002af1)
+> -- [「宁德霞浦」免费小众床车露营看日出地点](https://www.xiaohongshu.com/explore/68e088990000000005002af1) · [App打开](xhsdiscover://item/68e088990000000005002af1)
 
 小红书参考：
-- [床车过夜露营点记录（福建版） (599赞)](https://www.xiaohongshu.com/explore/68eb564400000000040122cb)
-- [「宁德霞浦」免费小众床车露营看日出地点 (111赞)](https://www.xiaohongshu.com/explore/68e088990000000005002af1)
-- [霞浦蜘蛛网大桥停车场自驾游 (105赞)](https://www.xiaohongshu.com/explore/6731e8ad000000001b0114ce)
+- [床车过夜露营点记录（福建版） (599赞)](https://www.xiaohongshu.com/explore/68eb564400000000040122cb) · [App打开](xhsdiscover://item/68eb564400000000040122cb)
+- [「宁德霞浦」免费小众床车露营看日出地点 (111赞)](https://www.xiaohongshu.com/explore/68e088990000000005002af1) · [App打开](xhsdiscover://item/68e088990000000005002af1)
+- [霞浦蜘蛛网大桥停车场自驾游 (105赞)](https://www.xiaohongshu.com/explore/6731e8ad000000001b0114ce) · [App打开](xhsdiscover://item/6731e8ad000000001b0114ce)
 
 <ImageGallery :images="[
   { src: '/images/sleep/fuding-xiapu-sleep-霞浦免费停车过夜-160-0.webp', alt: '霞浦床车过夜点' },
@@ -420,7 +420,7 @@ driving: "1.1小时"
 
 如果不想睡车：
 - **民宿**：三沙镇和霞浦县城都有民宿，国庆价格约300-600元/晚。建议提前在携程/美团预订。
-- [二刷霞浦，一点建议 (2173赞)](https://www.xiaohongshu.com/explore/68a1ac0a000000001d013a47) -- 这篇有住宿推荐
+- [二刷霞浦，一点建议 (2173赞)](https://www.xiaohongshu.com/explore/68a1ac0a000000001d013a47) · [App打开](xhsdiscover://item/68a1ac0a000000001d013a47) -- 这篇有住宿推荐
 
 ## 明早预告：北岐滩涂日出
 
@@ -433,9 +433,9 @@ driving: "1.1小时"
 > - **今晚务必设好闹钟！这是整个旅程最值得早起的一天。**
 
 小红书参考：
-- [霞浦滩涂 我把中国海岸线的光影拍成壁纸 (601赞)](https://www.xiaohongshu.com/explore/6929673e000000000d0378f2)
-- [霞浦北岐滩涂 粉色日出攻略 (362赞)](https://www.xiaohongshu.com/explore/6962c9c6000000000a030922)
-- [《中国国家地理》没骗我这里真是滩涂天花板！ (352赞)](https://www.xiaohongshu.com/explore/6a2bc1fb0000000015024e8d)
+- [霞浦滩涂 我把中国海岸线的光影拍成壁纸 (601赞)](https://www.xiaohongshu.com/explore/6929673e000000000d0378f2) · [App打开](xhsdiscover://item/6929673e000000000d0378f2)
+- [霞浦北岐滩涂 粉色日出攻略 (362赞)](https://www.xiaohongshu.com/explore/6962c9c6000000000a030922) · [App打开](xhsdiscover://item/6962c9c6000000000a030922)
+- [《中国国家地理》没骗我这里真是滩涂天花板！ (352赞)](https://www.xiaohongshu.com/explore/6a2bc1fb0000000015024e8d) · [App打开](xhsdiscover://item/6a2bc1fb0000000015024e8d)
 
 <ImageGallery :images="[
   { src: '/images/spots/fuding-xiapu-spots-霞浦北岐滩涂-050-0.webp', alt: '北岐滩涂日出' },
