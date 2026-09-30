@@ -4,10 +4,9 @@ export default defineConfig({
   title: '2026国庆 · 浙闽沿海环线自驾',
   description: '上海出发，沿海南下，内陆北上，7天环线自驾攻略',
   lang: 'zh-CN',
-  base: '/2026-coastal-south-roadtrip/',
 
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/2026-coastal-south-roadtrip/favicon.svg' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
   ],
 
   themeConfig: {
