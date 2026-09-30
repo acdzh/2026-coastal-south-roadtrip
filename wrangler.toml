@@ -1,2 +1,5 @@
 name = "2026-roadtrip"
-pages_build_output_dir = "docs/.vitepress/dist"
+compatibility_date = "2026-09-30"
+
+[assets]
+directory = "docs/.vitepress/dist"
