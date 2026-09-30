@@ -325,7 +325,9 @@ driving: "1.1小时"
 | 注意 | 海况不好不开船，需要提前确认。国庆船票紧张。 |
 
 小红书参考：
+- [如果你也想去四礵列岛，看完这一篇就够了！ (5667赞)](https://www.xiaohongshu.com/explore/68b0481a000000001b03f420?xsec_token=ABhSWja_AzlLHsm_1zKBOpG565Xo_34iaiqkxws08dmN8=)
 - [福建真的藏了"人间塞尔达" (4882赞)](https://www.xiaohongshu.com/explore/69f41f17000000001f001bd9?xsec_token=ABe9B9LdDcEmo5bFBszG7ERb5bGw9iLJKGK0a1OWF8vJg=)
+- [是草原是大海！江浙沪3h直达的海岛阿勒泰！ (4215赞)](https://www.xiaohongshu.com/explore/69b2a6bd0000000015033d40?xsec_token=ABsf3VpaJ8kBBL_BfoAXt8poPAXIo1z6eqWRqcMV46oD4=)
 - [四礵列岛 "人间塞尔达"一日游攻略 (3887赞)](https://www.xiaohongshu.com/explore/6861053d00000000150214c7?xsec_token=ABek2lGFrnHwTlaLXgWexTDci7OnH4TSt-2ufckDYdYRA=)
 - [人间塞尔达 四礵列岛一日游攻略 (3469赞)](https://www.xiaohongshu.com/explore/68a084a0000000001d02a47b?xsec_token=ABkMUHi2fP9En53oc40YqxYx_KfHOsWm_efT3m6IKtuFI=)
 

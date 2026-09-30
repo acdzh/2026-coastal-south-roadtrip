@@ -143,6 +143,14 @@ driving: "2.7小时（不含堵车）"
 > 洞头渔村风情，宫崎骏动画感的海边小城。
 > -- [查看原帖](https://www.xiaohongshu.com/explore/6a1fb0720000000022016d0a?xsec_token=AB1_FGrK1h5liwE861IasAmYF54EF7QlBkFhhrjjwicek=)
 
+> [!NOTE] 一定要来一次温州洞头 (3027赞)
+> 洞头海岛全景推荐帖，覆盖多个景点和海岸线。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/69c63242000000001a031eca)
+
+> [!NOTE] 温州海岛游｜吃海鲜看日出日落攻略 (2192赞)
+> 洞头吃海鲜、看日出日落的完整攻略。
+> -- [查看原帖](https://www.xiaohongshu.com/explore/699ad761000000001b01799d)
+
 <ImageGallery :images="[
   { src: '/images/spots/wenzhou-spots-洞头岛攻略-000-0.webp', alt: '洞头岛一日游精华路线' },
   { src: '/images/spots/wenzhou-spots-洞头岛攻略-001-0.webp', alt: '洞头海上列车落日' },

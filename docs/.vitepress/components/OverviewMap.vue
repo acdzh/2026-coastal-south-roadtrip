@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted, onUnmounted } from 'vue'
+import { ref, onMounted, onUnmounted, nextTick } from 'vue'
 import { routes } from '../data/routes'
 
 const mapContainer = ref<HTMLElement>()
@@ -73,13 +73,14 @@ async function initMap() {
 function onKeyChanged() {
   checkKey()
   if (hasKey.value) {
-    initMap()
+    nextTick(() => initMap())
   }
 }
 
-onMounted(() => {
+onMounted(async () => {
   checkKey()
   if (hasKey.value) {
+    await nextTick()
     initMap()
   }
   window.addEventListener('amap-key-changed', onKeyChanged)
