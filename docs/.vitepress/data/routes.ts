@@ -85,17 +85,20 @@ export const routes: DayRoute[] = [
   {
     day: 5,
     from: '霞浦三沙',
-    to: '福州',
-    distance: 184,
-    duration: 162,
-    highway: 'G15→G1505',
+    to: '平潭岛',
+    distance: 304,
+    duration: 252,
+    highway: 'G15→福州→平潭海峡大桥',
     color: '#F44336',
     points: [
       { name: '三沙镇', lng: 120.0731, lat: 26.8830, type: 'start', link: '/days/day5' },
       { name: '北岐滩涂', lng: 120.0150, lat: 26.8800, type: 'spot', description: '国内最美滩涂，日出摄影点' },
       { name: '宁德', lng: 119.5477, lat: 26.6654, type: 'waypoint' },
-      { name: '连江', lng: 119.5394, lat: 26.1975, type: 'waypoint' },
-      { name: '福州三坊七巷', lng: 119.2965, lat: 26.0839, type: 'end', description: '中国历史文化名街', link: '/days/day5#核心目的地-福州' },
+      { name: '福州三坊七巷', lng: 119.2965, lat: 26.0839, type: 'spot', description: '快速游1小时', link: '/days/day5#核心目的地1-三坊七巷-快速游-1-小时' },
+      { name: '平潭海峡大桥', lng: 119.5800, lat: 25.7500, type: 'waypoint', description: '16km跨海大桥' },
+      { name: '北港村', lng: 119.8200, lat: 25.5500, type: 'spot', description: '45191赞石头厝网红村' },
+      { name: '龙凤头海滩', lng: 119.7900, lat: 25.5200, type: 'spot', description: '平潭最大沙滩，看日落' },
+      { name: '平潭岛', lng: 119.7908, lat: 25.5036, type: 'end', description: '离台湾最近的岛，蓝眼泪圣地', link: '/days/day5#核心目的地2-平潭岛-今天重头戏' },
     ]
   },
   {
